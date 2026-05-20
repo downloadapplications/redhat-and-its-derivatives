@@ -14,75 +14,71 @@ jobs:
       image: fedora:40
     steps:
       - name: Install Fundamental Core Utilities
-        run: dnf install -y git jq
+        run: dnf install -y git jq python3
 
       - name: Checkout Source Repository
         uses: actions/checkout@v4
 
-      - name: Extract Live Package Meta via Local DNF Engine
+      - name: Extract Live Package Meta via Python Data Engine
         run: |
           echo "📥 Synchronizing upstream Fedora repositories..."
           dnf makecache
           
           echo "🔨 Pulling bulk package metadata sets via native DNF repoquery..."
-          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.txt
+          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.json
           
-          echo "🧹 Cleaning, filtering, and structural parsing..."
+          echo "🐍 Processing structural compilation via Python Engine..."
+          python3 -c '
+          import json, os, re
+
+          output_packages = []
+          seen_names = set()
+
+          with open("raw_list.json", "r") as f:
+              for line in f:
+                  line = line.strip()
+                  if not line:
+                      continue
+                  try:
+                      pkg = json.loads(line)
+                      name = pkg.get("name", "")
+                      desc = pkg.get("desc", "")
+                      version = pkg.get("version", "")
+                      
+                      # Filter out libraries, debug tools, and duplicate entries
+                      if not name or not desc: continue
+                      if name.startswith("lib") or "-devel" in name or "-debug" in name or "-libs" in name: continue
+                      if name in seen_names: continue
+                      
+                      seen_names.add(name)
+                      
+                      # Safely determine the mirror folder character alignment
+                      first_char = name[0].lower()
+                      if not first_char.isalnum():
+                          first_char = re.sub(r"^[^a-zA-Z0-9]", "", name)[0].lower()
+                      if first_char.isdigit():
+                          first_char = "n"
+                          
+                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{first_char}/{name}-{version}.x86_64.rpm"
+                      
+                      output_packages.append({
+                          "name": name,
+                          "desc": desc,
+                          "package_name": name,
+                          "version": version,
+                          "download_url": url
+                      })
+                  except Exception:
+                      continue # Silently drop malformed raw lines to ensure stability
+
+          # Sort by name and take a clean slice of up to 1000 items
+          output_packages.sort(key=lambda x: x["name"])
+          final_set = output_packages[:1000]
+
+          with open("fedora_packages.json", "w") as out:
+              json.dump(final_set, out, indent=2)
+          '
           
-          # 1. Filter out the noise first using basic jq operations that never fail
-          cat raw_list.txt | jq -s '
-            map(
-              select(.name != null and .desc != null) |
-              select(.name | startswith("lib") | not) |
-              select(.name | contains("-devel") | not) |
-              select(.name | contains("-debug") | not) |
-              select(.name | contains("-libs") | not)
-            ) | 
-            sort_by(.name) | 
-            .[0:1000]
-          ' > filtered_list.json
-
-          # 2. Use a robust bash loop + standard "tr" to build the download URLs safely.
-          # This completely bypasses the broken jq string sub/lowercase bugs.
-          echo "[" > fedora_packages.json
-          first=true
-
-          while read -r ROW; do
-            if [ -z "$ROW" ]; then continue; fi
-            
-            NAME=$(echo "$ROW" | jq -r '.name')
-            DESC=$(echo "$ROW" | jq -r '.desc | @sh' | sed "s/^'//;s/'$//") # Safe escape for quotes
-            PKG_NAME=$(echo "$ROW" | jq -r '.package_name')
-            VERSION=$(echo "$ROW" | jq -r '.version')
-            
-            # Extract first letter and force it to lowercase using standard 'tr'
-            FIRST_LETTER=$(echo "${PKG_NAME:0:1}" | tr '[:upper:]' '[:lower:]')
-            
-            # Handle special cases where package name starts with a number
-            if [[ "$FIRST_LETTER" =~ [0-9] ]]; then
-              FIRST_LETTER="n"
-            fi
-
-            URL="https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/${FIRST_LETTER}/${PKG_NAME}-${VERSION}.x86_64.rpm"
-
-            if [ "$first" = true ]; then
-              first=false
-            else
-              echo "," >> fedora_packages.json
-            fi
-
-            jq -n \
-              --arg name "$NAME" \
-              --arg desc "$DESC" \
-              --arg pkg "$PKG_NAME" \
-              --arg ver "$VERSION" \
-              --arg url "$URL" \
-              '{name: $name, desc: $desc, package_name: $pkg, version: $ver, download_url: $url}' >> fedora_packages.json
-
-          done < <(jq -c '.[]' filtered_list.json)
-
-          echo "]" >> fedora_packages.json
-
           echo "✅ Pipeline successfully processed. Total packages extracted:"
           jq 'length' fedora_packages.json
 
