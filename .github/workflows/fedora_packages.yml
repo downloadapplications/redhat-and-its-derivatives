@@ -1,4 +1,4 @@
-name: Bulk Ingest Fedora AppStream Database
+name: Bulk Ingest Fedora App Database
 on:
   schedule:
     - cron: '0 12 * * *' # Refreshes every single day
@@ -11,7 +11,7 @@ jobs:
   build-matrix:
     runs-on: ubuntu-latest
     container:
-      image: fedora:40 # We boot a native Fedora environment to get full native access to DNF
+      image: fedora:40 # Native Fedora container environment
     steps:
       - name: Install Fundamental Core Utilities
         run: dnf install -y git jq
@@ -21,25 +21,26 @@ jobs:
 
       - name: Extract Live Package Meta via Local DNF Engine
         run: |
-          echo "📥 Synchronizing upstream AppStream indices..."
+          echo "📥 Synchronizing upstream Fedora repositories..."
           dnf makecache
           
-          echo "🔨 Pulling bulk package metadata sets via native DNF query pipelines..."
+          echo "🔨 Pulling bulk package metadata sets via native DNF repoquery..."
           
-          # We tap the AppStream repository cluster for user-facing applications
-          # We select fields: name, summary, version, release, and target arch format
-          dnf repoquery --repo=appstream --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}", "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/\($first_letter)/%{name}-%{version}-%{release}.%{arch}.rpm"}' > raw_list.txt
+          # Target the native 'fedora' repository directly. 
+          # We escape the internal variables using standard shell interpolation syntax.
+          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.txt
           
           echo "🧹 Cleaning, filtering, and structural parsing via jq..."
           
-          # We read the raw output, skip sub-development libraries, match clean titles, 
-          # format the dynamic directory letter index required by Fedora CDN mirrors, and truncate safely
+          # We read the raw output lines, drop dependencies/libraries/devel tools,
+          # and construct the final clean mirror URL architecture for public downloads.
           cat raw_list.txt | jq -s '
             map(
               select(.name != null and .desc != null) |
               select(.name | startswith("lib") | not) |
               select(.name | contains("-devel") | not) |
               select(.name | contains("-debug") | not) |
+              select(.name | contains("-libs") | not) |
               . + { 
                 download_url: (
                   "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/" + 
@@ -49,7 +50,7 @@ jobs:
               }
             ) | 
             sort_by(.name) | 
-            .[0:600]
+            .[0:1000]
           ' > fedora_packages.json
 
           echo "✅ Pipeline successfully processed. Total packages extracted:"
