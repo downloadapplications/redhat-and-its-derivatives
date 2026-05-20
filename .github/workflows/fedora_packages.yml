@@ -25,15 +25,10 @@ jobs:
           dnf makecache
           
           echo "🔨 Pulling bulk package metadata sets via native DNF repoquery..."
-          
-          # Target the native 'fedora' repository directly. 
-          # We escape the internal variables using standard shell interpolation syntax.
           dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.txt
           
           echo "🧹 Cleaning, filtering, and structural parsing via jq..."
-          
-          # We read the raw output lines, drop dependencies/libraries/devel tools,
-          # and construct the final clean mirror URL architecture for public downloads.
+          # Fixed: Swapped out 'tolower' for the correct 'ascii_tolower' function built into jq
           cat raw_list.txt | jq -s '
             map(
               select(.name != null and .desc != null) |
@@ -44,7 +39,7 @@ jobs:
               . + { 
                 download_url: (
                   "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/" + 
-                  (.name | sub("^[^a-zA-Z0-9]"; "") | .[0:1] | tolower) + 
+                  (.name | sub("^[^a-zA-Z0-9]"; "") | .[0:1] | ascii_tolower) + 
                   "/" + .name + "-" + .version + ".x86_64.rpm"
                 )
               }
