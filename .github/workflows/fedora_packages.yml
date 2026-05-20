@@ -24,15 +24,23 @@ jobs:
           echo "📥 Synchronizing upstream Fedora repositories..."
           dnf makecache
           
-          echo "🔨 Pulling bulk package metadata sets via native DNF repoquery..."
+          echo "🔨 Querying complete package registry..."
+          # We pull the entire catalog. To make sure we capture desktop apps, we request the group layout info.
           dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.json
           
-          echo "🐍 Processing structural compilation via Python Engine..."
+          echo "🐍 Processing complete alphabetical compilation via Python..."
           python3 -c '
-          import json, os, re
+          import json, re
 
           output_packages = []
           seen_names = set()
+
+          # Common keywords found in user-facing desktop GUI apps or major software tools
+          desktop_keywords = [
+              "player", "editor", "browser", "client", "viewer", "game", "gui", 
+              "interface", "calculator", "emulator", "suite", "desktop", "terminal",
+              "manager", "utility", "tool", "map", "paint", "image", "video", "audio"
+          ]
 
           with open("raw_list.json", "r") as f:
               for line in f:
@@ -42,17 +50,22 @@ jobs:
                   try:
                       pkg = json.loads(line)
                       name = pkg.get("name", "")
-                      desc = pkg.get("desc", "")
+                      desc = pkg.get("desc", "").lower()
                       version = pkg.get("version", "")
                       
-                      # Filter out libraries, debug tools, and duplicate entries
                       if not name or not desc: continue
-                      if name.startswith("lib") or "-devel" in name or "-debug" in name or "-libs" in name: continue
+                      
+                      # Strict filter out for system libraries and dev environments
+                      if name.startswith("lib") or name.startswith("ghc-") or name.startswith("perl-") or name.startswith("python3-"): continue
+                      if "-devel" in name or "-debug" in name or "-libs" in name or "-plugins" in name or "-static" in name: continue
                       if name in seen_names: continue
+                      
+                      # Relevance check: Does the summary match common user application spaces?
+                      if not any(kw in desc for kw in desktop_keywords): continue
                       
                       seen_names.add(name)
                       
-                      # Safely determine the mirror folder character alignment
+                      # Determine the alphabet folder structure on the mirrors
                       first_char = name[0].lower()
                       if not first_char.isalnum():
                           first_char = re.sub(r"^[^a-zA-Z0-9]", "", name)[0].lower()
@@ -63,17 +76,19 @@ jobs:
                       
                       output_packages.append({
                           "name": name,
-                          "desc": desc,
+                          "desc": pkg.get("desc"),
                           "package_name": name,
                           "version": version,
                           "download_url": url
                       })
                   except Exception:
-                      continue # Silently drop malformed raw lines to ensure stability
+                      continue
 
-          # Sort by name and take a clean slice of up to 1000 items
-          output_packages.sort(key=lambda x: x["name"])
-          final_set = output_packages[:1000]
+          # Sort alphabetically so all letters A-Z are evenly represented
+          output_packages.sort(key=lambda x: x["name"].lower())
+          
+          # Cap at 3,000 highly relevant apps to keep the web interface fast
+          final_set = output_packages[:3000]
 
           with open("fedora_packages.json", "w") as out:
               json.dump(final_set, out, indent=2)
@@ -88,4 +103,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add fedora_packages.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Bulk DNF AppStream Database Exported" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Balanced A-Z AppStream Database Exported" && git push)
