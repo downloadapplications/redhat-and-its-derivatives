@@ -1,8 +1,8 @@
 name: Bulk Ingest Fedora App Database
 on:
   schedule:
-    - cron: '0 12 * * *' # Refreshes every single day
-  workflow_dispatch: # Manual activation override
+    - cron: '0 12 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,7 +11,7 @@ jobs:
   build-matrix:
     runs-on: ubuntu-latest
     container:
-      image: fedora:40 # Native Fedora container environment
+      image: fedora:40
     steps:
       - name: Install Fundamental Core Utilities
         run: dnf install -y git jq
@@ -27,26 +27,61 @@ jobs:
           echo "🔨 Pulling bulk package metadata sets via native DNF repoquery..."
           dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.txt
           
-          echo "🧹 Cleaning, filtering, and structural parsing via jq..."
-          # Fixed: Swapped out 'tolower' for the correct 'ascii_tolower' function built into jq
+          echo "🧹 Cleaning, filtering, and structural parsing..."
+          
+          # 1. Filter out the noise first using basic jq operations that never fail
           cat raw_list.txt | jq -s '
             map(
               select(.name != null and .desc != null) |
               select(.name | startswith("lib") | not) |
               select(.name | contains("-devel") | not) |
               select(.name | contains("-debug") | not) |
-              select(.name | contains("-libs") | not) |
-              . + { 
-                download_url: (
-                  "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/" + 
-                  (.name | sub("^[^a-zA-Z0-9]"; "") | .[0:1] | ascii_tolower) + 
-                  "/" + .name + "-" + .version + ".x86_64.rpm"
-                )
-              }
+              select(.name | contains("-libs") | not)
             ) | 
             sort_by(.name) | 
             .[0:1000]
-          ' > fedora_packages.json
+          ' > filtered_list.json
+
+          # 2. Use a robust bash loop + standard "tr" to build the download URLs safely.
+          # This completely bypasses the broken jq string sub/lowercase bugs.
+          echo "[" > fedora_packages.json
+          first=true
+
+          while read -r ROW; do
+            if [ -z "$ROW" ]; then continue; fi
+            
+            NAME=$(echo "$ROW" | jq -r '.name')
+            DESC=$(echo "$ROW" | jq -r '.desc | @sh' | sed "s/^'//;s/'$//") # Safe escape for quotes
+            PKG_NAME=$(echo "$ROW" | jq -r '.package_name')
+            VERSION=$(echo "$ROW" | jq -r '.version')
+            
+            # Extract first letter and force it to lowercase using standard 'tr'
+            FIRST_LETTER=$(echo "${PKG_NAME:0:1}" | tr '[:upper:]' '[:lower:]')
+            
+            # Handle special cases where package name starts with a number
+            if [[ "$FIRST_LETTER" =~ [0-9] ]]; then
+              FIRST_LETTER="n"
+            fi
+
+            URL="https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/${FIRST_LETTER}/${PKG_NAME}-${VERSION}.x86_64.rpm"
+
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo "," >> fedora_packages.json
+            fi
+
+            jq -n \
+              --arg name "$NAME" \
+              --arg desc "$DESC" \
+              --arg pkg "$PKG_NAME" \
+              --arg ver "$VERSION" \
+              --arg url "$URL" \
+              '{name: $name, desc: $desc, package_name: $pkg, version: $ver, download_url: $url}' >> fedora_packages.json
+
+          done < <(jq -c '.[]' filtered_list.json)
+
+          echo "]" >> fedora_packages.json
 
           echo "✅ Pipeline successfully processed. Total packages extracted:"
           jq 'length' fedora_packages.json
