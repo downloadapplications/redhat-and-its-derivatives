@@ -1,4 +1,4 @@
-name: Bulk Ingest Fedora App Database
+name: Full-Scale Fedora Repository Mirror
 on:
   schedule:
     - cron: '0 12 * * *'
@@ -13,70 +13,63 @@ jobs:
     container:
       image: fedora:40
     steps:
-      - name: Install Fundamental Core Utilities
+      - name: Install System Management Tools
         run: dnf install -y git jq python3
 
       - name: Checkout Source Repository
         uses: actions/checkout@v4
 
-      - name: Extract Live Package Meta via Python Data Engine
+      - name: Shard Entire Fedora Core Catalog
         run: |
           echo "📥 Synchronizing upstream Fedora repositories..."
           dnf makecache
           
-          echo "🔨 Querying complete package registry..."
-          # We pull the entire catalog. To make sure we capture desktop apps, we request the group layout info.
+          echo "🔨 Querying complete un-sliced repository metadata..."
           dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.json
           
-          echo "🐍 Processing complete alphabetical compilation via Python..."
+          echo "🐍 Running Python Sharding Partition Matrix..."
           python3 -c '
-          import json, re
+          import json, os, re
+          from collections import defaultdict
 
-          output_packages = []
-          seen_names = set()
-
-          # Common keywords found in user-facing desktop GUI apps or major software tools
-          desktop_keywords = [
-              "player", "editor", "browser", "client", "viewer", "game", "gui", 
-              "interface", "calculator", "emulator", "suite", "desktop", "terminal",
-              "manager", "utility", "tool", "map", "paint", "image", "video", "audio"
-          ]
+          # Create a directory to store our database shards cleanly
+          os.makedirs("repo_shards", exist_ok=True)
+          
+          shards = defaultdict(list)
+          seen_packages = set()
 
           with open("raw_list.json", "r") as f:
               for line in f:
                   line = line.strip()
-                  if not line:
-                      continue
+                  if not line: continue
                   try:
                       pkg = json.loads(line)
                       name = pkg.get("name", "")
-                      desc = pkg.get("desc", "").lower()
+                      desc = pkg.get("desc", "")
                       version = pkg.get("version", "")
                       
                       if not name or not desc: continue
                       
-                      # Strict filter out for system libraries and dev environments
-                      if name.startswith("lib") or name.startswith("ghc-") or name.startswith("perl-") or name.startswith("python3-"): continue
-                      if "-devel" in name or "-debug" in name or "-libs" in name or "-plugins" in name or "-static" in name: continue
-                      if name in seen_names: continue
+                      # Filter out debugging artifacts and duplication, keep absolutely everything else
+                      if "-debug" in name or "-static" in name: continue
                       
-                      # Relevance check: Does the summary match common user application spaces?
-                      if not any(kw in desc for kw in desktop_keywords): continue
+                      # Unique tracking string (combines name + version)
+                      pkg_key = f"{name}-{version}"
+                      if pkg_key in seen_packages: continue
+                      seen_packages.add(pkg_key)
                       
-                      seen_names.add(name)
-                      
-                      # Determine the alphabet folder structure on the mirrors
+                      # Group sorting logic
                       first_char = name[0].lower()
                       if not first_char.isalnum():
                           first_char = re.sub(r"^[^a-zA-Z0-9]", "", name)[0].lower()
                       if first_char.isdigit():
-                          first_char = "n"
+                          first_char = "number"
                           
-                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{first_char}/{name}-{version}.x86_64.rpm"
+                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{first_char[0] if first_char != \"number\" else \"n\"}/{name}-{version}.x86_64.rpm"
                       
-                      output_packages.append({
+                      shards[first_char].append({
                           "name": name,
-                          "desc": pkg.get("desc"),
+                          "desc": desc,
                           "package_name": name,
                           "version": version,
                           "download_url": url
@@ -84,23 +77,29 @@ jobs:
                   except Exception:
                       continue
 
-          # Sort alphabetically so all letters A-Z are evenly represented
-          output_packages.sort(key=lambda x: x["name"].lower())
+          # Write out individual data cluster file maps with zero limits
+          total_count = 0
+          summary_manifest = {}
           
-          # Cap at 3,000 highly relevant apps to keep the web interface fast
-          final_set = output_packages[:3000]
+          for shard_key, packages in shards.items():
+              packages.sort(key=lambda x: x["name"].lower())
+              total_count += len(packages)
+              summary_manifest[shard_key] = len(packages)
+              
+              with open(f"repo_shards/{shard_key}.json", "w") as out:
+                  json.dump(packages, out, indent=2)
+          
+          # Output a primary master index file so the website knows what letters exist
+          with open("repo_shards/manifest.json", "w") as out:
+              json.dump({"total_packages": total_count, "groups": summary_manifest}, out, indent=2)
 
-          with open("fedora_packages.json", "w") as out:
-              json.dump(final_set, out, indent=2)
+          print(f"✅ Sharding successful. Total un-capped metadata records generated: {total_count}")
           '
           
-          echo "✅ Pipeline successfully processed. Total packages extracted:"
-          jq 'length' fedora_packages.json
-
-      - name: Push Bulk Matrix to Repository
+      - name: Push Database Shards to Main Branch
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add fedora_packages.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Balanced A-Z AppStream Database Exported" && git push)
+          git add repo_shards/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Total Fedora Repository Mirror Refreshed" && git push)
