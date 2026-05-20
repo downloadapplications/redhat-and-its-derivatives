@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "z",
+    "desc": "Maintains a jump-list of the directories you actually use",
+    "package_name": "z",
+    "version": "1.12-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z-1.12-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z3",
+    "desc": "Satisfiability Modulo Theories (SMT) solver",
+    "package_name": "z3",
+    "version": "4.13.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z3-4.13.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z3-devel",
+    "desc": "Header files for build applications that use z3",
+    "package_name": "z3-devel",
+    "version": "4.13.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z3-devel-4.13.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z3-doc",
+    "desc": "API documentation for Z3",
+    "package_name": "z3-doc",
+    "version": "4.13.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z3-doc-4.13.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z3-libs",
+    "desc": "Library for applications that use z3 functionality",
+    "package_name": "z3-libs",
+    "version": "4.13.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z3-libs-4.13.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z80asm",
+    "desc": "Z80 Assembler",
+    "package_name": "z80asm",
+    "version": "1.8-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z80asm-1.8-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z80dasm",
+    "desc": "Z80 Disassembler",
+    "package_name": "z80dasm",
+    "version": "1.1.3-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z80dasm-1.1.3-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "z88dk",
+    "desc": "A Z80 cross compiler",
+    "package_name": "z88dk",
+    "version": "1.10.1-29.20150709cvs.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/z88dk-1.10.1-29.20150709cvs.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix",
+    "desc": "Open-source monitoring solution for your IT infrastructure",
+    "package_name": "zabbix",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-agent",
+    "desc": "Zabbix agent",
+    "package_name": "zabbix-agent",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-agent-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-dbfiles-mysql",
+    "desc": "Zabbix database schemas, images, data and patches",
+    "package_name": "zabbix-dbfiles-mysql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-dbfiles-mysql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-dbfiles-pgsql",
+    "desc": "Zabbix database schemas, images, data and patches",
+    "package_name": "zabbix-dbfiles-pgsql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-dbfiles-pgsql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-dbfiles-sqlite3",
+    "desc": "Zabbix database schemas and patches",
+    "package_name": "zabbix-dbfiles-sqlite3",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-dbfiles-sqlite3-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-proxy",
+    "desc": "Zabbix proxy common files",
+    "package_name": "zabbix-proxy",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-proxy-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-proxy-mysql",
+    "desc": "Zabbix proxy compiled to use MySQL",
+    "package_name": "zabbix-proxy-mysql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-proxy-mysql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-proxy-pgsql",
+    "desc": "Zabbix proxy compiled to use PostgreSQL",
+    "package_name": "zabbix-proxy-pgsql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-proxy-pgsql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-proxy-sqlite3",
+    "desc": "Zabbix proxy compiled to use SQLite",
+    "package_name": "zabbix-proxy-sqlite3",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-proxy-sqlite3-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-selinux",
+    "desc": "Zabbix SELinux policy",
+    "package_name": "zabbix-selinux",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-selinux-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-server",
+    "desc": "Zabbix server common files",
+    "package_name": "zabbix-server",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-server-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-server-mysql",
+    "desc": "Zabbix server compiled to use MySQL",
+    "package_name": "zabbix-server-mysql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-server-mysql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-server-pgsql",
+    "desc": "Zabbix server compiled to use PostgreSQL",
+    "package_name": "zabbix-server-pgsql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-server-pgsql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-web",
+    "desc": "Zabbix Web Frontend",
+    "package_name": "zabbix-web",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-web-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-web-mysql",
+    "desc": "Zabbix web frontend for MySQL",
+    "package_name": "zabbix-web-mysql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-web-mysql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zabbix-web-pgsql",
+    "desc": "Zabbix web frontend for PostgreSQL",
+    "package_name": "zabbix-web-pgsql",
+    "version": "6.0.27-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zabbix-web-pgsql-6.0.27-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zam-plugins",
+    "desc": "A collection of LV2/LADSPA/JACK audio plugins",
+    "package_name": "zam-plugins",
+    "version": "4.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zam-plugins-4.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zanshin",
+    "desc": "Todo/action management software",
+    "package_name": "zanshin",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zanshin-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zanshin-common",
+    "desc": "common files for zanshin",
+    "package_name": "zanshin-common",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zanshin-common-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zasx",
+    "desc": "Asteroid like game with powerups",
+    "package_name": "zasx",
+    "version": "1.30-38.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zasx-1.30-38.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura",
+    "desc": "A lightweight document viewer",
+    "package_name": "zathura",
+    "version": "0.5.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-0.5.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-bash-completion",
+    "desc": "bash-completion files for zathura",
+    "package_name": "zathura-bash-completion",
+    "version": "0.5.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-bash-completion-0.5.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-cb",
+    "desc": "Comic book support for zathura",
+    "package_name": "zathura-cb",
+    "version": "0.1.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-cb-0.1.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-devel",
+    "desc": "Development files for the zathura PDF viewer",
+    "package_name": "zathura-devel",
+    "version": "0.5.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-devel-0.5.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-djvu",
+    "desc": "DjVu support for zathura",
+    "package_name": "zathura-djvu",
+    "version": "0.2.9-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-djvu-0.2.9-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-fish-completion",
+    "desc": "fish-completion files for zathura",
+    "package_name": "zathura-fish-completion",
+    "version": "0.5.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-fish-completion-0.5.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-pdf-mupdf",
+    "desc": "PDF support for zathura via mupdf",
+    "package_name": "zathura-pdf-mupdf",
+    "version": "0.4.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-pdf-mupdf-0.4.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-pdf-poppler",
+    "desc": "PDF support for zathura via poppler",
+    "package_name": "zathura-pdf-poppler",
+    "version": "0.3.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-pdf-poppler-0.3.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-plugins-all",
+    "desc": "Zathura plugins (all plugins)",
+    "package_name": "zathura-plugins-all",
+    "version": "0.5.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-plugins-all-0.5.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-ps",
+    "desc": "PS support for zathura via libspectre",
+    "package_name": "zathura-ps",
+    "version": "0.2.7-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-ps-0.2.7-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zathura-zsh-completion",
+    "desc": "zsh-completion files for zathura",
+    "package_name": "zathura-zsh-completion",
+    "version": "0.5.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zathura-zsh-completion-0.5.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zaz",
+    "desc": "A puzzle game where the player has to arrange balls in triplets",
+    "package_name": "zaz",
+    "version": "1.0.1-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zaz-1.0.1-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar",
+    "desc": "Bar code reader",
+    "package_name": "zbar",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-devel",
+    "desc": "Bar code reader library extra development files",
+    "package_name": "zbar-devel",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-devel-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-gtk",
+    "desc": "Bar code reader GTK widget",
+    "package_name": "zbar-gtk",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-gtk-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-gtk-devel",
+    "desc": "Bar code reader GTK widget extra development files",
+    "package_name": "zbar-gtk-devel",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-gtk-devel-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-java",
+    "desc": "Bar code reader Java library",
+    "package_name": "zbar-java",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-java-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-libs",
+    "desc": "Bar code reader library",
+    "package_name": "zbar-libs",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-libs-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-qt",
+    "desc": "Bar code reader Qt widget",
+    "package_name": "zbar-qt",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-qt-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zbar-qt-devel",
+    "desc": "Bar code reader Qt widget extra development files",
+    "package_name": "zbar-qt-devel",
+    "version": "0.23.93-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zbar-qt-devel-0.23.93-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zcfan",
+    "desc": "Zero-configuration fan daemon for ThinkPads",
+    "package_name": "zcfan",
+    "version": "1.3.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zcfan-1.3.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zchunk",
+    "desc": "Compressed file format that allows easy deltas",
+    "package_name": "zchunk",
+    "version": "1.4.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zchunk-1.4.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zchunk-devel",
+    "desc": "Headers for building against zchunk",
+    "package_name": "zchunk-devel",
+    "version": "1.4.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zchunk-devel-1.4.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zchunk-libs",
+    "desc": "Zchunk library",
+    "package_name": "zchunk-libs",
+    "version": "1.4.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zchunk-libs-1.4.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zd1211-firmware",
+    "desc": "Firmware for wireless devices based on zd1211 chipset",
+    "package_name": "zd1211-firmware",
+    "version": "1.5-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zd1211-firmware-1.5-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeal",
+    "desc": "Offline documentation browser inspired by Dash",
+    "package_name": "zeal",
+    "version": "0.7.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeal-0.7.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zegrapher",
+    "desc": "Free and opensource math graphing software",
+    "package_name": "zegrapher",
+    "version": "3.1.1-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zegrapher-3.1.1-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeitgeist",
+    "desc": "Framework providing Desktop activity awareness",
+    "package_name": "zeitgeist",
+    "version": "1.0.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeitgeist-1.0.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeitgeist-devel",
+    "desc": "Development files for zeitgeist",
+    "package_name": "zeitgeist-devel",
+    "version": "1.0.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeitgeist-devel-1.0.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeitgeist-libs",
+    "desc": "Client library for interacting with the Zeitgeist daemon",
+    "package_name": "zeitgeist-libs",
+    "version": "1.0.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeitgeist-libs-1.0.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zenity",
+    "desc": "Display dialog boxes from shell scripts",
+    "package_name": "zenity",
+    "version": "4.0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zenity-4.0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zenon",
+    "desc": "Automated theorem prover for first-order classical logic",
+    "package_name": "zenon",
+    "version": "0.8.5-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zenon-0.8.5-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zerofree",
+    "desc": "Utility to force unused ext2/3/4 inodes and blocks to zero",
+    "package_name": "zerofree",
+    "version": "1.1.1-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zerofree-1.1.1-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeromq",
+    "desc": "Software library for fast, message-based applications",
+    "package_name": "zeromq",
+    "version": "4.3.5-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeromq-4.3.5-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeromq-ada",
+    "desc": "Ada binding for zeromq",
+    "package_name": "zeromq-ada",
+    "version": "4.1.5-12.git.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeromq-ada-4.1.5-12.git.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeromq-ada-devel",
+    "desc": "Devel package for Ada binding for zeromq",
+    "package_name": "zeromq-ada-devel",
+    "version": "4.1.5-12.git.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeromq-ada-devel-4.1.5-12.git.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zeromq-devel",
+    "desc": "Development files for zeromq",
+    "package_name": "zeromq-devel",
+    "version": "4.3.5-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zeromq-devel-4.3.5-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zezere",
+    "desc": "A provisioning service for Fedora IoT",
+    "package_name": "zezere",
+    "version": "0.5.2-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zezere-0.5.2-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zezere-ignition",
+    "desc": "Ignition client for Zezere",
+    "package_name": "zezere-ignition",
+    "version": "0.5.2-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zezere-ignition-0.5.2-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zfp",
+    "desc": "Library for compressed numerical arrays with high throughput R/W random access",
+    "package_name": "zfp",
+    "version": "1.0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zfp-1.0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zfp-devel",
+    "desc": "Development files for zfp",
+    "package_name": "zfp-devel",
+    "version": "1.0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zfp-devel-1.0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zfs-fuse",
+    "desc": "ZFS ported to Linux FUSE",
+    "package_name": "zfs-fuse",
+    "version": "0.7.2.2-30.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zfs-fuse-0.7.2.2-30.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zfstream",
+    "desc": "Library for reading and writing compressed and non-compressed files",
+    "package_name": "zfstream",
+    "version": "20041202-40.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zfstream-20041202-40.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zfstream-devel",
+    "desc": "Development files for zfstream",
+    "package_name": "zfstream-devel",
+    "version": "20041202-40.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zfstream-devel-20041202-40.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zidrav",
+    "desc": "Zorba's Incredible Data Repairer And Verifier",
+    "package_name": "zidrav",
+    "version": "1.2.0-35.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zidrav-1.2.0-35.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ziffy",
+    "desc": "CLI tool to triangulate switches that are not operating correctly as PTP Transparent Clocks.",
+    "package_name": "ziffy",
+    "version": "0^20240118git2f194ba-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/ziffy-0^20240118git2f194ba-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zig",
+    "desc": "Programming language for maintaining robust, optimal, and reusable software",
+    "package_name": "zig",
+    "version": "0.11.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zig-0.11.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zig-doc",
+    "desc": "Documentation for zig",
+    "package_name": "zig-doc",
+    "version": "0.11.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zig-doc-0.11.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zig-libs",
+    "desc": "zig Standard Library",
+    "package_name": "zig-libs",
+    "version": "0.11.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zig-libs-0.11.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zig-rpm-macros",
+    "desc": "Common RPM macros for zig",
+    "package_name": "zig-rpm-macros",
+    "version": "0.11.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zig-rpm-macros-0.11.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zig-srpm-macros",
+    "desc": "SRPM macros required for Zig packages",
+    "package_name": "zig-srpm-macros",
+    "version": "1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zig-srpm-macros-1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zile",
+    "desc": "Zile Is Lossy Emacs",
+    "package_name": "zile",
+    "version": "2.6.2-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zile-2.6.2-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Zim",
+    "desc": "Desktop wiki & notekeeper",
+    "package_name": "Zim",
+    "version": "0.75.2-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/Zim-0.75.2-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zimg",
+    "desc": "Scaling, color space conversion, and dithering library",
+    "package_name": "zimg",
+    "version": "3.0.5-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zimg-3.0.5-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zimg-devel",
+    "desc": "Development files for zimg",
+    "package_name": "zimg-devel",
+    "version": "3.0.5-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zimg-devel-3.0.5-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zimpl",
+    "desc": "Zuse Institut Mathematical Programming Language",
+    "package_name": "zimpl",
+    "version": "3.5.3-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zimpl-3.5.3-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zincati",
+    "desc": "Update agent for Fedora CoreOS",
+    "package_name": "zincati",
+    "version": "0.0.27-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zincati-0.0.27-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia",
+    "desc": "Online handwriting recognition system with machine learning",
+    "package_name": "zinnia",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia-devel",
+    "desc": "Development files for zinnia",
+    "package_name": "zinnia-devel",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-devel-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia-doc",
+    "desc": "Documents for the zinnia library",
+    "package_name": "zinnia-doc",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-doc-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia-perl",
+    "desc": "Perl bindings for zinnia",
+    "package_name": "zinnia-perl",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-perl-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia-tomoe-ja",
+    "desc": "Japanese tomoe model file for zinnia",
+    "package_name": "zinnia-tomoe-ja",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-tomoe-ja-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia-tomoe-zh_CN",
+    "desc": "Simplified Chinese tomoe model file for zinnia",
+    "package_name": "zinnia-tomoe-zh_CN",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-tomoe-zh_CN-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zinnia-utils",
+    "desc": "Utils for the zinnia library",
+    "package_name": "zinnia-utils",
+    "version": "0.06-67.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zinnia-utils-0.06-67.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zint",
+    "desc": "Barcode generator library",
+    "package_name": "zint",
+    "version": "2.13.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zint-2.13.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zint-devel",
+    "desc": "Library and header files for zint",
+    "package_name": "zint-devel",
+    "version": "2.13.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zint-devel-2.13.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zint-qt",
+    "desc": "Zint Barcode Studio",
+    "package_name": "zint-qt",
+    "version": "2.13.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zint-qt-2.13.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zint-qt-devel",
+    "desc": "Library and header files for zint-qt",
+    "package_name": "zint-qt-devel",
+    "version": "2.13.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zint-qt-devel-2.13.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zip",
+    "desc": "A file compression and packaging utility compatible with PKZIP",
+    "package_name": "zip",
+    "version": "3.0-40.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zip-3.0-40.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ZipArchive",
+    "desc": "Library for accessing zip files",
+    "package_name": "ZipArchive",
+    "version": "4.1.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/ZipArchive-4.1.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ZipArchive-devel",
+    "desc": "Development files for ZipArchive",
+    "package_name": "ZipArchive-devel",
+    "version": "4.1.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/ZipArchive-devel-4.1.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zipios",
+    "desc": "C++ library for reading and writing Zip files",
+    "package_name": "zipios",
+    "version": "2.2.5.0-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipios-2.2.5.0-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zipios++",
+    "desc": "C++ library for reading and writing Zip files",
+    "package_name": "zipios++",
+    "version": "0.1.5.9-32.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipios++-0.1.5.9-32.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zipios++-devel",
+    "desc": "Header files for zipios++",
+    "package_name": "zipios++-devel",
+    "version": "0.1.5.9-32.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipios++-devel-0.1.5.9-32.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zipios-devel",
+    "desc": "Header files for zipios",
+    "package_name": "zipios-devel",
+    "version": "2.2.5.0-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipios-devel-2.2.5.0-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zipios-doc",
+    "desc": "Documentation for zipios",
+    "package_name": "zipios-doc",
+    "version": "2.2.5.0-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipios-doc-2.2.5.0-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zipper",
+    "desc": "C++ wrapper around minizip compression library",
+    "package_name": "zipper",
+    "version": "1.0.3-6.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipper-1.0.3-6.fc39.x86_64.rpm"
+  },
+  {
+    "name": "zipper-devel",
+    "desc": "Development files of zipper",
+    "package_name": "zipper-devel",
+    "version": "1.0.3-6.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zipper-devel-1.0.3-6.fc39.x86_64.rpm"
+  },
+  {
+    "name": "zisofs-tools",
+    "desc": "Utilities for creating compressed CD-ROM filesystems",
+    "package_name": "zisofs-tools",
+    "version": "1.0.8-32.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zisofs-tools-1.0.8-32.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-ajbridge",
+    "desc": "Allows ALSA devices to be JACK clients",
+    "package_name": "zita-ajbridge",
+    "version": "0.8.4-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-ajbridge-0.8.4-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-alsa-pcmi",
+    "desc": "ALSA C++ library",
+    "package_name": "zita-alsa-pcmi",
+    "version": "0.6.1-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-alsa-pcmi-0.6.1-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-alsa-pcmi-devel",
+    "desc": "Development libraries and headers for zita-alsa-pcmi",
+    "package_name": "zita-alsa-pcmi-devel",
+    "version": "0.6.1-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-alsa-pcmi-devel-0.6.1-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-alsa-pcmi-utils",
+    "desc": "ALSA utilities using the zita-alsa-pcmi library",
+    "package_name": "zita-alsa-pcmi-utils",
+    "version": "0.6.1-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-alsa-pcmi-utils-0.6.1-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-at1",
+    "desc": "Audio autotuner for JACK",
+    "package_name": "zita-at1",
+    "version": "0.6.2-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-at1-0.6.2-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-convolver",
+    "desc": "Convolution engine library",
+    "package_name": "zita-convolver",
+    "version": "4.0.3-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-convolver-4.0.3-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-convolver-devel",
+    "desc": "Fast, partitioned convolution engine library",
+    "package_name": "zita-convolver-devel",
+    "version": "4.0.3-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-convolver-devel-4.0.3-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-resampler",
+    "desc": "Fast, high-quality sample rate conversion library",
+    "package_name": "zita-resampler",
+    "version": "1.8.0-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-resampler-1.8.0-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-resampler-devel",
+    "desc": "Development libraries and headers for zita-resampler",
+    "package_name": "zita-resampler-devel",
+    "version": "1.8.0-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-resampler-devel-1.8.0-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zita-rev1",
+    "desc": "Pro-audio reverb for JACK",
+    "package_name": "zita-rev1",
+    "version": "0.2.2-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zita-rev1-0.2.2-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zix",
+    "desc": "A lightweight C library of portability wrappers and data structures",
+    "package_name": "zix",
+    "version": "0.4.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zix-0.4.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zix-devel",
+    "desc": "Development files for zix",
+    "package_name": "zix-devel",
+    "version": "0.4.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zix-devel-0.4.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zix-doc",
+    "desc": "Documentation files for zix",
+    "package_name": "zix-doc",
+    "version": "0.4.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zix-doc-0.4.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlib-ada",
+    "desc": "Zlib for Ada",
+    "package_name": "zlib-ada",
+    "version": "1.4-0.37.20210811gitca39312.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ada-1.4-0.37.20210811gitca39312.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlib-ada-devel",
+    "desc": "Development files for Zlib-Ada",
+    "package_name": "zlib-ada-devel",
+    "version": "1.4-0.37.20210811gitca39312.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ada-devel-1.4-0.37.20210811gitca39312.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlib-ng",
+    "desc": "Zlib replacement with optimizations",
+    "package_name": "zlib-ng",
+    "version": "2.1.6-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ng-2.1.6-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlib-ng-compat",
+    "desc": "Zlib implementation provided by zlib-ng",
+    "package_name": "zlib-ng-compat",
+    "version": "2.1.6-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ng-compat-2.1.6-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlib-ng-compat-devel",
+    "desc": "Development files for zlib-ng-compat",
+    "package_name": "zlib-ng-compat-devel",
+    "version": "2.1.6-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ng-compat-devel-2.1.6-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlib-ng-devel",
+    "desc": "Development files for zlib-ng",
+    "package_name": "zlib-ng-devel",
+    "version": "2.1.6-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ng-devel-2.1.6-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlibrary",
+    "desc": "Cross-platform GUI library",
+    "package_name": "zlibrary",
+    "version": "0.99.4-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlibrary-0.99.4-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zlibrary-devel",
+    "desc": "Development files for zlibrary",
+    "package_name": "zlibrary-devel",
+    "version": "0.99.4-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlibrary-devel-0.99.4-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zmap",
+    "desc": "Network scanner for Internet-wide network studies",
+    "package_name": "zmap",
+    "version": "3.0.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zmap-3.0.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zmat",
+    "desc": "An easy-to-use data compression library",
+    "package_name": "zmat",
+    "version": "0.9.8-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zmat-0.9.8-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zmat-devel",
+    "desc": "Development files for zmat - an easy-to-use data compression library",
+    "package_name": "zmat-devel",
+    "version": "0.9.8-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zmat-devel-0.9.8-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc",
+    "desc": "An advanced IRC bouncer",
+    "package_name": "znc",
+    "version": "1.8.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-1.8.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc-clientbuffer",
+    "desc": "ZNC module for client specific buffers",
+    "package_name": "znc-clientbuffer",
+    "version": "0-0.25.20190129git9766a4a.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-clientbuffer-0-0.25.20190129git9766a4a.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc-devel",
+    "desc": "Development files needed to compile ZNC modules",
+    "package_name": "znc-devel",
+    "version": "1.8.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-devel-1.8.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc-modperl",
+    "desc": "Perl module for ZNC",
+    "package_name": "znc-modperl",
+    "version": "1.8.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-modperl-1.8.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc-modpython",
+    "desc": "Python3 module for ZNC",
+    "package_name": "znc-modpython",
+    "version": "1.8.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-modpython-1.8.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc-modtcl",
+    "desc": "TCL module for ZNC",
+    "package_name": "znc-modtcl",
+    "version": "1.8.2-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-modtcl-1.8.2-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "znc-push",
+    "desc": "Push notification service module for ZNC",
+    "package_name": "znc-push",
+    "version": "2.0.0-8.20210311git4243934.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/znc-push-2.0.0-8.20210311git4243934.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zonefs-tools",
+    "desc": "Provides user utilities for the zonefs file system",
+    "package_name": "zonefs-tools",
+    "version": "1.6.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zonefs-tools-1.6.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zopfli",
+    "desc": "Zlib compatible better compressor",
+    "package_name": "zopfli",
+    "version": "1.0.3-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zopfli-1.0.3-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zopfli-devel",
+    "desc": "Development files for zopfli and zopflipng.",
+    "package_name": "zopfli-devel",
+    "version": "1.0.3-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zopfli-devel-1.0.3-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zork",
+    "desc": "Public Domain original DUNGEON game (Zork I)",
+    "package_name": "zork",
+    "version": "1.0.3-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zork-1.0.3-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zoxide",
+    "desc": "Smarter cd command for your terminal",
+    "package_name": "zoxide",
+    "version": "0.9.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zoxide-0.9.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zpaq",
+    "desc": "Incremental journaling back-up archiver",
+    "package_name": "zpaq",
+    "version": "7.15-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zpaq-7.15-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zpaq-devel",
+    "desc": "Development files for ZPAQ library",
+    "package_name": "zpaq-devel",
+    "version": "7.15-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zpaq-devel-7.15-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zpaq-libs",
+    "desc": "Library for ZPAQ compression and decompression",
+    "package_name": "zpaq-libs",
+    "version": "7.15-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zpaq-libs-7.15-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zps",
+    "desc": "A small utility for listing and cleaning up zombie processes",
+    "package_name": "zps",
+    "version": "2.0.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zps-2.0.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zram",
+    "desc": "ZRAM for swap config and services for Fedora",
+    "package_name": "zram",
+    "version": "0.4-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zram-0.4-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zram-generator",
+    "desc": "Systemd unit generator for zram swap devices",
+    "package_name": "zram-generator",
+    "version": "1.1.2-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zram-generator-1.1.2-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zram-generator-defaults",
+    "desc": "Default configuration for zram-generator",
+    "package_name": "zram-generator-defaults",
+    "version": "1.1.2-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zram-generator-defaults-1.1.2-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zsh",
+    "desc": "Powerful interactive shell",
+    "package_name": "zsh",
+    "version": "5.9-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zsh-5.9-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zsh-autosuggestions",
+    "desc": "Fish-like autosuggestions for zsh",
+    "package_name": "zsh-autosuggestions",
+    "version": "0.7.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zsh-autosuggestions-0.7.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zsh-html",
+    "desc": "Zsh shell manual in html format",
+    "package_name": "zsh-html",
+    "version": "5.9-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zsh-html-5.9-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zsh-lovers",
+    "desc": "A collection of tips, tricks and examples for the Z shell",
+    "package_name": "zsh-lovers",
+    "version": "0.10.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zsh-lovers-0.10.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zsh-syntax-highlighting",
+    "desc": "Fish shell like syntax highlighting for Zsh",
+    "package_name": "zsh-syntax-highlighting",
+    "version": "0.8.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zsh-syntax-highlighting-0.8.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zssh",
+    "desc": "SSH and Telnet client with ZMODEM file transfer capability",
+    "package_name": "zssh",
+    "version": "1.5c-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zssh-1.5c-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zstd",
+    "desc": "Zstd compression library",
+    "package_name": "zstd",
+    "version": "1.5.5-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zstd-1.5.5-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zstr-devel",
+    "desc": "A C++ header-only ZLib wrapper",
+    "package_name": "zstr-devel",
+    "version": "1.0.7-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zstr-devel-1.0.7-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zswap-cli",
+    "desc": "Command-line tool to control zswap options",
+    "package_name": "zswap-cli",
+    "version": "0.9.1-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zswap-cli-0.9.1-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zulucrypt",
+    "desc": "Qt GUI front end to cryptsetup",
+    "package_name": "zulucrypt",
+    "version": "6.2.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zulucrypt-6.2.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zulucrypt-console",
+    "desc": "Console tools of zulucrypt",
+    "package_name": "zulucrypt-console",
+    "version": "6.2.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zulucrypt-console-6.2.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zulucrypt-devel",
+    "desc": "Development files for zulucrypt",
+    "package_name": "zulucrypt-devel",
+    "version": "6.2.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zulucrypt-devel-6.2.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zulucrypt-doc",
+    "desc": "Additional documentation files for zulucrypt",
+    "package_name": "zulucrypt-doc",
+    "version": "6.2.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zulucrypt-doc-6.2.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zulucrypt-libs",
+    "desc": "Library for zulucrypt",
+    "package_name": "zulucrypt-libs",
+    "version": "6.2.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zulucrypt-libs-6.2.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zvbi",
+    "desc": "Raw VBI, Teletext and Closed Caption decoding library",
+    "package_name": "zvbi",
+    "version": "0.2.35-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zvbi-0.2.35-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zvbi-devel",
+    "desc": "Development files for zvbi",
+    "package_name": "zvbi-devel",
+    "version": "0.2.35-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zvbi-devel-0.2.35-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zvbi-fonts",
+    "desc": "Fonts from zvbi converted to X11",
+    "package_name": "zvbi-fonts",
+    "version": "0.2.35-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zvbi-fonts-0.2.35-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zxcvbn-c",
+    "desc": "C/C++ version of the zxcvbn password strength estimator",
+    "package_name": "zxcvbn-c",
+    "version": "2.5-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zxcvbn-c-2.5-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zxcvbn-c-devel",
+    "desc": "Development files for zxcvbn-c",
+    "package_name": "zxcvbn-c-devel",
+    "version": "2.5-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zxcvbn-c-devel-2.5-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zxing-cpp-devel",
+    "desc": "Development files for zxing-cpp",
+    "package_name": "zxing-cpp-devel",
+    "version": "2.0.0-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zxing-cpp-devel-2.0.0-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zycore-c",
+    "desc": "Zyan Core Library for C",
+    "package_name": "zycore-c",
+    "version": "1.5.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zycore-c-1.5.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zycore-c-devel",
+    "desc": "Development libraries and header files for zycore-c",
+    "package_name": "zycore-c-devel",
+    "version": "1.5.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zycore-c-devel-1.5.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zycore-c-doc",
+    "desc": "Documentation for zycore-c",
+    "package_name": "zycore-c-doc",
+    "version": "1.5.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zycore-c-doc-1.5.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zydis",
+    "desc": "Fast and lightweight x86/x86-64 disassembler and code generation library",
+    "package_name": "zydis",
+    "version": "4.1.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zydis-4.1.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zydis-devel",
+    "desc": "Development libraries and header files for zydis",
+    "package_name": "zydis-devel",
+    "version": "4.1.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zydis-devel-4.1.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zydis-doc",
+    "desc": "Documentation for zydis",
+    "package_name": "zydis-doc",
+    "version": "4.1.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zydis-doc-4.1.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zydis-tools",
+    "desc": "Tools for zydis",
+    "package_name": "zydis-tools",
+    "version": "4.1.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zydis-tools-4.1.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zynaddsubfx",
+    "desc": "Real-time software synthesizer",
+    "package_name": "zynaddsubfx",
+    "version": "3.0.6-1.fc38",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zynaddsubfx-3.0.6-1.fc38.x86_64.rpm"
+  },
+  {
+    "name": "zynaddsubfx-common",
+    "desc": "Common files for ZynAddSubFX synthesizers",
+    "package_name": "zynaddsubfx-common",
+    "version": "3.0.6-1.fc38",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zynaddsubfx-common-3.0.6-1.fc38.x86_64.rpm"
+  },
+  {
+    "name": "zynaddsubfx-dssi",
+    "desc": "Real-time software synthesizer for DSSI",
+    "package_name": "zynaddsubfx-dssi",
+    "version": "3.0.6-1.fc38",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zynaddsubfx-dssi-3.0.6-1.fc38.x86_64.rpm"
+  },
+  {
+    "name": "zynaddsubfx-lv2",
+    "desc": "zynaddsubfx LV2 plugins",
+    "package_name": "zynaddsubfx-lv2",
+    "version": "3.0.6-1.fc38",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zynaddsubfx-lv2-3.0.6-1.fc38.x86_64.rpm"
+  },
+  {
+    "name": "zynaddsubfx-vst",
+    "desc": "zynaddsubfx VST plugins",
+    "package_name": "zynaddsubfx-vst",
+    "version": "3.0.6-1.fc38",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zynaddsubfx-vst-3.0.6-1.fc38.x86_64.rpm"
+  },
+  {
+    "name": "zypp-common",
+    "desc": "Common files for ZYpp",
+    "package_name": "zypp-common",
+    "version": "17.31.32-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zypp-common-17.31.32-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zypp-plugins",
+    "desc": "Plugins for libzypp users",
+    "package_name": "zypp-plugins",
+    "version": "17.31.32-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zypp-plugins-17.31.32-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zypp-tools",
+    "desc": "Tools for libzypp users",
+    "package_name": "zypp-tools",
+    "version": "17.31.32-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zypp-tools-17.31.32-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zypper",
+    "desc": "Command line package manager using libzypp",
+    "package_name": "zypper",
+    "version": "1.14.68-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zypper-1.14.68-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zypper-aptitude",
+    "desc": "apt/aptitude CLI compatibility interface for Zypper",
+    "package_name": "zypper-aptitude",
+    "version": "1.14.68-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zypper-aptitude-1.14.68-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zypper-log",
+    "desc": "Zypper log file command line tool",
+    "package_name": "zypper-log",
+    "version": "1.14.68-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zypper-log-1.14.68-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zziplib",
+    "desc": "Lightweight library to easily extract data from zip files",
+    "package_name": "zziplib",
+    "version": "0.13.72-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zziplib-0.13.72-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zziplib-devel",
+    "desc": "Development files for the zziplib library",
+    "package_name": "zziplib-devel",
+    "version": "0.13.72-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zziplib-devel-0.13.72-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zziplib-utils",
+    "desc": "Utilities for the zziplib library",
+    "package_name": "zziplib-utils",
+    "version": "0.13.72-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zziplib-utils-0.13.72-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "zzuf",
+    "desc": "Transparent application input fuzzer",
+    "package_name": "zzuf",
+    "version": "0.15-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zzuf-0.15-22.fc40.x86_64.rpm"
+  }
+]

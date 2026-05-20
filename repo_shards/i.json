@@ -1,0 +1,3908 @@
+[
+  {
+    "name": "i2c-tools",
+    "desc": "A heterogeneous set of I2C tools for Linux",
+    "package_name": "i2c-tools",
+    "version": "4.3-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i2c-tools-4.3-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i2c-tools-perl",
+    "desc": "i2c tools written in Perl",
+    "package_name": "i2c-tools-perl",
+    "version": "4.3-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i2c-tools-perl-4.3-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3",
+    "desc": "Improved tiling window manager",
+    "package_name": "i3",
+    "version": "4.23-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-4.23-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-config",
+    "desc": "Upstream configuration for i3",
+    "package_name": "i3-config",
+    "version": "4.23-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-config-4.23-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-config-fedora",
+    "desc": "Configuration of i3 for the Fedora i3 Spin",
+    "package_name": "i3-config-fedora",
+    "version": "4.23-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-config-fedora-4.23-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-devel",
+    "desc": "Development files for i3",
+    "package_name": "i3-devel",
+    "version": "4.23-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-devel-4.23-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-devel-doc",
+    "desc": "Documentation for the development files of i3",
+    "package_name": "i3-devel-doc",
+    "version": "4.23-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-devel-doc-4.23-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-doc",
+    "desc": "Documentation for i3",
+    "package_name": "i3-doc",
+    "version": "4.23-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-doc-4.23-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-gaps",
+    "desc": "i3 with more features",
+    "package_name": "i3-gaps",
+    "version": "4.21.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-gaps-4.21.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3-gaps-doc",
+    "desc": "Documentation for i3-gaps",
+    "package_name": "i3-gaps-doc",
+    "version": "4.21.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3-gaps-doc-4.21.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3blocks",
+    "desc": "A feed generator for text based status bars",
+    "package_name": "i3blocks",
+    "version": "1.5-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3blocks-1.5-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3lock",
+    "desc": "Simple X display locker like slock",
+    "package_name": "i3lock",
+    "version": "2.15-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3lock-2.15-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3status",
+    "desc": "Status bar generator for i3bar, dzen2, xmobar or similar programs",
+    "package_name": "i3status",
+    "version": "2.14-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3status-2.14-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3status-config",
+    "desc": "Upstream configuration for i3status",
+    "package_name": "i3status-config",
+    "version": "2.14-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3status-config-2.14-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "i3status-config-fedora",
+    "desc": "Configuration of i3status for the Fedora i3 Spin",
+    "package_name": "i3status-config-fedora",
+    "version": "2.14-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/i3status-config-fedora-2.14-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iagno",
+    "desc": "GNOME Reversi game",
+    "package_name": "iagno",
+    "version": "3.38.1-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iagno-3.38.1-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iaito",
+    "desc": "GUI for radare2 reverse engineering framework",
+    "package_name": "iaito",
+    "version": "5.8.8-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iaito-5.8.8-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iapetal",
+    "desc": "A 2D space rescue game",
+    "package_name": "iapetal",
+    "version": "1.4-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iapetal-1.4-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iaxclient",
+    "desc": "Library for creating telephony solutions that interoperate with Asterisk",
+    "package_name": "iaxclient",
+    "version": "2.1-0.48.beta3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iaxclient-2.1-0.48.beta3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iaxclient-devel",
+    "desc": "Development files for iaxclient",
+    "package_name": "iaxclient-devel",
+    "version": "2.1-0.48.beta3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iaxclient-devel-2.1-0.48.beta3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iaxclient-libiax",
+    "desc": "IAX library",
+    "package_name": "iaxclient-libiax",
+    "version": "2.1-0.48.beta3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iaxclient-libiax-2.1-0.48.beta3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iaxclient-libiax-devel",
+    "desc": "IAX library development files",
+    "package_name": "iaxclient-libiax-devel",
+    "version": "2.1-0.48.beta3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iaxclient-libiax-devel-2.1-0.48.beta3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibacm",
+    "desc": "InfiniBand Communication Manager Assistant",
+    "package_name": "ibacm",
+    "version": "48.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibacm-48.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-data-db2",
+    "desc": "IBM DB2 database connectivity for Mono",
+    "package_name": "ibm-data-db2",
+    "version": "6.12.0-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-data-db2-6.12.0-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-fonts-all",
+    "desc": "All the font packages, generated from ibm-plex-fonts",
+    "package_name": "ibm-plex-fonts-all",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-fonts-all-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-mono-fonts",
+    "desc": "IBM Plex Mono",
+    "package_name": "ibm-plex-mono-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-mono-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-sans-arabic-fonts",
+    "desc": "IBM Plex Sans Arabic",
+    "package_name": "ibm-plex-sans-arabic-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-sans-arabic-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-sans-devanagari-fonts",
+    "desc": "IBM Plex Sans Devanagari",
+    "package_name": "ibm-plex-sans-devanagari-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-sans-devanagari-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-sans-fonts",
+    "desc": "IBM Plex Sans",
+    "package_name": "ibm-plex-sans-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-sans-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-sans-hebrew-fonts",
+    "desc": "IBM Plex Sans Hebrew",
+    "package_name": "ibm-plex-sans-hebrew-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-sans-hebrew-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-sans-thai-fonts",
+    "desc": "IBM Plex Sans Thai",
+    "package_name": "ibm-plex-sans-thai-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-sans-thai-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-sans-thai-looped-fonts",
+    "desc": "IBM Plex Sans Thai Looped, a formal variant of IBM Plex Sans for Thai",
+    "package_name": "ibm-plex-sans-thai-looped-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-sans-thai-looped-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibm-plex-serif-fonts",
+    "desc": "IBM Plex Serif",
+    "package_name": "ibm-plex-serif-fonts",
+    "version": "6.4.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibm-plex-serif-fonts-6.4.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibmonitor",
+    "desc": "Interactive bandwidth monitor",
+    "package_name": "ibmonitor",
+    "version": "1.4-29.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibmonitor-1.4-29.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibp",
+    "desc": "A tool to show which IBP beacons are transmitting",
+    "package_name": "ibp",
+    "version": "0.21-32.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibp-0.21-32.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibsim",
+    "desc": "InfiniBand fabric simulator for management",
+    "package_name": "ibsim",
+    "version": "0.11-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibsim-0.11-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus",
+    "desc": "Intelligent Input Bus for Linux OS",
+    "package_name": "ibus",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-anthy",
+    "desc": "The Anthy engine for IBus input platform",
+    "package_name": "ibus-anthy",
+    "version": "1.5.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-anthy-1.5.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-anthy-devel",
+    "desc": "Development tools for IBus",
+    "package_name": "ibus-anthy-devel",
+    "version": "1.5.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-anthy-devel-1.5.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-anthy-python",
+    "desc": "Anthy Python files for IBus",
+    "package_name": "ibus-anthy-python",
+    "version": "1.5.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-anthy-python-1.5.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-anthy-tests",
+    "desc": "Tests for the ibus-anthy package",
+    "package_name": "ibus-anthy-tests",
+    "version": "1.5.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-anthy-tests-1.5.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-cangjie",
+    "desc": "IBus engine to input Cangjie and Quick",
+    "package_name": "ibus-cangjie",
+    "version": "2.4-37.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-cangjie-2.4-37.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-cangjie-engine-cangjie",
+    "desc": "Cangjie input method for IBus",
+    "package_name": "ibus-cangjie-engine-cangjie",
+    "version": "2.4-37.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-cangjie-engine-cangjie-2.4-37.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-cangjie-engine-quick",
+    "desc": "Quick (Simplified Cangjie) input method for IBus",
+    "package_name": "ibus-cangjie-engine-quick",
+    "version": "2.4-37.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-cangjie-engine-quick-2.4-37.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-chewing",
+    "desc": "The Chewing engine for IBus input platform",
+    "package_name": "ibus-chewing",
+    "version": "1.6.1-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-chewing-1.6.1-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-desktop-testing",
+    "desc": "Wrapper of InstalledTests Runner for IBus",
+    "package_name": "ibus-desktop-testing",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-desktop-testing-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-devel",
+    "desc": "Development tools for ibus",
+    "package_name": "ibus-devel",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-devel-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-devel-docs",
+    "desc": "Developer documents for IBus",
+    "package_name": "ibus-devel-docs",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-devel-docs-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-engine-gui-ci",
+    "desc": "GUI CI for IBus engines",
+    "package_name": "ibus-engine-gui-ci",
+    "version": "1.0.0.20220118-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-engine-gui-ci-1.0.0.20220118-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-fbterm",
+    "desc": "IBus front-end for fbterm",
+    "package_name": "ibus-fbterm",
+    "version": "1.0.2-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-fbterm-1.0.2-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-fep",
+    "desc": "IBus client for text terminals (non frame buffer)",
+    "package_name": "ibus-fep",
+    "version": "1.4.4-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-fep-1.4.4-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-gtk2",
+    "desc": "IBus IM module for GTK2",
+    "package_name": "ibus-gtk2",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-gtk2-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-gtk3",
+    "desc": "IBus IM module for GTK3",
+    "package_name": "ibus-gtk3",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-gtk3-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-gtk4",
+    "desc": "IBus IM module for GTK4",
+    "package_name": "ibus-gtk4",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-gtk4-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-handwrite",
+    "desc": "IBus handwrite project",
+    "package_name": "ibus-handwrite",
+    "version": "3.0.0-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-handwrite-3.0.0-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-handwrite-ja",
+    "desc": "Japanese handwrite input method",
+    "package_name": "ibus-handwrite-ja",
+    "version": "3.0.0-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-handwrite-ja-3.0.0-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-handwrite-zh_CN",
+    "desc": "Simplified Chinese handwrite input method",
+    "package_name": "ibus-handwrite-zh_CN",
+    "version": "3.0.0-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-handwrite-zh_CN-3.0.0-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-hangul",
+    "desc": "The Hangul engine for IBus input platform",
+    "package_name": "ibus-hangul",
+    "version": "1.5.5-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-hangul-1.5.5-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-hangul-tests",
+    "desc": "Tests for the ibus-hangul package",
+    "package_name": "ibus-hangul-tests",
+    "version": "1.5.5-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-hangul-tests-1.5.5-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-input-pad",
+    "desc": "Input Pad for IBus",
+    "package_name": "ibus-input-pad",
+    "version": "1.4.99.20140916-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-input-pad-1.4.99.20140916-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-kkc",
+    "desc": "Japanese Kana Kanji input method for ibus",
+    "package_name": "ibus-kkc",
+    "version": "1.5.22-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-kkc-1.5.22-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-libpinyin",
+    "desc": "Intelligent Pinyin engine based on libpinyin for IBus",
+    "package_name": "ibus-libpinyin",
+    "version": "1.15.7-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-libpinyin-1.15.7-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-libs",
+    "desc": "IBus libraries",
+    "package_name": "ibus-libs",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-libs-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-libzhuyin",
+    "desc": "New Zhuyin engine based on libzhuyin for IBus",
+    "package_name": "ibus-libzhuyin",
+    "version": "1.10.3-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-libzhuyin-1.10.3-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-m17n",
+    "desc": "The M17N engine for IBus platform",
+    "package_name": "ibus-m17n",
+    "version": "1.4.28-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-m17n-1.4.28-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-mozc",
+    "desc": "The mozc engine for IBus input platform",
+    "package_name": "ibus-mozc",
+    "version": "2.29.5111.102-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-mozc-2.29.5111.102-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-panel",
+    "desc": "IBus Panel icon",
+    "package_name": "ibus-panel",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-panel-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-pinyin",
+    "desc": "The Chinese Pinyin and Bopomofo engines for IBus input platform",
+    "package_name": "ibus-pinyin",
+    "version": "1.5.0-33.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-pinyin-1.5.0-33.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-qt",
+    "desc": "Qt IBus library and Qt input method plugin",
+    "package_name": "ibus-qt",
+    "version": "1.3.4-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-qt-1.3.4-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-qt-devel",
+    "desc": "Development tools for ibus qt",
+    "package_name": "ibus-qt-devel",
+    "version": "1.3.4-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-qt-devel-1.3.4-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-qt-docs",
+    "desc": "Development documents for ibus qt",
+    "package_name": "ibus-qt-docs",
+    "version": "1.3.4-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-qt-docs-1.3.4-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-rime",
+    "desc": "Rime Input Method Engine for IBus",
+    "package_name": "ibus-rime",
+    "version": "1.5.0-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-rime-1.5.0-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-sayura",
+    "desc": "The Sinhala engine for IBus input platform",
+    "package_name": "ibus-sayura",
+    "version": "1.3.2-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-sayura-1.3.2-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-setup",
+    "desc": "IBus setup utility",
+    "package_name": "ibus-setup",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-setup-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-skk",
+    "desc": "Japanese SKK input method for ibus",
+    "package_name": "ibus-skk",
+    "version": "1.4.3-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-skk-1.4.3-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table",
+    "desc": "The Table engine for IBus platform",
+    "package_name": "ibus-table",
+    "version": "1.17.4-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-1.17.4-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese",
+    "desc": "Chinese input tables for IBus",
+    "package_name": "ibus-table-chinese",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-array",
+    "desc": "Array input methods",
+    "package_name": "ibus-table-chinese-array",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-array-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-cangjie",
+    "desc": "Cangjie based input methods",
+    "package_name": "ibus-table-chinese-cangjie",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-cangjie-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-cantonese",
+    "desc": "Cantonese input methods",
+    "package_name": "ibus-table-chinese-cantonese",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-cantonese-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-cantonyale",
+    "desc": "Cantonese input method based on yale romanization",
+    "package_name": "ibus-table-chinese-cantonyale",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-cantonyale-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-easy",
+    "desc": "Easy input method",
+    "package_name": "ibus-table-chinese-easy",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-easy-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-erbi",
+    "desc": "Erbi input method",
+    "package_name": "ibus-table-chinese-erbi",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-erbi-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-quick",
+    "desc": "Quick-to-learn input methods",
+    "package_name": "ibus-table-chinese-quick",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-quick-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-scj",
+    "desc": "Smart Cangjie",
+    "package_name": "ibus-table-chinese-scj",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-scj-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-stroke5",
+    "desc": "Stroke 5 input method",
+    "package_name": "ibus-table-chinese-stroke5",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-stroke5-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-wu",
+    "desc": "Wu pronunciation input method",
+    "package_name": "ibus-table-chinese-wu",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-wu-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-wubi-haifeng",
+    "desc": "Haifeng Wubi input method",
+    "package_name": "ibus-table-chinese-wubi-haifeng",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-wubi-haifeng-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-wubi-jidian",
+    "desc": "Jidian Wubi 86 input method, JiShuang 6.0",
+    "package_name": "ibus-table-chinese-wubi-jidian",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-wubi-jidian-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-chinese-yong",
+    "desc": "YongMa input method",
+    "package_name": "ibus-table-chinese-yong",
+    "version": "1.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-chinese-yong-1.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-code",
+    "desc": "Ibus-Tables for Latex, CNS11643 & Emoticons",
+    "package_name": "ibus-table-code",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-code-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-cyrillic",
+    "desc": "Ibus-Tables for Cyrillic",
+    "package_name": "ibus-table-cyrillic",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-cyrillic-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-devel",
+    "desc": "Development files for ibus-table",
+    "package_name": "ibus-table-devel",
+    "version": "1.17.4-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-devel-1.17.4-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-extraphrase",
+    "desc": "Extra phrase for ibus-table",
+    "package_name": "ibus-table-extraphrase",
+    "version": "1.3.9.20110826-26.fc40~bootstrap",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-extraphrase-1.3.9.20110826-26.fc40~bootstrap.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-latin",
+    "desc": "Ibus-Tables for Latin",
+    "package_name": "ibus-table-latin",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-latin-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-mathwriter",
+    "desc": "Ibus-Tables for Unicode mathematics symbols",
+    "package_name": "ibus-table-mathwriter",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-mathwriter-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-mongol",
+    "desc": "Ibus-Tables for Mongol Script",
+    "package_name": "ibus-table-mongol",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-mongol-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-others",
+    "desc": "Various tables for IBus-Table",
+    "package_name": "ibus-table-others",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-others-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-tests",
+    "desc": "Tests for the ibus-table package",
+    "package_name": "ibus-table-tests",
+    "version": "1.17.4-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-tests-1.17.4-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-translit",
+    "desc": "Ibus-Tables for Russian Translit",
+    "package_name": "ibus-table-translit",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-translit-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-table-tv",
+    "desc": "Ibus-Tables for Thai and Viqr (Vietnamese)",
+    "package_name": "ibus-table-tv",
+    "version": "1.3.17-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-table-tv-1.3.17-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-tests",
+    "desc": "Tests for the ibus package",
+    "package_name": "ibus-tests",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-tests-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-typing-booster",
+    "desc": "A completion input method",
+    "package_name": "ibus-typing-booster",
+    "version": "2.25.3-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-typing-booster-2.25.3-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-typing-booster-tests",
+    "desc": "Tests for the ibus-typing-booster package",
+    "package_name": "ibus-typing-booster-tests",
+    "version": "2.25.3-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-typing-booster-tests-2.25.3-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-uniemoji",
+    "desc": "Input method for entering unicode symbols and emoji by name",
+    "package_name": "ibus-uniemoji",
+    "version": "0.6.0-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-uniemoji-0.6.0-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-unikey",
+    "desc": "Vietnamese engine for IBus input platform",
+    "package_name": "ibus-unikey",
+    "version": "0.6.1-35.20190311git46b5b9e.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-unikey-0.6.1-35.20190311git46b5b9e.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ibus-wayland",
+    "desc": "IBus IM module for Wayland",
+    "package_name": "ibus-wayland",
+    "version": "1.5.30~rc1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ibus-wayland-1.5.30~rc1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icat",
+    "desc": "Output images in terminal",
+    "package_name": "icat",
+    "version": "0.5-18.20230110git9b5aa62.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icat-0.5-18.20230110git9b5aa62.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icc-profiles-basiccolor-printing2009",
+    "desc": "The OpenICC profiles from basICColor",
+    "package_name": "icc-profiles-basiccolor-printing2009",
+    "version": "1.2.0-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icc-profiles-basiccolor-printing2009-1.2.0-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icc-profiles-openicc",
+    "desc": "The OpenICC profiles",
+    "package_name": "icc-profiles-openicc",
+    "version": "1.3.1-27.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icc-profiles-openicc-1.3.1-27.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iceauth",
+    "desc": "Display the authorization information used in connecting with ICE",
+    "package_name": "iceauth",
+    "version": "1.0.9-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iceauth-1.0.9-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icebreaker",
+    "desc": "An addictive action-puzzle game involving bouncing penguins",
+    "package_name": "icebreaker",
+    "version": "2.2.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icebreaker-2.2.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecast",
+    "desc": "ShoutCast compatible streaming media server",
+    "package_name": "icecast",
+    "version": "2.4.4-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecast-2.4.4-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecast-doc",
+    "desc": "Documentation files for icecast",
+    "package_name": "icecast-doc",
+    "version": "2.4.4-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecast-doc-2.4.4-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecat",
+    "desc": "GNU version of Firefox browser",
+    "package_name": "icecat",
+    "version": "115.8.0-2.rh1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecat-115.8.0-2.rh1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecat-wayland",
+    "desc": "GNU IceCat Wayland launcher",
+    "package_name": "icecat-wayland",
+    "version": "115.8.0-2.rh1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecat-wayland-115.8.0-2.rh1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecat-x11",
+    "desc": "GNU IceCat X11 launcher",
+    "package_name": "icecat-x11",
+    "version": "115.8.0-2.rh1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecat-x11-115.8.0-2.rh1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecream",
+    "desc": "Distributed compiler",
+    "package_name": "icecream",
+    "version": "1.4-0.12.rc1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecream-1.4-0.12.rc1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icecream-devel",
+    "desc": "Development files for icecream",
+    "package_name": "icecream-devel",
+    "version": "1.4-0.12.rc1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icecream-devel-1.4-0.12.rc1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icedax",
+    "desc": "A utility for sampling/copying .wav files from digital audio CDs",
+    "package_name": "icedax",
+    "version": "1.1.11-54.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icedax-1.1.11-54.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icedtea-web",
+    "desc": "Open Source implementation of JSR-56 better known as Java Web Start",
+    "package_name": "icedtea-web",
+    "version": "1.8.8-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icedtea-web-1.8.8-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icedtea-web-devel",
+    "desc": "Pure sources for debugging IcedTea-Web",
+    "package_name": "icedtea-web-devel",
+    "version": "1.8.8-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icedtea-web-devel-1.8.8-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icedtea-web-javadoc",
+    "desc": "API documentation for IcedTea-Web",
+    "package_name": "icedtea-web-javadoc",
+    "version": "1.8.8-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icedtea-web-javadoc-1.8.8-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icemon",
+    "desc": "Icecream GUI monitor",
+    "package_name": "icemon",
+    "version": "3.3-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icemon-3.3-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icestorm",
+    "desc": "Lattice iCE40 FPGA bitstream creation/analysis/programming tools",
+    "package_name": "icestorm",
+    "version": "0-0.32.20231218git1a40ae7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icestorm-0-0.32.20231218git1a40ae7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icewm",
+    "desc": "Window manager designed for speed, usability, and consistency",
+    "package_name": "icewm",
+    "version": "3.4.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icewm-3.4.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icewm-data",
+    "desc": "Data files for icewm",
+    "package_name": "icewm-data",
+    "version": "3.4.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icewm-data-3.4.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icewm-minimal-session",
+    "desc": "Minimal session for icewm",
+    "package_name": "icewm-minimal-session",
+    "version": "3.4.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icewm-minimal-session-3.4.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icewm-themes",
+    "desc": "Extra themes for icewm",
+    "package_name": "icewm-themes",
+    "version": "3.4.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icewm-themes-3.4.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icon",
+    "desc": "Icon programming language",
+    "package_name": "icon",
+    "version": "9.5.20i-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icon-9.5.20i-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icon-naming-utils",
+    "desc": "A script to handle icon names in desktop icon themes",
+    "package_name": "icon-naming-utils",
+    "version": "0.8.90-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icon-naming-utils-0.8.90-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icon-utils",
+    "desc": "Icon utility programs",
+    "package_name": "icon-utils",
+    "version": "9.5.20i-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icon-utils-9.5.20i-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icoutils",
+    "desc": "Utility for extracting and converting Microsoft icon and cursor files",
+    "package_name": "icoutils",
+    "version": "0.32.3-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icoutils-0.32.3-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icu",
+    "desc": "International Components for Unicode",
+    "package_name": "icu",
+    "version": "74.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icu-74.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icu4j",
+    "desc": "International Components for Unicode for Java",
+    "package_name": "icu4j",
+    "version": "74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icu4j-74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icu4j-charset",
+    "desc": "Charset converter library of icu4j",
+    "package_name": "icu4j-charset",
+    "version": "74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icu4j-charset-74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icu4j-javadoc",
+    "desc": "API documentation for icu4j",
+    "package_name": "icu4j-javadoc",
+    "version": "74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icu4j-javadoc-74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icu4j-localespi",
+    "desc": "Locale SPI library of icu4j",
+    "package_name": "icu4j-localespi",
+    "version": "74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icu4j-localespi-74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "icu4j-parent",
+    "desc": "Parent POM for icu4j",
+    "package_name": "icu4j-parent",
+    "version": "74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/icu4j-parent-74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "id3lib",
+    "desc": "Library for manipulating ID3v1 and ID3v2 tags",
+    "package_name": "id3lib",
+    "version": "3.8.3-57.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/id3lib-3.8.3-57.fc40.x86_64.rpm"
+  },
+  {
+    "name": "id3lib-devel",
+    "desc": "Development tools for the id3lib library",
+    "package_name": "id3lib-devel",
+    "version": "3.8.3-57.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/id3lib-devel-3.8.3-57.fc40.x86_64.rpm"
+  },
+  {
+    "name": "id3v2",
+    "desc": "Command line ID3 tag editor",
+    "package_name": "id3v2",
+    "version": "0.1.12-36.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/id3v2-0.1.12-36.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idevicerestore",
+    "desc": "Restore/upgrade firmware of iOS devices",
+    "package_name": "idevicerestore",
+    "version": "1.0.0^20230523git609f7f0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idevicerestore-1.0.0^20230523git609f7f0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idle3-tools",
+    "desc": "Manipulate the value of the idle3 timer found on recent WD Hard Disk Drives",
+    "package_name": "idle3-tools",
+    "version": "0.9.1-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idle3-tools-0.9.1-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idn2",
+    "desc": "IDNA2008 internationalized domain names conversion tool",
+    "package_name": "idn2",
+    "version": "2.3.7-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idn2-2.3.7-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idris",
+    "desc": "Functional Programming Language with Dependent Types",
+    "package_name": "idris",
+    "version": "1.3.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idris-1.3.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idris-common",
+    "desc": "Idris libraries",
+    "package_name": "idris-common",
+    "version": "1.3.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idris-common-1.3.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idris-docs",
+    "desc": "Idris library docs",
+    "package_name": "idris-docs",
+    "version": "1.3.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idris-docs-1.3.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "idris-manual",
+    "desc": "The Idris manual",
+    "package_name": "idris-manual",
+    "version": "1.3.4-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/idris-manual-1.3.4-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iec16022",
+    "desc": "Generate ISO/IEC 16022 2D barcodes",
+    "package_name": "iec16022",
+    "version": "0.3.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iec16022-0.3.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iec16022-devel",
+    "desc": "Development files for the iec16022 library",
+    "package_name": "iec16022-devel",
+    "version": "0.3.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iec16022-devel-0.3.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iec16022-libs",
+    "desc": "ISO/IEC 16022 libraries",
+    "package_name": "iec16022-libs",
+    "version": "0.3.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iec16022-libs-0.3.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ifcfg-devname",
+    "desc": "Udev helper utility that provides network interface naming",
+    "package_name": "ifcfg-devname",
+    "version": "1.1.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ifcfg-devname-1.1.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ifm",
+    "desc": "Interactive Fiction Mapper",
+    "package_name": "ifm",
+    "version": "5.4-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ifm-5.4-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ifstat",
+    "desc": "Interface statistics",
+    "package_name": "ifstat",
+    "version": "1.1-44.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ifstat-1.1-44.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iftop",
+    "desc": "Command line tool that displays bandwidth usage on an interface",
+    "package_name": "iftop",
+    "version": "1.0-0.33.pre4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iftop-1.0-0.33.pre4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ifuse",
+    "desc": "Mount Apple iPhone and iPod touch devices",
+    "package_name": "ifuse",
+    "version": "1.1.4-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ifuse-1.1.4-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition",
+    "desc": "First boot installer and configuration tool",
+    "package_name": "ignition",
+    "version": "2.18.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-2.18.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-cmake-devel",
+    "desc": "CMake modules to be used by the Ignition projects",
+    "package_name": "ignition-cmake-devel",
+    "version": "0.6.1-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-cmake-devel-0.6.1-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-edge",
+    "desc": "Enablement glue for Ignition on IoT/Edge systems",
+    "package_name": "ignition-edge",
+    "version": "2.18.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-edge-2.18.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-ignition-grub",
+    "desc": "Enablement glue for bootupd's grub2 config",
+    "package_name": "ignition-ignition-grub",
+    "version": "2.18.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-ignition-grub-2.18.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-math",
+    "desc": "Small, Fast, High Performance Math Library",
+    "package_name": "ignition-math",
+    "version": "4.0.0-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-math-4.0.0-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-math-devel",
+    "desc": "Development files and libraries for ignition-math",
+    "package_name": "ignition-math-devel",
+    "version": "4.0.0-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-math-devel-4.0.0-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-math-doc",
+    "desc": "Development documentation for ignition-math",
+    "package_name": "ignition-math-doc",
+    "version": "4.0.0-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-math-doc-4.0.0-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-msgs",
+    "desc": "Common messages for the ignition framework",
+    "package_name": "ignition-msgs",
+    "version": "1.0.0-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-msgs-1.0.0-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-msgs-devel",
+    "desc": "Development libraries and headers for ignition-msgs",
+    "package_name": "ignition-msgs-devel",
+    "version": "1.0.0-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-msgs-devel-1.0.0-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-msgs-doc",
+    "desc": "Development documentation for ignition-msgs",
+    "package_name": "ignition-msgs-doc",
+    "version": "1.0.0-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-msgs-doc-1.0.0-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-transport",
+    "desc": "A fast and efficient message passing system",
+    "package_name": "ignition-transport",
+    "version": "4.0.0-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-transport-4.0.0-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-transport-devel",
+    "desc": "Development files and libraries for ignition-transport",
+    "package_name": "ignition-transport-devel",
+    "version": "4.0.0-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-transport-devel-4.0.0-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-transport-doc",
+    "desc": "Development documentation for ignition-transport",
+    "package_name": "ignition-transport-doc",
+    "version": "4.0.0-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-transport-doc-4.0.0-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-validate",
+    "desc": "Validation tool for Ignition configs",
+    "package_name": "ignition-validate",
+    "version": "2.18.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-validate-2.18.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignition-validate-redistributable",
+    "desc": "Statically linked validation tool for Ignition configs",
+    "package_name": "ignition-validate-redistributable",
+    "version": "2.18.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignition-validate-redistributable-2.18.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ignuit",
+    "desc": "Memorization aid based on the Leitner flashcard system",
+    "package_name": "ignuit",
+    "version": "2.24.3-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ignuit-2.24.3-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "igraph",
+    "desc": "Library for creating and manipulating graphs",
+    "package_name": "igraph",
+    "version": "0.10.10-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/igraph-0.10.10-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "igraph-devel",
+    "desc": "Development files for igraph",
+    "package_name": "igraph-devel",
+    "version": "0.10.10-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/igraph-devel-0.10.10-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "igt-gpu-tools",
+    "desc": "Test suite and tools for DRM drivers",
+    "package_name": "igt-gpu-tools",
+    "version": "1.27.1-0.4.20230215git45da871.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/igt-gpu-tools-1.27.1-0.4.20230215git45da871.fc40.x86_64.rpm"
+  },
+  {
+    "name": "igt-gpu-tools-devel",
+    "desc": "Development files for igt-gpu-tools",
+    "package_name": "igt-gpu-tools-devel",
+    "version": "1.27.1-0.4.20230215git45da871.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/igt-gpu-tools-devel-1.27.1-0.4.20230215git45da871.fc40.x86_64.rpm"
+  },
+  {
+    "name": "igt-gpu-tools-docs",
+    "desc": "Documentation for igt-gpu-tools",
+    "package_name": "igt-gpu-tools-docs",
+    "version": "1.27.1-0.4.20230215git45da871.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/igt-gpu-tools-docs-1.27.1-0.4.20230215git45da871.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iguanaIR",
+    "desc": "Driver for Iguanaworks USB IR transceiver",
+    "package_name": "iguanaIR",
+    "version": "1.1.0-39.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iguanaIR-1.1.0-39.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iguanaIR-devel",
+    "desc": "Library and header files for iguanaIR",
+    "package_name": "iguanaIR-devel",
+    "version": "1.1.0-39.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iguanaIR-devel-1.1.0-39.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iguanaIR-reflasher",
+    "desc": "Reflasher for Iguanaworks USB IR transceiver",
+    "package_name": "iguanaIR-reflasher",
+    "version": "1.1.0-39.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iguanaIR-reflasher-1.1.0-39.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ii",
+    "desc": "IRC IT, simple FIFO based IRC client",
+    "package_name": "ii",
+    "version": "1.8-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ii-1.8-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iio-sensor-proxy",
+    "desc": "IIO accelerometer sensor to input device proxy",
+    "package_name": "iio-sensor-proxy",
+    "version": "3.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iio-sensor-proxy-3.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iio-sensor-proxy-docs",
+    "desc": "Documentation for iio-sensor-proxy",
+    "package_name": "iio-sensor-proxy-docs",
+    "version": "3.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iio-sensor-proxy-docs-3.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iir1",
+    "desc": "DSP IIR Realtime C++ filter library",
+    "package_name": "iir1",
+    "version": "1.9.3-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iir1-1.9.3-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iir1-devel",
+    "desc": "Development libraries and header files for iir1",
+    "package_name": "iir1-devel",
+    "version": "1.9.3-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iir1-devel-1.9.3-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iir1-devel-doc",
+    "desc": "Development documentation for iir1",
+    "package_name": "iir1-devel-doc",
+    "version": "1.9.3-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iir1-devel-doc-1.9.3-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ike-scan",
+    "desc": "IKE protocol tool to discover, fingerprint and test IPsec VPN servers",
+    "package_name": "ike-scan",
+    "version": "1.9.4-37.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ike-scan-1.9.4-37.fc39.x86_64.rpm"
+  },
+  {
+    "name": "ikiwiki",
+    "desc": "A wiki compiler",
+    "package_name": "ikiwiki",
+    "version": "3.20200202.3-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ikiwiki-3.20200202.3-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ikiwiki-w3m",
+    "desc": "Ikiwiki w3m cgi meta-wrapper",
+    "package_name": "ikiwiki-w3m",
+    "version": "3.20200202.3-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ikiwiki-w3m-3.20200202.3-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ilbc",
+    "desc": "Internet Low Bitrate Codec",
+    "package_name": "ilbc",
+    "version": "3.0.4-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ilbc-3.0.4-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ilbc-devel",
+    "desc": "development files for ilbc",
+    "package_name": "ilbc-devel",
+    "version": "3.0.4-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ilbc-devel-3.0.4-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ilmbase",
+    "desc": "Abstraction/convenience libraries",
+    "package_name": "ilmbase",
+    "version": "2.3.0-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ilmbase-2.3.0-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ilmbase-devel",
+    "desc": "Headers and libraries for building apps that use ilmbase",
+    "package_name": "ilmbase-devel",
+    "version": "2.3.0-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ilmbase-devel-2.3.0-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ilua",
+    "desc": "Portable Lua kernel for Jupyter",
+    "package_name": "ilua",
+    "version": "0.2.1-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ilua-0.2.1-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "im-chooser",
+    "desc": "Desktop Input Method configuration tool",
+    "package_name": "im-chooser",
+    "version": "1.7.5-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/im-chooser-1.7.5-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "im-chooser-common",
+    "desc": "Common files for im-chooser subpackages",
+    "package_name": "im-chooser-common",
+    "version": "1.7.5-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/im-chooser-common-1.7.5-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "im-chooser-xfce",
+    "desc": "XFCE settings panel for im-chooser",
+    "package_name": "im-chooser-xfce",
+    "version": "1.7.5-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/im-chooser-xfce-1.7.5-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ima-evm-utils",
+    "desc": "IMA/EVM support utilities",
+    "package_name": "ima-evm-utils",
+    "version": "1.5-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ima-evm-utils-1.5-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ima-evm-utils-devel",
+    "desc": "Development files for ima-evm-utils",
+    "package_name": "ima-evm-utils-devel",
+    "version": "1.5-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ima-evm-utils-devel-1.5-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory",
+    "desc": "System image generation tool",
+    "package_name": "imagefactory",
+    "version": "1.1.16-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-1.1.16-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins",
+    "desc": "Default plugins for the Image Factory system image generation tool",
+    "package_name": "imagefactory-plugins",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-Docker",
+    "desc": "Cloud plugin for Docker",
+    "package_name": "imagefactory-plugins-Docker",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-Docker-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-GCE",
+    "desc": "Cloud plugin for GCE",
+    "package_name": "imagefactory-plugins-GCE",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-GCE-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-HyperV",
+    "desc": "Cloud plugin for HyperV",
+    "package_name": "imagefactory-plugins-HyperV",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-HyperV-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-IndirectionCloud",
+    "desc": "Cloud plugin for allowing images to modify other images",
+    "package_name": "imagefactory-plugins-IndirectionCloud",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-IndirectionCloud-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-OVA",
+    "desc": "Cloud plugin for generating OVA archives",
+    "package_name": "imagefactory-plugins-OVA",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-OVA-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-ovfcommon",
+    "desc": "common utilities to manipulate ovf-related objects",
+    "package_name": "imagefactory-plugins-ovfcommon",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-ovfcommon-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-RHEVM",
+    "desc": "RHEVM Cloud plugin",
+    "package_name": "imagefactory-plugins-RHEVM",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-RHEVM-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-TinMan",
+    "desc": "OS plugin for Fedora",
+    "package_name": "imagefactory-plugins-TinMan",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-TinMan-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagefactory-plugins-vSphere",
+    "desc": "vSphere Cloud plugin",
+    "package_name": "imagefactory-plugins-vSphere",
+    "version": "1.1.16-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagefactory-plugins-vSphere-1.1.16-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imagehash-demo",
+    "desc": "A Python perceptual image hashing module",
+    "package_name": "imagehash-demo",
+    "version": "4.0-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagehash-demo-4.0-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "imagej",
+    "desc": "Image Processing and Analysis in Java",
+    "package_name": "imagej",
+    "version": "1.54i-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imagej-1.54i-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick",
+    "desc": "An X application for displaying and manipulating images",
+    "package_name": "ImageMagick",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-c++",
+    "desc": "ImageMagick Magick++ library (C++ bindings)",
+    "package_name": "ImageMagick-c++",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-c++-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-c++-devel",
+    "desc": "C++ bindings for the ImageMagick library",
+    "package_name": "ImageMagick-c++-devel",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-c++-devel-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-devel",
+    "desc": "Library links and header files for ImageMagick app development",
+    "package_name": "ImageMagick-devel",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-devel-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-djvu",
+    "desc": "DjVu plugin for ImageMagick",
+    "package_name": "ImageMagick-djvu",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-djvu-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-doc",
+    "desc": "ImageMagick html documentation",
+    "package_name": "ImageMagick-doc",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-doc-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-heic",
+    "desc": "HEIC plugin for ImageMagick",
+    "package_name": "ImageMagick-heic",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-heic-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-libs",
+    "desc": "ImageMagick libraries to link with",
+    "package_name": "ImageMagick-libs",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-libs-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ImageMagick-perl",
+    "desc": "ImageMagick perl bindings",
+    "package_name": "ImageMagick-perl",
+    "version": "7.1.1.26-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ImageMagick-perl-7.1.1.26-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imake",
+    "desc": "imake source code configuration and build system",
+    "package_name": "imake",
+    "version": "1.0.10-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imake-1.0.10-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imapfilter",
+    "desc": "A flexible client side mail filtering utility for IMAP servers",
+    "package_name": "imapfilter",
+    "version": "2.8.2-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imapfilter-2.8.2-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imapsync",
+    "desc": "Tool to migrate email between IMAP servers",
+    "package_name": "imapsync",
+    "version": "2.229-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imapsync-2.229-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imaptest",
+    "desc": "Generic IMAP server compliancy tester",
+    "package_name": "imaptest",
+    "version": "20210705-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imaptest-20210705-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imath",
+    "desc": "Library of 2D and 3D vector, matrix, and math operations for computer graphics",
+    "package_name": "imath",
+    "version": "3.1.10-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imath-3.1.10-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imath-devel",
+    "desc": "Development files for Imath",
+    "package_name": "imath-devel",
+    "version": "3.1.10-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imath-devel-3.1.10-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imgp",
+    "desc": "Multi-core batch image resizer and rotator",
+    "package_name": "imgp",
+    "version": "2.9-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imgp-2.9-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imhex",
+    "desc": "A hex editor for reverse engineers and programmers",
+    "package_name": "imhex",
+    "version": "1.33.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imhex-1.33.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imhex-devel",
+    "desc": "Development files for imhex",
+    "package_name": "imhex-devel",
+    "version": "1.33.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imhex-devel-1.33.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imhex-patterns",
+    "desc": "Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor",
+    "package_name": "imhex-patterns",
+    "version": "1.33.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imhex-patterns-1.33.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iml",
+    "desc": "Finds solutions to systems of linear equations over integers",
+    "package_name": "iml",
+    "version": "1.0.5-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iml-1.0.5-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iml-devel",
+    "desc": "Development files for iml",
+    "package_name": "iml-devel",
+    "version": "1.0.5-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iml-devel-1.0.5-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imlib2",
+    "desc": "Image loading, saving, rendering, and manipulation library",
+    "package_name": "imlib2",
+    "version": "1.11.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imlib2-1.11.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imlib2-devel",
+    "desc": "Development package for imlib2",
+    "package_name": "imlib2-devel",
+    "version": "1.11.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imlib2-devel-1.11.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imlib2-id3tag-loader",
+    "desc": "Imlib2 id3tag-loader",
+    "package_name": "imlib2-id3tag-loader",
+    "version": "1.11.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imlib2-id3tag-loader-1.11.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "immix",
+    "desc": "An image mixer",
+    "package_name": "immix",
+    "version": "1.3.2-46.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/immix-1.3.2-46.fc40.x86_64.rpm"
+  },
+  {
+    "name": "impallari-dancing-script-fonts",
+    "desc": "Dancing Script, a friendly, informal and spontaneous cursive font family",
+    "package_name": "impallari-dancing-script-fonts",
+    "version": "2.000-19.20200226gitf7f54bc.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/impallari-dancing-script-fonts-2.000-19.20200226gitf7f54bc.fc40.x86_64.rpm"
+  },
+  {
+    "name": "impallari-raleway-fonts",
+    "desc": "Raleway, an elegant sans-serif font family",
+    "package_name": "impallari-raleway-fonts",
+    "version": "4.025-14.20200310git98add57.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/impallari-raleway-fonts-4.025-14.20200310git98add57.fc40.x86_64.rpm"
+  },
+  {
+    "name": "impallari-raleway-fonts-doc",
+    "desc": "Optional documentation files of impallari-raleway-fonts",
+    "package_name": "impallari-raleway-fonts-doc",
+    "version": "4.025-14.20200310git98add57.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/impallari-raleway-fonts-doc-4.025-14.20200310git98add57.fc40.x86_64.rpm"
+  },
+  {
+    "name": "impressive",
+    "desc": "A program that displays presentation slides",
+    "package_name": "impressive",
+    "version": "0.13.2-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/impressive-0.13.2-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings",
+    "desc": "Delivery framework for general Input Method configuration",
+    "package_name": "imsettings",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-cinnamon",
+    "desc": "Cinnamon support on imsettings",
+    "package_name": "imsettings-cinnamon",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-cinnamon-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-devel",
+    "desc": "Development files for imsettings",
+    "package_name": "imsettings-devel",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-devel-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-gsettings",
+    "desc": "GSettings support on imsettings",
+    "package_name": "imsettings-gsettings",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-gsettings-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-libs",
+    "desc": "Libraries for imsettings",
+    "package_name": "imsettings-libs",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-libs-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-lxde",
+    "desc": "LXDE support on imsettings",
+    "package_name": "imsettings-lxde",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-lxde-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-mate",
+    "desc": "MATE support on imsettings",
+    "package_name": "imsettings-mate",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-mate-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-plasma",
+    "desc": "Plasma Workspace support on imsettings",
+    "package_name": "imsettings-plasma",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-plasma-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-qt",
+    "desc": "Qt support on imsettings",
+    "package_name": "imsettings-qt",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-qt-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-xfce",
+    "desc": "Xfce support on imsettings",
+    "package_name": "imsettings-xfce",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-xfce-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imsettings-xim",
+    "desc": "XIM support on imsettings",
+    "package_name": "imsettings-xim",
+    "version": "1.8.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imsettings-xim-1.8.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imv",
+    "desc": "Image viewer for X11 and Wayland",
+    "package_name": "imv",
+    "version": "4.5.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imv-4.5.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imvirt",
+    "desc": "Detects several virtualizations",
+    "package_name": "imvirt",
+    "version": "0.9.6-35.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imvirt-0.9.6-35.fc40.x86_64.rpm"
+  },
+  {
+    "name": "imwheel",
+    "desc": "Mouse Event to Key Event Mapper Daemon",
+    "package_name": "imwheel",
+    "version": "1.0.0-0.14.pre12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/imwheel-1.0.0-0.14.pre12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inadyn-mt",
+    "desc": "Dynamic DNS Client",
+    "package_name": "inadyn-mt",
+    "version": "2.28.10-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inadyn-mt-2.28.10-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inchi",
+    "desc": "The IUPAC International Chemical Identifier library",
+    "package_name": "inchi",
+    "version": "1.0.6-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inchi-1.0.6-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inchi-devel",
+    "desc": "Development headers for the InChI library",
+    "package_name": "inchi-devel",
+    "version": "1.0.6-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inchi-devel-1.0.6-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inchi-doc",
+    "desc": "Documentation for the InChI library",
+    "package_name": "inchi-doc",
+    "version": "1.0.6-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inchi-doc-1.0.6-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inchi-libs",
+    "desc": "The IUPAC International Chemical Identifier library",
+    "package_name": "inchi-libs",
+    "version": "1.0.6-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inchi-libs-1.0.6-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "incidenceeditor",
+    "desc": "KDE PIM library for creating and editing calendar incidences",
+    "package_name": "incidenceeditor",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/incidenceeditor-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "incidenceeditor-devel",
+    "desc": "Development files for incidenceeditor",
+    "package_name": "incidenceeditor-devel",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/incidenceeditor-devel-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "incidenceeditor-doc",
+    "desc": "Developer Documentation files for incidenceeditor",
+    "package_name": "incidenceeditor-doc",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/incidenceeditor-doc-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "incron",
+    "desc": "Inotify cron system",
+    "package_name": "incron",
+    "version": "0.5.12-24.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/incron-0.5.12-24.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indent",
+    "desc": "A GNU program for formatting C code",
+    "package_name": "indent",
+    "version": "2.2.13-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indent-2.2.13-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-aagcloudwatcher-ng",
+    "desc": "INDI driver for the AAG Cloud Watcher NG",
+    "package_name": "indi-3rdparty-aagcloudwatcher-ng",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-aagcloudwatcher-ng-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-aagcloudwatcher-ng-doc",
+    "desc": "Documentation files for indi-3rdparty-aagcloudwatcher-ng",
+    "package_name": "indi-3rdparty-aagcloudwatcher-ng-doc",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-aagcloudwatcher-ng-doc-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-ahp-xc",
+    "desc": "The INDI driver for AHP XC correlators",
+    "package_name": "indi-3rdparty-ahp-xc",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-ahp-xc-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-aok",
+    "desc": "The INDI driver for AOK Skywalker mounts",
+    "package_name": "indi-3rdparty-aok",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-aok-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-apogee",
+    "desc": "The INDI driver for Apogee Alta (U & E) line of CCDs",
+    "package_name": "indi-3rdparty-apogee",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-apogee-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-armadillo-platypus",
+    "desc": "The INDI driver for Lunatico Astronomia controllers",
+    "package_name": "indi-3rdparty-armadillo-platypus",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-armadillo-platypus-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-astrolink4",
+    "desc": "The INDI driver for Astrolink 4.0 mini devices",
+    "package_name": "indi-3rdparty-astrolink4",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-astrolink4-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-astromechfoc",
+    "desc": "The INDI driver for Astromechanics Lens Controller",
+    "package_name": "indi-3rdparty-astromechfoc",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-astromechfoc-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-avalon",
+    "desc": "INDI driver for Avalon Instruments mounts",
+    "package_name": "indi-3rdparty-avalon",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-avalon-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-avalonud",
+    "desc": "INDI driver for AvalonInstruments StarGO+ and StarGO2",
+    "package_name": "indi-3rdparty-avalonud",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-avalonud-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-beefocus",
+    "desc": "INDI driver for Beefocus",
+    "package_name": "indi-3rdparty-beefocus",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-beefocus-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-bresserexos2",
+    "desc": "INDI driver for Bresser Exos II GoTo",
+    "package_name": "indi-3rdparty-bresserexos2",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-bresserexos2-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-bresserexos2-doc",
+    "desc": "Documentation files for indi-3rdparty-bresserexos2",
+    "package_name": "indi-3rdparty-bresserexos2-doc",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-bresserexos2-doc-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-celestronaux",
+    "desc": "INDI driver for Celestron AUX",
+    "package_name": "indi-3rdparty-celestronaux",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-celestronaux-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-dreamfocuser",
+    "desc": "INDI driver for Dreamfocuser",
+    "package_name": "indi-3rdparty-dreamfocuser",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-dreamfocuser-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-drivers",
+    "desc": "INDI 3rdparty drivers",
+    "package_name": "indi-3rdparty-drivers",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-drivers-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-eqmod",
+    "desc": "INDI driver providing support for SkyWatcher Protocol",
+    "package_name": "indi-3rdparty-eqmod",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-eqmod-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-fli",
+    "desc": "INDI driver for Finger Lakes Instruments CCDs and focusers",
+    "package_name": "indi-3rdparty-fli",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-fli-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-gphoto",
+    "desc": "INDI driver providing support for gPhoto",
+    "package_name": "indi-3rdparty-gphoto",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-gphoto-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-gpsd",
+    "desc": "INDI driver providing support for gpsd",
+    "package_name": "indi-3rdparty-gpsd",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-gpsd-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-gpsnmea",
+    "desc": "INDI driver providing support for gps NMEA",
+    "package_name": "indi-3rdparty-gpsnmea",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-gpsnmea-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-libapogee",
+    "desc": "Library for Apogee CCD Cameras",
+    "package_name": "indi-3rdparty-libapogee",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-libapogee-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-libapogee-devel",
+    "desc": "Development files indi-3rdparty-libapogee",
+    "package_name": "indi-3rdparty-libapogee-devel",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-libapogee-devel-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-libfli",
+    "desc": "Library for FLI CCD Camera & Filter Wheels",
+    "package_name": "indi-3rdparty-libfli",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-libfli-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-libfli-devel",
+    "desc": "Development files indi-3rdparty-libfli",
+    "package_name": "indi-3rdparty-libfli-devel",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-libfli-devel-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-libraries",
+    "desc": "INDI 3rdparty libraries",
+    "package_name": "indi-3rdparty-libraries",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-libraries-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-maxdome",
+    "desc": "INDI driver for MaxDome II",
+    "package_name": "indi-3rdparty-maxdome",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-maxdome-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-mgen",
+    "desc": "INDI driver for Lacerta MGen autoguider",
+    "package_name": "indi-3rdparty-mgen",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-mgen-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-nexdome",
+    "desc": "INDI driver for NexDome",
+    "package_name": "indi-3rdparty-nexdome",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-nexdome-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-nightscape",
+    "desc": "INDI driver for Celestron Nightscape 8300 series",
+    "package_name": "indi-3rdparty-nightscape",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-nightscape-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-orionssg3",
+    "desc": "INDI driver for Orion StarShoot G3 cameras",
+    "package_name": "indi-3rdparty-orionssg3",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-orionssg3-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-rolloffino",
+    "desc": "INDI roll off roof driver",
+    "package_name": "indi-3rdparty-rolloffino",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-rolloffino-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-rtklib",
+    "desc": "INDI driver providing support for RTKLIB",
+    "package_name": "indi-3rdparty-rtklib",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-rtklib-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-shelyak",
+    "desc": "INDI driver providing support for Shelyak spectrographs",
+    "package_name": "indi-3rdparty-shelyak",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-shelyak-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-spectracyber",
+    "desc": "INDI driver for SpectraCyber spectrograph",
+    "package_name": "indi-3rdparty-spectracyber",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-spectracyber-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-starbook",
+    "desc": "INDI driver for Vixen Starbook telescope controllers",
+    "package_name": "indi-3rdparty-starbook",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-starbook-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-starbook-ten",
+    "desc": "INDI driver for Vixen Starbook Ten",
+    "package_name": "indi-3rdparty-starbook-ten",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-starbook-ten-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-sx",
+    "desc": "INDI driver providing support for Starlight Xpress devices",
+    "package_name": "indi-3rdparty-sx",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-sx-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-talon6",
+    "desc": "INDI driver for TALON6 Roll Off Roof",
+    "package_name": "indi-3rdparty-talon6",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-talon6-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-webcam",
+    "desc": "INDI driver for ffmpeg based webcams",
+    "package_name": "indi-3rdparty-webcam",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-webcam-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indi-3rdparty-weewx-json",
+    "desc": "Use Weewx to provide weather data to INDI",
+    "package_name": "indi-3rdparty-weewx-json",
+    "version": "2.0.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indi-3rdparty-weewx-json-2.0.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "indistarter",
+    "desc": "GUI to start, stop and control an INDI server",
+    "package_name": "indistarter",
+    "version": "2.4.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/indistarter-2.4.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inertiablast",
+    "desc": "Steal energy pods to defeat the empire",
+    "package_name": "inertiablast",
+    "version": "0.93-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inertiablast-0.93-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inews",
+    "desc": "Sends Usenet articles to a local news server for distribution",
+    "package_name": "inews",
+    "version": "2.7.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inews-2.7.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inferno",
+    "desc": "Rust port of the FlameGraph performance profiling tool suite",
+    "package_name": "inferno",
+    "version": "0.11.15-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inferno-0.11.15-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "infiniband-diags",
+    "desc": "InfiniBand Diagnostic Tools",
+    "package_name": "infiniband-diags",
+    "version": "48.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/infiniband-diags-48.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "infiniband-diags-compat",
+    "desc": "OpenFabrics Alliance InfiniBand Diagnostic Tools",
+    "package_name": "infiniband-diags-compat",
+    "version": "48.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/infiniband-diags-compat-48.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "infinipath-psm",
+    "desc": "Intel Performance Scaled Messaging (PSM) Libraries",
+    "package_name": "infinipath-psm",
+    "version": "3.3-26_g604758e_open.6.fc40.11",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/infinipath-psm-3.3-26_g604758e_open.6.fc40.11.x86_64.rpm"
+  },
+  {
+    "name": "infinipath-psm-devel",
+    "desc": "Development files for Intel PSM",
+    "package_name": "infinipath-psm-devel",
+    "version": "3.3-26_g604758e_open.6.fc40.11",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/infinipath-psm-devel-3.3-26_g604758e_open.6.fc40.11.x86_64.rpm"
+  },
+  {
+    "name": "info",
+    "desc": "A stand-alone TTY-based reader for GNU texinfo documentation",
+    "package_name": "info",
+    "version": "7.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/info-7.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ini2toml",
+    "desc": "Automatic conversion of .ini/.cfg files to TOML equivalents",
+    "package_name": "ini2toml",
+    "version": "0.12-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ini2toml-0.12-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ini2toml+full",
+    "desc": "Metapackage for ini2toml: full extras",
+    "package_name": "ini2toml+full",
+    "version": "0.12-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ini2toml+full-0.12-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ini2toml+lite",
+    "desc": "Metapackage for ini2toml: lite extras",
+    "package_name": "ini2toml+lite",
+    "version": "0.12-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ini2toml+lite-0.12-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inih",
+    "desc": "Simple INI file parser library",
+    "package_name": "inih",
+    "version": "58-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inih-58-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inih-cpp",
+    "desc": "INIReader C++ library",
+    "package_name": "inih-cpp",
+    "version": "58-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inih-cpp-58-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inih-devel",
+    "desc": "Development package for inih",
+    "package_name": "inih-devel",
+    "version": "58-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inih-devel-58-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iniparser-devel",
+    "desc": "Header files, libraries and development documentation for iniparser",
+    "package_name": "iniparser-devel",
+    "version": "4.1-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iniparser-devel-4.1-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initial-setup",
+    "desc": "Initial system configuration utility",
+    "package_name": "initial-setup",
+    "version": "0.3.100-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initial-setup-0.3.100-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initial-setup-gui",
+    "desc": "Graphical user interface for the initial-setup utility",
+    "package_name": "initial-setup-gui",
+    "version": "0.3.100-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initial-setup-gui-0.3.100-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initial-setup-gui-wayland-generic",
+    "desc": "Run the initial-setup GUI in Wayland",
+    "package_name": "initial-setup-gui-wayland-generic",
+    "version": "0.3.100-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initial-setup-gui-wayland-generic-0.3.100-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initial-setup-gui-wayland-plasma",
+    "desc": "Run initial-setup GUI on Plasma Wayland",
+    "package_name": "initial-setup-gui-wayland-plasma",
+    "version": "40.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initial-setup-gui-wayland-plasma-40.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initial-setup-gui-wayland-sway",
+    "desc": "Sway Wayland Initial Setup GUI configuration",
+    "package_name": "initial-setup-gui-wayland-sway",
+    "version": "0.4.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initial-setup-gui-wayland-sway-0.4.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initoverlayfs",
+    "desc": "An initial scalable filesystem for Linux operating systems",
+    "package_name": "initoverlayfs",
+    "version": "0.991-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initoverlayfs-0.991-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initscripts",
+    "desc": "Basic support for legacy System V init scripts",
+    "package_name": "initscripts",
+    "version": "10.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initscripts-10.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initscripts-rename-device",
+    "desc": "Udev helper utility that provides network interface naming",
+    "package_name": "initscripts-rename-device",
+    "version": "10.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initscripts-rename-device-10.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "initscripts-service",
+    "desc": "Support for service command",
+    "package_name": "initscripts-service",
+    "version": "10.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/initscripts-service-10.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inkscape",
+    "desc": "Vector-based drawing program using SVG",
+    "package_name": "inkscape",
+    "version": "1.3.2-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inkscape-1.3.2-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inkscape-docs",
+    "desc": "Documentation for Inkscape",
+    "package_name": "inkscape-docs",
+    "version": "1.3.2-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inkscape-docs-1.3.2-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inkscape-libs",
+    "desc": "Shared libraries for Inkscape",
+    "package_name": "inkscape-libs",
+    "version": "1.3.2-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inkscape-libs-1.3.2-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inkscape-psd",
+    "desc": "Inkscape PSD Importer",
+    "package_name": "inkscape-psd",
+    "version": "0.1.1-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inkscape-psd-0.1.1-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inkscape-svg2tikz",
+    "desc": "Inkscape svg2tikz extension",
+    "package_name": "inkscape-svg2tikz",
+    "version": "2.1.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inkscape-svg2tikz-2.1.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inkscape-view",
+    "desc": "Viewing program for SVG files",
+    "package_name": "inkscape-view",
+    "version": "1.3.2-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inkscape-view-1.3.2-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inksmoto",
+    "desc": "The new xmoto level editor for Inkscape",
+    "package_name": "inksmoto",
+    "version": "0.7.0-34.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inksmoto-0.7.0-34.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inn",
+    "desc": "The InterNetNews system, an Usenet news server",
+    "package_name": "inn",
+    "version": "2.7.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inn-2.7.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inn-devel",
+    "desc": "The INN (InterNetNews) library",
+    "package_name": "inn-devel",
+    "version": "2.7.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inn-devel-2.7.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inn-libs",
+    "desc": "Libraries provided by INN",
+    "package_name": "inn-libs",
+    "version": "2.7.1-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inn-libs-2.7.1-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "innoextract",
+    "desc": "Tool to extract installers created by Inno Setup",
+    "package_name": "innoextract",
+    "version": "1.9-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/innoextract-1.9-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "innotop",
+    "desc": "A MySQL and InnoDB monitor program",
+    "package_name": "innotop",
+    "version": "1.13.0-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/innotop-1.13.0-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inotify-tools",
+    "desc": "Command line utilities for inotify",
+    "package_name": "inotify-tools",
+    "version": "3.22.1.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inotify-tools-3.22.1.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inotify-tools-devel",
+    "desc": "Headers and libraries for building apps that use libinotifytools",
+    "package_name": "inotify-tools-devel",
+    "version": "3.22.1.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inotify-tools-devel-3.22.1.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "input-leap",
+    "desc": "Share mouse and keyboard between multiple computers over the network",
+    "package_name": "input-leap",
+    "version": "2.4.0^20231022gitc5bb9dca-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/input-leap-2.4.0^20231022gitc5bb9dca-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "input-pad",
+    "desc": "On-screen Input Pad to Send Characters with Mouse",
+    "package_name": "input-pad",
+    "version": "1.0.99.20210817-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/input-pad-1.0.99.20210817-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "input-pad-devel",
+    "desc": "Development tools for input-pad",
+    "package_name": "input-pad-devel",
+    "version": "1.0.99.20210817-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/input-pad-devel-1.0.99.20210817-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "input-remapper",
+    "desc": "An easy to use tool to change the behaviour of your input devices",
+    "package_name": "input-remapper",
+    "version": "2.0.1-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/input-remapper-2.0.1-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "insight",
+    "desc": "Graphical debugger based on GDB",
+    "package_name": "insight",
+    "version": "13.0.50.20220502-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/insight-13.0.50.20220502-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "InsightToolkit",
+    "desc": "Insight Toolkit library for medical image processing",
+    "package_name": "InsightToolkit",
+    "version": "4.13.3-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/InsightToolkit-4.13.3-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "InsightToolkit-devel",
+    "desc": "Insight Toolkit",
+    "package_name": "InsightToolkit-devel",
+    "version": "4.13.3-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/InsightToolkit-devel-4.13.3-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "InsightToolkit-doc",
+    "desc": "Documentation for ITK",
+    "package_name": "InsightToolkit-doc",
+    "version": "4.13.3-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/InsightToolkit-doc-4.13.3-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "InsightToolkit-examples",
+    "desc": "C++, Tcl and Python example programs/scripts for ITK",
+    "package_name": "InsightToolkit-examples",
+    "version": "4.13.3-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/InsightToolkit-examples-4.13.3-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "InsightToolkit-vtk",
+    "desc": "Provides an interface between ITK and VTK",
+    "package_name": "InsightToolkit-vtk",
+    "version": "4.13.3-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/InsightToolkit-vtk-4.13.3-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "InsightToolkit-vtk-devel",
+    "desc": "Libraries and header files for development of ITK-VTK bridge",
+    "package_name": "InsightToolkit-vtk-devel",
+    "version": "4.13.3-15.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/InsightToolkit-vtk-devel-4.13.3-15.fc39.x86_64.rpm"
+  },
+  {
+    "name": "integritysetup",
+    "desc": "A utility for setting up dm-integrity volumes",
+    "package_name": "integritysetup",
+    "version": "2.7.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/integritysetup-2.7.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-audio-firmware",
+    "desc": "Firmware for Intel audio DSP amplifiers and codecs",
+    "package_name": "intel-audio-firmware",
+    "version": "20240312-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-audio-firmware-20240312-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-clear-sans-fonts",
+    "desc": "Clear Sans, a versatile font family for screen, print, and Web",
+    "package_name": "intel-clear-sans-fonts",
+    "version": "1.00-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-clear-sans-fonts-1.00-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-cm-compiler",
+    "desc": "Intel C for Metal compiler",
+    "package_name": "intel-cm-compiler",
+    "version": "1.0.144-7.20240131gitcc4f5b6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-cm-compiler-1.0.144-7.20240131gitcc4f5b6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-cm-compiler-devel",
+    "desc": "Development files for Libraries for Intel C for Metal compiler",
+    "package_name": "intel-cm-compiler-devel",
+    "version": "1.0.144-7.20240131gitcc4f5b6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-cm-compiler-devel-1.0.144-7.20240131gitcc4f5b6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-cm-compiler-libs",
+    "desc": "Libraries for Intel C for Metal compiler",
+    "package_name": "intel-cm-compiler-libs",
+    "version": "1.0.144-7.20240131gitcc4f5b6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-cm-compiler-libs-1.0.144-7.20240131gitcc4f5b6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-cmt-cat",
+    "desc": "Intel cache monitoring and allocation technology config tool",
+    "package_name": "intel-cmt-cat",
+    "version": "23.11-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-cmt-cat-23.11-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-cmt-cat-devel",
+    "desc": "Development files for intel-cmt-cat",
+    "package_name": "intel-cmt-cat-devel",
+    "version": "23.11-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-cmt-cat-devel-23.11-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-compute-runtime",
+    "desc": "Compute API support for Intel graphics",
+    "package_name": "intel-compute-runtime",
+    "version": "24.09.28717.17-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-compute-runtime-24.09.28717.17-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-gmmlib",
+    "desc": "Intel Graphics Memory Management Library",
+    "package_name": "intel-gmmlib",
+    "version": "22.3.18-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-gmmlib-22.3.18-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-gmmlib-devel",
+    "desc": "Development files for intel-gmmlib",
+    "package_name": "intel-gmmlib-devel",
+    "version": "22.3.18-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-gmmlib-devel-22.3.18-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-gpu-firmware",
+    "desc": "Firmware for Intel GPUs",
+    "package_name": "intel-gpu-firmware",
+    "version": "20240312-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-gpu-firmware-20240312-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-igc",
+    "desc": "Intel Graphics Compiler for OpenCL",
+    "package_name": "intel-igc",
+    "version": "1.0.16510.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-igc-1.0.16510.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-igc-devel",
+    "desc": "Intel Graphics Compiler Frontend - Devel Files",
+    "package_name": "intel-igc-devel",
+    "version": "1.0.16510.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-igc-devel-1.0.16510.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-igc-libs",
+    "desc": "Intel Graphics Compiler Frontend - Library Files",
+    "package_name": "intel-igc-libs",
+    "version": "1.0.16510.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-igc-libs-1.0.16510.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-ipp-crypto-mb",
+    "desc": "Intel IPP Cryptography multi-buffer library",
+    "package_name": "intel-ipp-crypto-mb",
+    "version": "1.0.10-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-ipp-crypto-mb-1.0.10-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-ipp-crypto-mb-devel",
+    "desc": "Development files for intel-ipp-crypto-mb",
+    "package_name": "intel-ipp-crypto-mb-devel",
+    "version": "1.0.10-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-ipp-crypto-mb-devel-1.0.10-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-ipsec-mb",
+    "desc": "IPsec cryptography library optimized for Intel Architecture",
+    "package_name": "intel-ipsec-mb",
+    "version": "1.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-ipsec-mb-1.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-ipsec-mb-devel",
+    "desc": "Development files for intel-ipsec-mb",
+    "package_name": "intel-ipsec-mb-devel",
+    "version": "1.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-ipsec-mb-devel-1.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-level-zero",
+    "desc": "oneAPI L0 support implementation for Intel GPUs",
+    "package_name": "intel-level-zero",
+    "version": "24.09.28717.17-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-level-zero-24.09.28717.17-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-llvm-vc-intrinsics11-devel",
+    "desc": "Development files for LLVM 11 VC Intrinsics",
+    "package_name": "intel-llvm-vc-intrinsics11-devel",
+    "version": "0.17.0-1.20240206git1ba2c43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-llvm-vc-intrinsics11-devel-0.17.0-1.20240206git1ba2c43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-lpmd",
+    "desc": "Intel Low Power Mode Daemon",
+    "package_name": "intel-lpmd",
+    "version": "0.0.3-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-lpmd-0.0.3-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-mediasdk",
+    "desc": "Hardware-accelerated video processing on Intel integrated GPUs library",
+    "package_name": "intel-mediasdk",
+    "version": "23.2.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-mediasdk-23.2.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-mediasdk-devel",
+    "desc": "SDK for hardware-accelerated video processing on Intel integrated GPUs",
+    "package_name": "intel-mediasdk-devel",
+    "version": "23.2.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-mediasdk-devel-23.2.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-mediasdk-tracer",
+    "desc": "Dump the calls of an application to the Intel Media SDK library",
+    "package_name": "intel-mediasdk-tracer",
+    "version": "23.2.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-mediasdk-tracer-23.2.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-metee",
+    "desc": "Intel ME TEE Library",
+    "package_name": "intel-metee",
+    "version": "3.2.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-metee-3.2.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-metee-devel",
+    "desc": "Development files for intel-metee",
+    "package_name": "intel-metee-devel",
+    "version": "3.2.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-metee-devel-3.2.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-metee-doc",
+    "desc": "Documentation files for intel-metee",
+    "package_name": "intel-metee-doc",
+    "version": "3.2.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-metee-doc-3.2.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-mpi-benchmarks-license",
+    "desc": "License of Intel MPI benchmarks",
+    "package_name": "intel-mpi-benchmarks-license",
+    "version": "2021.3-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-mpi-benchmarks-license-2021.3-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-mpi-benchmarks-mpich",
+    "desc": "Intel MPI benchmarks compiled against mpich",
+    "package_name": "intel-mpi-benchmarks-mpich",
+    "version": "2021.3-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-mpi-benchmarks-mpich-2021.3-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-mpi-benchmarks-openmpi",
+    "desc": "Intel MPI benchmarks compiled against openmpi",
+    "package_name": "intel-mpi-benchmarks-openmpi",
+    "version": "2021.3-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-mpi-benchmarks-openmpi-2021.3-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-ocloc",
+    "desc": "Tool for managing Intel Compute GPU device binary format",
+    "package_name": "intel-ocloc",
+    "version": "24.09.28717.17-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-ocloc-24.09.28717.17-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-ocloc-devel",
+    "desc": "Tool for managing Intel Compute GPU device binary format - Devel Files",
+    "package_name": "intel-ocloc-devel",
+    "version": "24.09.28717.17-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-ocloc-devel-24.09.28717.17-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-one-mono-fonts",
+    "desc": "An expressive monospaced font family",
+    "package_name": "intel-one-mono-fonts",
+    "version": "1.3.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-one-mono-fonts-1.3.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-opencl",
+    "desc": "OpenCL support implementation for Intel GPUs",
+    "package_name": "intel-opencl",
+    "version": "24.09.28717.17-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-opencl-24.09.28717.17-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-opencl-clang",
+    "desc": "Library to compile OpenCL C kernels to SPIR-V modules",
+    "package_name": "intel-opencl-clang",
+    "version": "15.0.0-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-opencl-clang-15.0.0-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-opencl-clang-devel",
+    "desc": "Development files for intel-opencl-clang",
+    "package_name": "intel-opencl-clang-devel",
+    "version": "15.0.0-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-opencl-clang-devel-15.0.0-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-undervolt",
+    "desc": "Intel CPU undervolting and throttling configuration tool",
+    "package_name": "intel-undervolt",
+    "version": "1.7-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-undervolt-1.7-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intel-vsc-firmware",
+    "desc": "Firmware files for Intel Visual Sensing Controller (IVSC)",
+    "package_name": "intel-vsc-firmware",
+    "version": "20240312-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intel-vsc-firmware-20240312-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intelhex",
+    "desc": "Utilities for manipulating Intel HEX file format",
+    "package_name": "intelhex",
+    "version": "2.3.0-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intelhex-2.3.0-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intelhex-docs",
+    "desc": "Manuak for the IntelHex python library",
+    "package_name": "intelhex-docs",
+    "version": "2.3.0-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intelhex-docs-2.3.0-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "intltool",
+    "desc": "Utility for internationalizing various kinds of data files",
+    "package_name": "intltool",
+    "version": "0.51.0-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/intltool-0.51.0-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "inxi",
+    "desc": "A full featured system information script",
+    "package_name": "inxi",
+    "version": "3.3.33-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/inxi-3.3.33-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Io-language",
+    "desc": "Io is a small, prototype-based programming language",
+    "package_name": "Io-language",
+    "version": "20170906-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/Io-language-20170906-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Io-language-devel",
+    "desc": "Development files for Io-language",
+    "package_name": "Io-language-devel",
+    "version": "20170906-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/Io-language-devel-20170906-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Io-language-extras",
+    "desc": "Io extra addons",
+    "package_name": "Io-language-extras",
+    "version": "20170906-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/Io-language-extras-20170906-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Io-language-graphics-and-sound",
+    "desc": "Io graphics and sound support",
+    "package_name": "Io-language-graphics-and-sound",
+    "version": "20170906-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/Io-language-graphics-and-sound-20170906-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Io-language-mysql",
+    "desc": "Io mysql bindings",
+    "package_name": "Io-language-mysql",
+    "version": "20170906-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/Io-language-mysql-20170906-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "Io-language-postgresql",
+    "desc": "Io postgresql bindings",
+    "package_name": "Io-language-postgresql",
+    "version": "20170906-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/Io-language-postgresql-20170906-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ioc-writer",
+    "desc": "Tool to create and edit OpenIOC objects",
+    "package_name": "ioc-writer",
+    "version": "0.3.3-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ioc-writer-0.3.3-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iodine",
+    "desc": "Solution to tunnel IPv4 data through a DNS server",
+    "package_name": "iodine",
+    "version": "0.8.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iodine-0.8.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iodine-client",
+    "desc": "Client part of solution to tunnel IPv4 data through a DNS server",
+    "package_name": "iodine-client",
+    "version": "0.8.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iodine-client-0.8.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iodine-server",
+    "desc": "Server part of solution to tunnel IPv4 data through a DNS server",
+    "package_name": "iodine-server",
+    "version": "0.8.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iodine-server-0.8.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ioping",
+    "desc": "Simple disk I/O latency monitoring tool",
+    "package_name": "ioping",
+    "version": "1.3-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ioping-1.3-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ioport",
+    "desc": "Access I/O ports",
+    "package_name": "ioport",
+    "version": "1.2-30.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ioport-1.2-30.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iotools",
+    "desc": "Set of command line tools to access hardware device registers",
+    "package_name": "iotools",
+    "version": "1.7~pre0-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iotools-1.7~pre0-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iotop-c",
+    "desc": "Simple top-like I/O monitor (implemented in C)",
+    "package_name": "iotop-c",
+    "version": "1.26-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iotop-c-1.26-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iowatcher",
+    "desc": "Utility for visualizing block layer IO patterns and performance",
+    "package_name": "iowatcher",
+    "version": "1.3.0-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iowatcher-1.3.0-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ip-sentinel",
+    "desc": "Tool to prevent unauthorized usage of IP addresses",
+    "package_name": "ip-sentinel",
+    "version": "0.12-1929.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ip-sentinel-0.12-1929.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IP2Location",
+    "desc": "Tools for mapping IP address to geolocation information",
+    "package_name": "IP2Location",
+    "version": "8.6.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IP2Location-8.6.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IP2Location-data-sample",
+    "desc": "Sample data files for the IP2Location library",
+    "package_name": "IP2Location-data-sample",
+    "version": "8.6.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IP2Location-data-sample-8.6.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IP2Location-devel",
+    "desc": "Development files for the IP2Location library",
+    "package_name": "IP2Location-devel",
+    "version": "8.6.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IP2Location-devel-8.6.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IP2Location-libs",
+    "desc": "C library for mapping IP address to geolocation information",
+    "package_name": "IP2Location-libs",
+    "version": "8.6.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IP2Location-libs-8.6.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipa-exgothic-fonts",
+    "desc": "Japanese Gothic-typeface OpenType font by IPA",
+    "package_name": "ipa-exgothic-fonts",
+    "version": "004.01-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipa-exgothic-fonts-004.01-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipa-exmincho-fonts",
+    "desc": "Japanese Mincho-typeface OpenType font by IPA",
+    "package_name": "ipa-exmincho-fonts",
+    "version": "004.01-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipa-exmincho-fonts-004.01-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipa-gothic-fonts",
+    "desc": "Japanese Gothic-typeface OpenType font by IPA",
+    "package_name": "ipa-gothic-fonts",
+    "version": "003.03-29.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipa-gothic-fonts-003.03-29.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipa-mincho-fonts",
+    "desc": "Japanese Mincho-typeface OpenType font by IPA",
+    "package_name": "ipa-mincho-fonts",
+    "version": "003.03-28.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipa-mincho-fonts-003.03-28.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipa-pgothic-fonts",
+    "desc": "Japanese Proportional Gothic-typeface OpenType font by IPA",
+    "package_name": "ipa-pgothic-fonts",
+    "version": "003.03-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipa-pgothic-fonts-003.03-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipa-pmincho-fonts",
+    "desc": "Japanese Proportional Mincho-typeface OpenType font by IPA",
+    "package_name": "ipa-pmincho-fonts",
+    "version": "003.03-27.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipa-pmincho-fonts-003.03-27.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IPAddress",
+    "desc": "Library for handling IP addresses and subnets, both IPv4 and IPv6",
+    "package_name": "IPAddress",
+    "version": "5.2.1-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IPAddress-5.2.1-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipcalc",
+    "desc": "IP network address calculator",
+    "package_name": "ipcalc",
+    "version": "1.0.3-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipcalc-1.0.3-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipcgull",
+    "desc": "A GDBus-based IPC library for modern C++",
+    "package_name": "ipcgull",
+    "version": "0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipcgull-0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipcgull-devel",
+    "desc": "A GDBus-based IPC library for modern C++",
+    "package_name": "ipcgull-devel",
+    "version": "0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipcgull-devel-0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipe",
+    "desc": "Drawing editor for creating figures in PDF or PostScript formats",
+    "package_name": "ipe",
+    "version": "7.2.28-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipe-7.2.28-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipe-devel",
+    "desc": "Development files and documentation for designing Ipelets",
+    "package_name": "ipe-devel",
+    "version": "7.2.28-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipe-devel-7.2.28-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipe-doc",
+    "desc": "Documentation of Ipe",
+    "package_name": "ipe-doc",
+    "version": "7.2.28-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipe-doc-7.2.28-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iperf",
+    "desc": "Measurement tool for TCP/UDP bandwidth performance",
+    "package_name": "iperf",
+    "version": "2.1.9-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iperf-2.1.9-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iperf3",
+    "desc": "Measurement tool for TCP/UDP bandwidth performance",
+    "package_name": "iperf3",
+    "version": "3.16-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iperf3-3.16-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iperf3-devel",
+    "desc": "Development files for iperf3",
+    "package_name": "iperf3-devel",
+    "version": "3.16-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iperf3-devel-3.16-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipgetter2",
+    "desc": "Utility to fetch your external IP address",
+    "package_name": "ipgetter2",
+    "version": "1.1.11-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipgetter2-1.1.11-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipmctl",
+    "desc": "Utility for managing Intel Optane DC persistent memory modules",
+    "package_name": "ipmctl",
+    "version": "03.00.00.0468-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipmctl-03.00.00.0468-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipmievd",
+    "desc": "IPMI event daemon for sending events to syslog",
+    "package_name": "ipmievd",
+    "version": "1.8.19-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipmievd-1.8.19-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipmitool",
+    "desc": "Utility for IPMI control",
+    "package_name": "ipmitool",
+    "version": "1.8.19-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipmitool-1.8.19-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipp-usb",
+    "desc": "HTTP reverse proxy capable of IPP-over-USB connection",
+    "package_name": "ipp-usb",
+    "version": "0.9.24-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipp-usb-0.9.24-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iproute",
+    "desc": "Advanced IP routing and network device configuration tools",
+    "package_name": "iproute",
+    "version": "6.7.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iproute-6.7.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iproute-devel",
+    "desc": "iproute development files",
+    "package_name": "iproute-devel",
+    "version": "6.7.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iproute-devel-6.7.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iproute-doc",
+    "desc": "Documentation for iproute2 utilities with examples",
+    "package_name": "iproute-doc",
+    "version": "6.7.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iproute-doc-6.7.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iproute-tc",
+    "desc": "Linux Traffic Control utility",
+    "package_name": "iproute-tc",
+    "version": "6.7.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iproute-tc-6.7.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iprutils",
+    "desc": "Utilities for the IBM Power Linux RAID adapters",
+    "package_name": "iprutils",
+    "version": "2.4.19-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iprutils-2.4.19-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipset",
+    "desc": "Manage Linux IP sets",
+    "package_name": "ipset",
+    "version": "7.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipset-7.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipset-devel",
+    "desc": "Development files for ipset",
+    "package_name": "ipset-devel",
+    "version": "7.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipset-devel-7.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipset-libs",
+    "desc": "Shared library providing the IP sets functionality",
+    "package_name": "ipset-libs",
+    "version": "7.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipset-libs-7.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipset-service",
+    "desc": "ipset service for ipsets",
+    "package_name": "ipset-service",
+    "version": "7.21-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipset-service-7.21-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon",
+    "desc": "An Identity Provider Server",
+    "package_name": "ipsilon",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-authform",
+    "desc": "mod_intercept_form_submit login plugin",
+    "package_name": "ipsilon-authform",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-authform-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-authgssapi",
+    "desc": "mod_auth_gssapi based login plugin",
+    "package_name": "ipsilon-authgssapi",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-authgssapi-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-authldap",
+    "desc": "LDAP info and login plugin",
+    "package_name": "ipsilon-authldap",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-authldap-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-authpam",
+    "desc": "PAM based login plugin",
+    "package_name": "ipsilon-authpam",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-authpam-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-base",
+    "desc": "Ipsilon base IDP server",
+    "package_name": "ipsilon-base",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-base-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-client",
+    "desc": "Tools for configuring Ipsilon clients",
+    "package_name": "ipsilon-client",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-client-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-filesystem",
+    "desc": "Package providing files required by Ipsilon",
+    "package_name": "ipsilon-filesystem",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-filesystem-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-infofas",
+    "desc": "Fedora Authentication System login plugin",
+    "package_name": "ipsilon-infofas",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-infofas-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-infosssd",
+    "desc": "SSSD based identity plugin",
+    "package_name": "ipsilon-infosssd",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-infosssd-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-openid",
+    "desc": "Openid provider plugin",
+    "package_name": "ipsilon-openid",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-openid-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-openidc",
+    "desc": "OpenID Connect provider plugin",
+    "package_name": "ipsilon-openidc",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-openidc-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-saml2",
+    "desc": "SAML2 provider plugin",
+    "package_name": "ipsilon-saml2",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-saml2-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-saml2-base",
+    "desc": "SAML2 base",
+    "package_name": "ipsilon-saml2-base",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-saml2-base-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-theme-Fedora",
+    "desc": "Fedora Account System theme",
+    "package_name": "ipsilon-theme-Fedora",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-theme-Fedora-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-theme-openSUSE",
+    "desc": "openSUSE Accounts theme",
+    "package_name": "ipsilon-theme-openSUSE",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-theme-openSUSE-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipsilon-tools-ipa",
+    "desc": "IPA helpers",
+    "package_name": "ipsilon-tools-ipa",
+    "version": "3.0.4-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipsilon-tools-ipa-3.0.4-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-devel",
+    "desc": "Development package for iptables",
+    "package_name": "iptables-devel",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-devel-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-legacy",
+    "desc": "Legacy tools for managing Linux kernel packet filtering capabilities",
+    "package_name": "iptables-legacy",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-legacy-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-legacy-devel",
+    "desc": "Development package for legacy iptables",
+    "package_name": "iptables-legacy-devel",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-legacy-devel-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-legacy-libs",
+    "desc": "iptables legacy libraries",
+    "package_name": "iptables-legacy-libs",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-legacy-libs-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-libs",
+    "desc": "libxtables and iptables extensions userspace support",
+    "package_name": "iptables-libs",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-libs-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-nft",
+    "desc": "nftables compatibility for iptables, arptables and ebtables",
+    "package_name": "iptables-nft",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-nft-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-services",
+    "desc": "iptables and ip6tables services for iptables",
+    "package_name": "iptables-services",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-services-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptables-utils",
+    "desc": "iptables and ip6tables misc utilities",
+    "package_name": "iptables-utils",
+    "version": "1.8.10-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptables-utils-1.8.10-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptraf-ng",
+    "desc": "A console-based network monitoring utility",
+    "package_name": "iptraf-ng",
+    "version": "1.2.1-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptraf-ng-1.2.1-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iptstate",
+    "desc": "A top-like display of IP Tables state table entries",
+    "package_name": "iptstate",
+    "version": "2.2.7-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iptstate-2.2.7-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iputils",
+    "desc": "Network monitoring tools including ping",
+    "package_name": "iputils",
+    "version": "20240117-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iputils-20240117-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipuz-convertor",
+    "desc": "Converts puz files to ipuz files",
+    "package_name": "ipuz-convertor",
+    "version": "0.3.12-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipuz-convertor-0.3.12-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipv6calc",
+    "desc": "IPv6 address format change and calculation utility",
+    "package_name": "ipv6calc",
+    "version": "4.2.0-80.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipv6calc-4.2.0-80.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipv6calc-ipv6calcweb",
+    "desc": "IP address information web utility",
+    "package_name": "ipv6calc-ipv6calcweb",
+    "version": "4.2.0-80.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipv6calc-ipv6calcweb-4.2.0-80.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipv6calc-mod_ipv6calc",
+    "desc": "Apache module for ipv6calc",
+    "package_name": "ipv6calc-mod_ipv6calc",
+    "version": "4.2.0-80.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipv6calc-mod_ipv6calc-4.2.0-80.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipv6gen",
+    "desc": "IPv6 prefix generator",
+    "package_name": "ipv6gen",
+    "version": "1.0-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipv6gen-1.0-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipvsadm",
+    "desc": "Utility to administer the Linux Virtual Server",
+    "package_name": "ipvsadm",
+    "version": "1.31-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipvsadm-1.31-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipxe-bootimgs-aarch64",
+    "desc": "ARM Network boot loader images in bootable USB and GRUB formats",
+    "package_name": "ipxe-bootimgs-aarch64",
+    "version": "20240119-1.gitde8a0821.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipxe-bootimgs-aarch64-20240119-1.gitde8a0821.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipxe-bootimgs-x86",
+    "desc": "X86 Network boot loader images in bootable USB, CD, floppy and GRUB formats",
+    "package_name": "ipxe-bootimgs-x86",
+    "version": "20240119-1.gitde8a0821.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipxe-bootimgs-x86-20240119-1.gitde8a0821.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipxe-roms",
+    "desc": "Network boot loader roms in .rom format",
+    "package_name": "ipxe-roms",
+    "version": "20240119-1.gitde8a0821.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipxe-roms-20240119-1.gitde8a0821.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipxe-roms-qemu",
+    "desc": "Network boot loader roms supported by QEMU, .rom format",
+    "package_name": "ipxe-roms-qemu",
+    "version": "20240119-1.gitde8a0821.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipxe-roms-qemu-20240119-1.gitde8a0821.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ipxripd",
+    "desc": "IPX RIP/SAP daemon - routing for IPX networks",
+    "package_name": "ipxripd",
+    "version": "0.8-38.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ipxripd-0.8-38.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IQmol",
+    "desc": "A free open-source molecular editor and visualization package",
+    "package_name": "IQmol",
+    "version": "3.1.2-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IQmol-3.1.2-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "IQmol-samples",
+    "desc": "Sample structures for IQmol",
+    "package_name": "IQmol-samples",
+    "version": "3.1.2-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/IQmol-samples-3.1.2-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irc-otr",
+    "desc": "Off-The-Record Messaging plugin for irssi",
+    "package_name": "irc-otr",
+    "version": "1.0.2-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irc-otr-1.0.2-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irclog2html",
+    "desc": "A script to convert IRC logs to HTML and other formats",
+    "package_name": "irclog2html",
+    "version": "2.17.2-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irclog2html-2.17.2-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irda-utils",
+    "desc": "Utilities for infrared communication between devices",
+    "package_name": "irda-utils",
+    "version": "0.9.18-47.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irda-utils-0.9.18-47.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irqbalance",
+    "desc": "IRQ balancing daemon",
+    "package_name": "irqbalance",
+    "version": "1.9.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irqbalance-1.9.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irrlicht",
+    "desc": "A high performance realtime 3D engine",
+    "package_name": "irrlicht",
+    "version": "1.8.5-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irrlicht-1.8.5-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irrlicht-devel",
+    "desc": "Development headers and libraries for irrlicht",
+    "package_name": "irrlicht-devel",
+    "version": "1.8.5-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irrlicht-devel-1.8.5-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irrXML",
+    "desc": "Simple and fast XML parser for C++",
+    "package_name": "irrXML",
+    "version": "1.8.5-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irrXML-1.8.5-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irrXML-devel",
+    "desc": "Development headers and libraries for irrXML",
+    "package_name": "irrXML-devel",
+    "version": "1.8.5-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irrXML-devel-1.8.5-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irsim",
+    "desc": "Switch-level simulator used even for VLSI",
+    "package_name": "irsim",
+    "version": "9.7.104-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irsim-9.7.104-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irssi",
+    "desc": "Modular text mode IRC client with Perl scripting",
+    "package_name": "irssi",
+    "version": "1.4.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irssi-1.4.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irssi-devel",
+    "desc": "Development package for irssi",
+    "package_name": "irssi-devel",
+    "version": "1.4.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irssi-devel-1.4.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irstlm",
+    "desc": "Statistical language model tool",
+    "package_name": "irstlm",
+    "version": "6.00.05-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irstlm-6.00.05-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irstlm-devel",
+    "desc": "Headers and libraries for building with irstlm",
+    "package_name": "irstlm-devel",
+    "version": "6.00.05-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irstlm-devel-6.00.05-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "irstlm-tools",
+    "desc": "Programs and scripts that use the irstlm library",
+    "package_name": "irstlm-tools",
+    "version": "6.00.05-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/irstlm-tools-6.00.05-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "is-it-in-rhel",
+    "desc": "Command line tool to find out if a package is in RHEL",
+    "package_name": "is-it-in-rhel",
+    "version": "1.0-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/is-it-in-rhel-1.0-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "is_ci",
+    "desc": "Super lightweight CI environment checker",
+    "package_name": "is_ci",
+    "version": "1.2.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/is_ci-1.2.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isa-l",
+    "desc": "Intel(R) Intelligent Storage Acceleration Library",
+    "package_name": "isa-l",
+    "version": "2.31.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isa-l-2.31.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isa-l-devel",
+    "desc": "Intel(R) Intelligent Storage Acceleration Library - devel files",
+    "package_name": "isa-l-devel",
+    "version": "2.31.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isa-l-devel-2.31.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isa-l-tools",
+    "desc": "Intel(R) Intelligent Storage Acceleration Library - tool",
+    "package_name": "isa-l-tools",
+    "version": "2.31.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isa-l-tools-2.31.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iscan-firmware",
+    "desc": "Firmware for Epson flatbed scanners",
+    "package_name": "iscan-firmware",
+    "version": "20190508-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iscan-firmware-20190508-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iscsi-initiator-utils",
+    "desc": "iSCSI daemon and utility programs",
+    "package_name": "iscsi-initiator-utils",
+    "version": "6.2.1.9-20.gita65a472.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iscsi-initiator-utils-6.2.1.9-20.gita65a472.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iscsi-initiator-utils-devel",
+    "desc": "Development files for iscsi-initiator-utils",
+    "package_name": "iscsi-initiator-utils-devel",
+    "version": "6.2.1.9-20.gita65a472.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iscsi-initiator-utils-devel-6.2.1.9-20.gita65a472.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iscsi-initiator-utils-iscsiuio",
+    "desc": "Userspace configuration daemon required for some iSCSI hardware",
+    "package_name": "iscsi-initiator-utils-iscsiuio",
+    "version": "6.2.1.9-20.gita65a472.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iscsi-initiator-utils-iscsiuio-6.2.1.9-20.gita65a472.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isl",
+    "desc": "Integer point manipulation library",
+    "package_name": "isl",
+    "version": "0.16.1-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isl-0.16.1-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isl-devel",
+    "desc": "Development for building integer point manipulation library",
+    "package_name": "isl-devel",
+    "version": "0.16.1-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isl-devel-0.16.1-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "islamic-menus",
+    "desc": "Islamic menus for desktops conforming with XDG standards",
+    "package_name": "islamic-menus",
+    "version": "1.0.6-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/islamic-menus-1.0.6-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isns-utils",
+    "desc": "The iSNS daemon and utility programs",
+    "package_name": "isns-utils",
+    "version": "0.101-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isns-utils-0.101-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isns-utils-devel",
+    "desc": "Development files for iSNS",
+    "package_name": "isns-utils-devel",
+    "version": "0.101-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isns-utils-devel-0.101-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isns-utils-libs",
+    "desc": "Shared library files for iSNS",
+    "package_name": "isns-utils-libs",
+    "version": "0.101-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isns-utils-libs-0.101-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iso-codes",
+    "desc": "ISO code lists and translations",
+    "package_name": "iso-codes",
+    "version": "4.16.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iso-codes-4.16.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iso-codes-devel",
+    "desc": "Files for development using iso-codes",
+    "package_name": "iso-codes-devel",
+    "version": "4.16.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iso-codes-devel-4.16.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iso-country-flags",
+    "desc": "Country flags",
+    "package_name": "iso-country-flags",
+    "version": "0-0.7.20170202git1d382a9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iso-country-flags-0-0.7.20170202git1d382a9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iso2mesh-demos",
+    "desc": "Example datasets and scripts for the Iso2Mesh toolbox",
+    "package_name": "iso2mesh-demos",
+    "version": "1.9.6-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iso2mesh-demos-1.9.6-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isoimagewriter",
+    "desc": "KDE ISO Image Writer, a tool to write a .iso file to a USB disk",
+    "package_name": "isoimagewriter",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isoimagewriter-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isomaster",
+    "desc": "An easy to use GUI CD image editor",
+    "package_name": "isomaster",
+    "version": "1.3.15-9.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isomaster-1.3.15-9.fc39.x86_64.rpm"
+  },
+  {
+    "name": "isomd5sum",
+    "desc": "Utilities for working with md5sum implanted in ISO images",
+    "package_name": "isomd5sum",
+    "version": "1.2.3-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isomd5sum-1.2.3-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isomd5sum-devel",
+    "desc": "Development headers and library for using isomd5sum",
+    "package_name": "isomd5sum-devel",
+    "version": "1.2.3-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isomd5sum-devel-1.2.3-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ispc",
+    "desc": "C-based SPMD programming language compiler",
+    "package_name": "ispc",
+    "version": "1.22.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ispc-1.22.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ispc-devel",
+    "desc": "Development files for ispc",
+    "package_name": "ispc-devel",
+    "version": "1.22.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ispc-devel-1.22.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "isrcsubmit",
+    "desc": "Script to submit ISRCs from disc to MusicBrainz",
+    "package_name": "isrcsubmit",
+    "version": "2.1.0-14.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isrcsubmit-2.1.0-14.fc39.x86_64.rpm"
+  },
+  {
+    "name": "isync",
+    "desc": "Tool to synchronize IMAP4 and Maildir mailboxes",
+    "package_name": "isync",
+    "version": "1.4.4-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/isync-1.4.4-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itcl",
+    "desc": "Object oriented extensions to Tcl and Tk",
+    "package_name": "itcl",
+    "version": "4.1.1-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itcl-4.1.1-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itcl-devel",
+    "desc": "Development headers and libraries for linking against itcl",
+    "package_name": "itcl-devel",
+    "version": "4.1.1-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itcl-devel-4.1.1-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itinerary",
+    "desc": "Itinerary and boarding pass management application",
+    "package_name": "itinerary",
+    "version": "24.02.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itinerary-24.02.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itk",
+    "desc": "Object oriented extensions to Tk",
+    "package_name": "itk",
+    "version": "4.1.0-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itk-4.1.0-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itk-devel",
+    "desc": "Development headers and libraries for linking against itk",
+    "package_name": "itk-devel",
+    "version": "4.1.0-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itk-devel-4.1.0-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itop",
+    "desc": "Interactive interrupt viewer",
+    "package_name": "itop",
+    "version": "0.1-20.20150225git6dbb3c42.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itop-0.1-20.20150225git6dbb3c42.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itstool",
+    "desc": "ITS-based XML translation tool",
+    "package_name": "itstool",
+    "version": "2.0.7-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itstool-2.0.7-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itzam-core",
+    "desc": "Library for creating and manipulating keyed-access database files",
+    "package_name": "itzam-core",
+    "version": "2.1.1-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itzam-core-2.1.1-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "itzam-core-devel",
+    "desc": "Development files for itzam-core",
+    "package_name": "itzam-core-devel",
+    "version": "2.1.1-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/itzam-core-devel-2.1.1-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iucode-tool",
+    "desc": "iucode_tool is a program to manipulate microcode update collections for Intel i686 and X86-64 system processors, and prepare them for use by the Linux kernel",
+    "package_name": "iucode-tool",
+    "version": "2.3.1-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iucode-tool-2.3.1-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iv",
+    "desc": "InterViews graphical library",
+    "package_name": "iv",
+    "version": "0.1-0.9.20200818git14890c4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iv-0.1-0.9.20200818git14890c4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iv-devel",
+    "desc": "Development files for iv",
+    "package_name": "iv-devel",
+    "version": "0.1-0.9.20200818git14890c4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iv-devel-0.1-0.9.20200818git14890c4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iverilog",
+    "desc": "Icarus Verilog is a verilog compiler and simulator",
+    "package_name": "iverilog",
+    "version": "12.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iverilog-12.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ivtv-firmware",
+    "desc": "Firmware for the Hauppauge PVR 250/350/150/500/USB2 model series",
+    "package_name": "ivtv-firmware",
+    "version": "20080701-47.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ivtv-firmware-20080701-47.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ivy-local",
+    "desc": "Local mode for Apache Ivy",
+    "package_name": "ivy-local",
+    "version": "6.2.0-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ivy-local-6.2.0-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ivykis",
+    "desc": "Library for asynchronous I/O readiness notification",
+    "package_name": "ivykis",
+    "version": "0.43-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ivykis-0.43-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "ivykis-devel",
+    "desc": "Development files for the ivykis package",
+    "package_name": "ivykis-devel",
+    "version": "0.43-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/ivykis-devel-0.43-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iw",
+    "desc": "A nl80211 based wireless configuration tool",
+    "package_name": "iw",
+    "version": "6.7-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iw-6.7-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwd",
+    "desc": "Wireless daemon for Linux",
+    "package_name": "iwd",
+    "version": "2.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwd-2.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwidgets",
+    "desc": "A set of useful widgets based on itcl and itk",
+    "package_name": "iwidgets",
+    "version": "4.1.1-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwidgets-4.1.1-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwlegacy-firmware",
+    "desc": "Firmware for Intel(R) Wireless WiFi Link 3945(A)BG and 4965AGN adapters",
+    "package_name": "iwlegacy-firmware",
+    "version": "20240312-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwlegacy-firmware-20240312-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwlwifi-dvm-firmware",
+    "desc": "DVM Firmware for Intel(R) Wireless WiFi adapters",
+    "package_name": "iwlwifi-dvm-firmware",
+    "version": "20240312-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwlwifi-dvm-firmware-20240312-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwlwifi-mvm-firmware",
+    "desc": "MVM Firmware for Intel(R) Wireless WiFi adapters",
+    "package_name": "iwlwifi-mvm-firmware",
+    "version": "20240312-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwlwifi-mvm-firmware-20240312-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwpmd",
+    "desc": "iWarp Port Mapper userspace daemon",
+    "package_name": "iwpmd",
+    "version": "48.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwpmd-48.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iwyu",
+    "desc": "C/C++ source files #include analyzer based on clang",
+    "package_name": "iwyu",
+    "version": "0.22-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iwyu-0.22-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "iyfct",
+    "desc": "Side scrolling endless runner game",
+    "package_name": "iyfct",
+    "version": "1.0.2-20180819git.ac4555d.fc40.12",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/i/iyfct-1.0.2-20180819git.ac4555d.fc40.12.x86_64.rpm"
+  }
+]

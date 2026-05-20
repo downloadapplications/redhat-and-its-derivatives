@@ -1,0 +1,3348 @@
+[
+  {
+    "name": "v-hacd-devel",
+    "desc": "Development files for V-HACD",
+    "package_name": "v-hacd-devel",
+    "version": "4.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v-hacd-devel-4.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v-hacd-tools",
+    "desc": "Command-line tools based on the V-HACD library",
+    "package_name": "v-hacd-tools",
+    "version": "4.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v-hacd-tools-4.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v4l-utils",
+    "desc": "Utilities for video4linux and DVB devices",
+    "package_name": "v4l-utils",
+    "version": "1.26.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v4l-utils-1.26.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v4l-utils-devel-tools",
+    "desc": "Utilities for v4l2 / DVB driver development and debugging",
+    "package_name": "v4l-utils-devel-tools",
+    "version": "1.26.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v4l-utils-devel-tools-1.26.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v4l2ucp",
+    "desc": "Video4linux universal control panel",
+    "package_name": "v4l2ucp",
+    "version": "2.0.1-32.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v4l2ucp-2.0.1-32.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v8-10.2-devel",
+    "desc": "v8 - development headers",
+    "package_name": "v8-10.2-devel",
+    "version": "10.2.154.26-1.18.19.0.3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v8-10.2-devel-10.2.154.26-1.18.19.0.3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v8-11.3-devel",
+    "desc": "v8 - development headers",
+    "package_name": "v8-11.3-devel",
+    "version": "11.3.244.8-1.20.11.1.2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v8-11.3-devel-11.3.244.8-1.20.11.1.2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v8-314",
+    "desc": "JavaScript Engine",
+    "package_name": "v8-314",
+    "version": "3.14.5.10-36.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v8-314-3.14.5.10-36.fc40.x86_64.rpm"
+  },
+  {
+    "name": "v8-314-devel",
+    "desc": "Development headers and libraries for v8",
+    "package_name": "v8-314-devel",
+    "version": "3.14.5.10-36.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/v8-314-devel-3.14.5.10-36.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vacation",
+    "desc": "Automatic mail answering program",
+    "package_name": "vacation",
+    "version": "1.2.7.1-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vacation-1.2.7.1-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vacuum-im",
+    "desc": "XMPP/Jabber client",
+    "package_name": "vacuum-im",
+    "version": "1.3.0-0.28.20211209git0abd5e1.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vacuum-im-1.3.0-0.28.20211209git0abd5e1.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vacuum-im-data",
+    "desc": "Images, themes and translatons for vacuum-im",
+    "package_name": "vacuum-im-data",
+    "version": "1.3.0-0.28.20211209git0abd5e1.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vacuum-im-data-1.3.0-0.28.20211209git0abd5e1.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vacuum-im-devel",
+    "desc": "Development Files for Vacuum-IM",
+    "package_name": "vacuum-im-devel",
+    "version": "1.3.0-0.28.20211209git0abd5e1.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vacuum-im-devel-1.3.0-0.28.20211209git0abd5e1.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vagrant",
+    "desc": "Build and distribute virtualized development environments",
+    "package_name": "vagrant",
+    "version": "2.3.4-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-2.3.4-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-adbinfo",
+    "desc": "Connection and configuration for a Docker daemon",
+    "package_name": "vagrant-adbinfo",
+    "version": "0.1.0-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-adbinfo-0.1.0-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-adbinfo-doc",
+    "desc": "Documentation for vagrant-adbinfo",
+    "package_name": "vagrant-adbinfo-doc",
+    "version": "0.1.0-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-adbinfo-doc-0.1.0-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-cachier",
+    "desc": "Vagrant plugin to cache packages",
+    "package_name": "vagrant-cachier",
+    "version": "1.2.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-cachier-1.2.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-cachier-doc",
+    "desc": "Documentation for vagrant-cachier",
+    "package_name": "vagrant-cachier-doc",
+    "version": "1.2.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-cachier-doc-1.2.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-digitalocean",
+    "desc": "Vagrant plugin for having Digital Ocean as an provider",
+    "package_name": "vagrant-digitalocean",
+    "version": "0.9.0-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-digitalocean-0.9.0-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-digitalocean-doc",
+    "desc": "Documentation for vagrant-digitalocean",
+    "package_name": "vagrant-digitalocean-doc",
+    "version": "0.9.0-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-digitalocean-doc-0.9.0-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-doc",
+    "desc": "Documentation for vagrant",
+    "package_name": "vagrant-doc",
+    "version": "2.3.4-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-doc-2.3.4-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-hostmanager",
+    "desc": "Vagrant plugin to manage /etc/hosts",
+    "package_name": "vagrant-hostmanager",
+    "version": "1.8.10-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-hostmanager-1.8.10-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-hostmanager-doc",
+    "desc": "Documentation for vagrant-hostmanager",
+    "package_name": "vagrant-hostmanager-doc",
+    "version": "1.8.10-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-hostmanager-doc-1.8.10-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-libvirt",
+    "desc": "libvirt provider for Vagrant",
+    "package_name": "vagrant-libvirt",
+    "version": "0.11.2-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-libvirt-0.11.2-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-libvirt-doc",
+    "desc": "Documentation for vagrant-libvirt",
+    "package_name": "vagrant-libvirt-doc",
+    "version": "0.11.2-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-libvirt-doc-0.11.2-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-openstack-provider",
+    "desc": "Vagrant plugin for OpenStack provider",
+    "package_name": "vagrant-openstack-provider",
+    "version": "0.13.0-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-openstack-provider-0.13.0-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-openstack-provider-doc",
+    "desc": "Documentation for vagrant-openstack-provider",
+    "package_name": "vagrant-openstack-provider-doc",
+    "version": "0.13.0-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-openstack-provider-doc-0.13.0-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-registration",
+    "desc": "Automatic guest registration for Vagrant",
+    "package_name": "vagrant-registration",
+    "version": "1.3.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-registration-1.3.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-registration-doc",
+    "desc": "Documentation for vagrant-registration",
+    "package_name": "vagrant-registration-doc",
+    "version": "1.3.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-registration-doc-1.3.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-sshfs",
+    "desc": "A Vagrant synced folder plugin that mounts folders via SSHFS",
+    "package_name": "vagrant-sshfs",
+    "version": "1.3.7-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-sshfs-1.3.7-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-sshfs-doc",
+    "desc": "Documentation for vagrant-sshfs",
+    "package_name": "vagrant-sshfs-doc",
+    "version": "1.3.7-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-sshfs-doc-1.3.7-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-vagrant_cloud",
+    "desc": "Vagrant Cloud API Library",
+    "package_name": "vagrant-vagrant_cloud",
+    "version": "3.0.5-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-vagrant_cloud-3.0.5-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vagrant-vagrant_cloud-doc",
+    "desc": "Documentation for vagrant-vagrant_cloud",
+    "package_name": "vagrant-vagrant_cloud-doc",
+    "version": "3.0.5-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vagrant-vagrant_cloud-doc-3.0.5-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vakzination",
+    "desc": "Vakzination manages your health certificates like vaccination, test, and recovery certificates.",
+    "package_name": "vakzination",
+    "version": "23.01.0-5.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vakzination-23.01.0-5.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vala",
+    "desc": "A modern programming language for GNOME",
+    "package_name": "vala",
+    "version": "0.56.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vala-0.56.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vala-doc",
+    "desc": "Documentation for vala",
+    "package_name": "vala-doc",
+    "version": "0.56.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vala-doc-0.56.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vala-language-server",
+    "desc": "Language server for the Vala programming language",
+    "package_name": "vala-language-server",
+    "version": "0.48.7-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vala-language-server-0.48.7-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valadoc",
+    "desc": "Vala documentation generator",
+    "package_name": "valadoc",
+    "version": "0.56.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valadoc-0.56.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valadoc-devel",
+    "desc": "Development files for valadoc",
+    "package_name": "valadoc-devel",
+    "version": "0.56.16-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valadoc-devel-0.56.16-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valeronoi",
+    "desc": "WiFi mapping companion app for Valetudo",
+    "package_name": "valeronoi",
+    "version": "0.2.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valeronoi-0.2.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valetudopng",
+    "desc": "Valetudo map renderer for Home Assistant",
+    "package_name": "valetudopng",
+    "version": "1.0.15-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valetudopng-1.0.15-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valgrind",
+    "desc": "Dynamic analysis tools to detect memory or thread bugs and profile",
+    "package_name": "valgrind",
+    "version": "3.22.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valgrind-3.22.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valgrind-devel",
+    "desc": "Development files for valgrind aware programs",
+    "package_name": "valgrind-devel",
+    "version": "3.22.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valgrind-devel-3.22.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valgrind-openmpi",
+    "desc": "OpenMPI support for valgrind",
+    "package_name": "valgrind-openmpi",
+    "version": "3.22.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valgrind-openmpi-3.22.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valgrind-tools-devel",
+    "desc": "Development files for building valgrind tools.",
+    "package_name": "valgrind-tools-devel",
+    "version": "3.22.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valgrind-tools-devel-3.22.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "valkyrie",
+    "desc": "Graphical User Interface for Valgrind Suite",
+    "package_name": "valkyrie",
+    "version": "2.0.0-30.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/valkyrie-2.0.0-30.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vamp-plugin-sdk",
+    "desc": "An API for audio analysis and feature extraction plugins",
+    "package_name": "vamp-plugin-sdk",
+    "version": "2.9.0-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vamp-plugin-sdk-2.9.0-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vamp-plugin-sdk-devel",
+    "desc": "Development files for vamp-plugin-sdk",
+    "package_name": "vamp-plugin-sdk-devel",
+    "version": "2.9.0-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vamp-plugin-sdk-devel-2.9.0-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vanityhash",
+    "desc": "Hexadecimal hash fragment creation tool",
+    "package_name": "vanityhash",
+    "version": "1.1-27.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vanityhash-1.1-27.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vapoursynth-devel",
+    "desc": "Development files for vapoursynth",
+    "package_name": "vapoursynth-devel",
+    "version": "65-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vapoursynth-devel-65-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vapoursynth-libs",
+    "desc": "VapourSynth's core library with a C++ API",
+    "package_name": "vapoursynth-libs",
+    "version": "65-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vapoursynth-libs-65-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vapoursynth-tools",
+    "desc": "Extra tools for VapourSynth",
+    "package_name": "vapoursynth-tools",
+    "version": "65-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vapoursynth-tools-65-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "variety",
+    "desc": "Wallpaper changer that automatically downloads wallpapers",
+    "package_name": "variety",
+    "version": "0.8.12-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/variety-0.8.12-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "varlink-cli",
+    "desc": "Varlink command line tool",
+    "package_name": "varlink-cli",
+    "version": "4.5.3-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/varlink-cli-4.5.3-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "varlink_generator",
+    "desc": "Rust code generator for the varlink protocol",
+    "package_name": "varlink_generator",
+    "version": "10.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/varlink_generator-10.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "varnish",
+    "desc": "High-performance HTTP accelerator",
+    "package_name": "varnish",
+    "version": "7.4.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/varnish-7.4.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "varnish-devel",
+    "desc": "Development files for varnish",
+    "package_name": "varnish-devel",
+    "version": "7.4.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/varnish-devel-7.4.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "varnish-docs",
+    "desc": "Documentation files for varnish",
+    "package_name": "varnish-docs",
+    "version": "7.4.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/varnish-docs-7.4.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vavoom",
+    "desc": "Enhanced Doom, Heretic, Hexen and Strife source port - meta package",
+    "package_name": "vavoom",
+    "version": "1.33-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vavoom-1.33-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vavoom-doom-shareware",
+    "desc": "Doom shareware installer",
+    "package_name": "vavoom-doom-shareware",
+    "version": "1.33-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vavoom-doom-shareware-1.33-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vavoom-engine",
+    "desc": "Enhanced Doom, Heretic, Hexen and Strife game engine",
+    "package_name": "vavoom-engine",
+    "version": "1.33-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vavoom-engine-1.33-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vavoom-heretic-shareware",
+    "desc": "Heretic shareware installer",
+    "package_name": "vavoom-heretic-shareware",
+    "version": "1.33-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vavoom-heretic-shareware-1.33-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vavoom-hexen-demo",
+    "desc": "Hexen demo installer",
+    "package_name": "vavoom-hexen-demo",
+    "version": "1.33-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vavoom-hexen-demo-1.33-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vavoom-strife-demo",
+    "desc": "Strife demo installer",
+    "package_name": "vavoom-strife-demo",
+    "version": "1.33-43.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vavoom-strife-demo-1.33-43.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-fonts",
+    "desc": "A simple and legible Persian/Arabic typeface",
+    "package_name": "vazirmatn-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-fonts-all",
+    "desc": "All the font packages, generated from vazirmatn-fonts",
+    "package_name": "vazirmatn-fonts-all",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-fonts-all-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-nl-fonts",
+    "desc": "Non-Latin Vazirmatn font",
+    "package_name": "vazirmatn-nl-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-nl-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-nl-vf-fonts",
+    "desc": "Non-Latin Vazirmatn font (variable version)",
+    "package_name": "vazirmatn-nl-vf-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-nl-vf-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-rd-fonts",
+    "desc": "A variant of Vazirmatn using round dots instead of cubic ones",
+    "package_name": "vazirmatn-rd-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-rd-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-rd-nl-fonts",
+    "desc": "Non-Latin Vazirmatn RD font",
+    "package_name": "vazirmatn-rd-nl-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-rd-nl-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-rd-nl-vf-fonts",
+    "desc": "Non-Latin Vazirmatn RD font (variable version)",
+    "package_name": "vazirmatn-rd-nl-vf-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-rd-nl-vf-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-rd-ui-fonts",
+    "desc": "Vazirmatn RD UI font",
+    "package_name": "vazirmatn-rd-ui-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-rd-ui-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-rd-ui-nl-fonts",
+    "desc": "Non-Latin Vazirmatn RD UI font",
+    "package_name": "vazirmatn-rd-ui-nl-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-rd-ui-nl-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-rd-vf-fonts",
+    "desc": "A variant of Vazirmatn using round dots instead of cubic ones (variable version)",
+    "package_name": "vazirmatn-rd-vf-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-rd-vf-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-ui-fonts",
+    "desc": "Vazirmatn UI font",
+    "package_name": "vazirmatn-ui-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-ui-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-ui-nl-fonts",
+    "desc": "Non-Latin Vazirmatn UI font",
+    "package_name": "vazirmatn-ui-nl-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-ui-nl-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vazirmatn-vf-fonts",
+    "desc": "A simple and legible Persian/Arabic typeface (variable version)",
+    "package_name": "vazirmatn-vf-fonts",
+    "version": "33.003-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vazirmatn-vf-fonts-33.003-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vbetest",
+    "desc": "Utility for listing and testing VESA graphics modes",
+    "package_name": "vbetest",
+    "version": "0.10-34.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vbetest-0.10-34.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vbindiff",
+    "desc": "Visual binary diff",
+    "package_name": "vbindiff",
+    "version": "3.0-0.32.beta4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vbindiff-3.0-0.32.beta4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vboot-utils",
+    "desc": "Verified Boot Utility from Chromium OS",
+    "package_name": "vboot-utils",
+    "version": "20230127-3.git9b08a3c4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vboot-utils-20230127-3.git9b08a3c4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vcdimager",
+    "desc": "VideoCD (pre-)mastering and ripping tool",
+    "package_name": "vcdimager",
+    "version": "2.0.1-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcdimager-2.0.1-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vcdimager-devel",
+    "desc": "Header files and library for VCDImager",
+    "package_name": "vcdimager-devel",
+    "version": "2.0.1-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcdimager-devel-2.0.1-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vcdimager-libs",
+    "desc": "Libraries for vcdimager",
+    "package_name": "vcdimager-libs",
+    "version": "2.0.1-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcdimager-libs-2.0.1-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vcftools",
+    "desc": "VCF file manipulation tools",
+    "package_name": "vcftools",
+    "version": "0.1.16-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcftools-0.1.16-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vconfig",
+    "desc": "Linux 802.1q VLAN configuration utility",
+    "package_name": "vconfig",
+    "version": "1.9-36.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vconfig-1.9-36.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vcpkg",
+    "desc": "C++ Library Manager",
+    "package_name": "vcpkg",
+    "version": "2023.06.22-3.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcpkg-2023.06.22-3.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vcs-diff-lint",
+    "desc": "VCS Differential Code Analysis Tool",
+    "package_name": "vcs-diff-lint",
+    "version": "4-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcs-diff-lint-4-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vcsh",
+    "desc": "Version Control System for $HOME",
+    "package_name": "vcsh",
+    "version": "2.0.3-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vcsh-2.0.3-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdirsyncer",
+    "desc": "Synchronize calendars and contacts",
+    "package_name": "vdirsyncer",
+    "version": "0.19.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdirsyncer-0.19.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdirsyncer-doc",
+    "desc": "Documentation for vdirsyncer",
+    "package_name": "vdirsyncer-doc",
+    "version": "0.19.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdirsyncer-doc-0.19.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdpauinfo",
+    "desc": "Tool to query the capabilities of a VDPAU implementation",
+    "package_name": "vdpauinfo",
+    "version": "1.5-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdpauinfo-1.5-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr",
+    "desc": "Video Disk Recorder",
+    "package_name": "vdr",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-devel",
+    "desc": "Development files for VDR",
+    "package_name": "vdr-devel",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-devel-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-docs",
+    "desc": "Developer documentation for VDR",
+    "package_name": "vdr-docs",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-docs-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-dvbhddevice",
+    "desc": "VDR output device plugin for TechnoTrend S2-6400 DVB cards",
+    "package_name": "vdr-dvbhddevice",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-dvbhddevice-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-dvbsddevice",
+    "desc": "VDR output device plugin for full featured SD DVB cards",
+    "package_name": "vdr-dvbsddevice",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-dvbsddevice-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-epg-daemon",
+    "desc": "A daemon to download EPG data from internet and manage it in a mysql database",
+    "package_name": "vdr-epg-daemon",
+    "version": "1.3.23-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-epg-daemon-1.3.23-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-epg2vdr",
+    "desc": "A plugin to retrieve EPG data from a mysql database into VDR",
+    "package_name": "vdr-epg2vdr",
+    "version": "1.2.16-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-epg2vdr-1.2.16-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-epgfixer",
+    "desc": "VDR plugin for doing extra fixing of EPG data",
+    "package_name": "vdr-epgfixer",
+    "version": "0.3.1-29.20180416git354f28b.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-epgfixer-0.3.1-29.20180416git354f28b.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-epgsearch",
+    "desc": "Powerful schedules menu replacement plugin for VDR",
+    "package_name": "vdr-epgsearch",
+    "version": "2.4.2-0.9.20220201git76d2b10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-epgsearch-2.4.2-0.9.20220201git76d2b10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-extrecmenung",
+    "desc": "Powerful next generation recordings menu replacement plugin for VDR",
+    "package_name": "vdr-extrecmenung",
+    "version": "2.0.12-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-extrecmenung-2.0.12-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-femon",
+    "desc": "DVB frontend status monitor plugin for VDR",
+    "package_name": "vdr-femon",
+    "version": "2.4.0-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-femon-2.4.0-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-graphlcd",
+    "desc": "VDR plugin: Output to graphic LCD",
+    "package_name": "vdr-graphlcd",
+    "version": "1.0.6-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-graphlcd-1.0.6-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-iptv",
+    "desc": "IPTV plugin for VDR",
+    "package_name": "vdr-iptv",
+    "version": "2.4.0-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-iptv-2.4.0-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-live",
+    "desc": "An interactive web interface with HTML5 live stream support for VDR",
+    "package_name": "vdr-live",
+    "version": "3.3.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-live-3.3.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-live-data",
+    "desc": "Images, themes and JavaScript for vdr-live",
+    "package_name": "vdr-live-data",
+    "version": "3.3.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-live-data-3.3.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-osd2web",
+    "desc": "VDR skin interface for the browser",
+    "package_name": "vdr-osd2web",
+    "version": "0.3.2-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-osd2web-0.3.2-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-osdteletext",
+    "desc": "OSD teletext plugin for VDR",
+    "package_name": "vdr-osdteletext",
+    "version": "2.3.1-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-osdteletext-2.3.1-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-rcu",
+    "desc": "VDR remote control unit plugin",
+    "package_name": "vdr-rcu",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-rcu-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-remote",
+    "desc": "Extended remote control plugin for VDR",
+    "package_name": "vdr-remote",
+    "version": "0.7.0-29.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-remote-0.7.0-29.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-scraper2vdr",
+    "desc": "A client plugin which provides scraped metadata from EPGD to other plugins",
+    "package_name": "vdr-scraper2vdr",
+    "version": "1.1.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-scraper2vdr-1.1.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-screenshot",
+    "desc": "VDR plugin: Takes screenshots",
+    "package_name": "vdr-screenshot",
+    "version": "0.0.16-34.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-screenshot-0.0.16-34.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-skincurses",
+    "desc": "Shell window skin plugin for VDR",
+    "package_name": "vdr-skincurses",
+    "version": "2.6.6-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-skincurses-2.6.6-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-skinelchihd",
+    "desc": "A Elchi based skin with True Color support for the Video Disc Recorder",
+    "package_name": "vdr-skinelchihd",
+    "version": "1.2.4-0.2.20231222git53f8c87.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-skinelchihd-1.2.4-0.2.20231222git53f8c87.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-skinenigmang",
+    "desc": "A skin for VDR based on the Enigma text2skin add on",
+    "package_name": "vdr-skinenigmang",
+    "version": "0.1.4-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-skinenigmang-0.1.4-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-skinnopacity",
+    "desc": "A highly customizable native true color skin for the Video Disc Recorder",
+    "package_name": "vdr-skinnopacity",
+    "version": "1.1.16-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-skinnopacity-1.1.16-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-skinnopacity-data",
+    "desc": "Icons files for vdr-skinnopacity",
+    "package_name": "vdr-skinnopacity-data",
+    "version": "1.1.16-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-skinnopacity-data-1.1.16-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-streamdev-client",
+    "desc": "Streaming client plug-in for VDR",
+    "package_name": "vdr-streamdev-client",
+    "version": "0.6.3-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-streamdev-client-0.6.3-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-streamdev-server",
+    "desc": "Streaming server plug-in for VDR",
+    "package_name": "vdr-streamdev-server",
+    "version": "0.6.3-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-streamdev-server-0.6.3-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-tvguide",
+    "desc": "TvGuide is a highly customizable 2D EPG viewer plugin",
+    "package_name": "vdr-tvguide",
+    "version": "1.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-tvguide-1.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-tvscraper",
+    "desc": "Collects metadata for all available EPG events",
+    "package_name": "vdr-tvscraper",
+    "version": "1.2.7-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-tvscraper-1.2.7-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdr-vnsiserver",
+    "desc": "VDR plugin to handle Kodi clients via VNSI",
+    "package_name": "vdr-vnsiserver",
+    "version": "1.8.3-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdr-vnsiserver-1.8.3-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdrift",
+    "desc": "Driving/drift racing simulation",
+    "package_name": "vdrift",
+    "version": "20141020-31.git5ae309f.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdrift-20141020-31.git5ae309f.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdrift-data",
+    "desc": "Driving/drift racing simulation data",
+    "package_name": "vdrift-data",
+    "version": "20141020-31.git5ae309f.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdrift-data-20141020-31.git5ae309f.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vdrsymbol-fonts",
+    "desc": "VDR symbol fonts",
+    "package_name": "vdrsymbol-fonts",
+    "version": "20100612-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vdrsymbol-fonts-20100612-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "veccore-devel",
+    "desc": "Development files for veccore",
+    "package_name": "veccore-devel",
+    "version": "0.8.1-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/veccore-devel-0.8.1-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vecgeom",
+    "desc": "A vectorized geometry library for particle-detector simulation",
+    "package_name": "vecgeom",
+    "version": "1.2.7-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vecgeom-1.2.7-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vecgeom-devel",
+    "desc": "Development files for vecgeom",
+    "package_name": "vecgeom-devel",
+    "version": "1.2.7-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vecgeom-devel-1.2.7-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vecmath1.2",
+    "desc": "Free version of vecmath from the Java3D 1.2 specification",
+    "package_name": "vecmath1.2",
+    "version": "1.14-36.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vecmath1.2-1.14-36.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vecmath1.2-javadoc",
+    "desc": "Javadoc for vecmath1.2",
+    "package_name": "vecmath1.2-javadoc",
+    "version": "1.14-36.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vecmath1.2-javadoc-1.14-36.fc40.x86_64.rpm"
+  },
+  {
+    "name": "velocity",
+    "desc": "Java-based template engine",
+    "package_name": "velocity",
+    "version": "2.3-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/velocity-2.3-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "velocity-javadoc",
+    "desc": "Javadoc for velocity",
+    "package_name": "velocity-javadoc",
+    "version": "2.3-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/velocity-javadoc-2.3-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vemana2000-fonts",
+    "desc": "Unicode compliant OpenType font for Telugu",
+    "package_name": "vemana2000-fonts",
+    "version": "1.1.3-25.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vemana2000-fonts-1.1.3-25.fc40.x86_64.rpm"
+  },
+  {
+    "name": "verbiste",
+    "desc": "French conjugation system",
+    "package_name": "verbiste",
+    "version": "0.1.48-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verbiste-0.1.48-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "verbiste-devel",
+    "desc": "Development files for verbiste",
+    "package_name": "verbiste-devel",
+    "version": "0.1.48-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verbiste-devel-0.1.48-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "verbiste-gnome",
+    "desc": "GNOME Panel applet for Verbiste",
+    "package_name": "verbiste-gnome",
+    "version": "0.1.48-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verbiste-gnome-0.1.48-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "verilator",
+    "desc": "A fast simulator for synthesizable Verilog",
+    "package_name": "verilator",
+    "version": "5.014-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verilator-5.014-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "veristat",
+    "desc": "Tool for loading, verifying, and debugging BPF object files",
+    "package_name": "veristat",
+    "version": "0.3.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/veristat-0.3.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "veritysetup",
+    "desc": "A utility for setting up dm-verity volumes",
+    "package_name": "veritysetup",
+    "version": "2.7.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/veritysetup-2.7.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds",
+    "desc": "Verne desktop backgrounds",
+    "package_name": "verne-backgrounds",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-extras-gnome",
+    "desc": "Extra Verne Wallpapers for Gnome",
+    "package_name": "verne-backgrounds-extras-gnome",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-extras-gnome-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-extras-kde",
+    "desc": "Extra Verne Wallpapers for KDE",
+    "package_name": "verne-backgrounds-extras-kde",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-extras-kde-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-extras-single",
+    "desc": "Single screen images for Verne Extras Backrounds",
+    "package_name": "verne-backgrounds-extras-single",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-extras-single-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-extras-xfce",
+    "desc": "Extra Verne Wallpapers for XFCE",
+    "package_name": "verne-backgrounds-extras-xfce",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-extras-xfce-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-gnome",
+    "desc": "Verne Wallpapers for Gnome",
+    "package_name": "verne-backgrounds-gnome",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-gnome-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-kde",
+    "desc": "Verne Wallpapers for KDE",
+    "package_name": "verne-backgrounds-kde",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-kde-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-single",
+    "desc": "Single screen images for Verne Backgrounds",
+    "package_name": "verne-backgrounds-single",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-single-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-backgrounds-xfce",
+    "desc": "Verne Wallpapers for XFCE4",
+    "package_name": "verne-backgrounds-xfce",
+    "version": "15.92.1-24.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-backgrounds-xfce-15.92.1-24.fc39.x86_64.rpm"
+  },
+  {
+    "name": "verne-kde-theme",
+    "desc": "Verne KDE Theme",
+    "package_name": "verne-kde-theme",
+    "version": "15.91.1-18.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/verne-kde-theme-15.91.1-18.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vernnobile-muli-fonts",
+    "desc": "Muli, a minimalist sans serif font family",
+    "package_name": "vernnobile-muli-fonts",
+    "version": "2.001-16.20200225git580b05e.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vernnobile-muli-fonts-2.001-16.20200225git580b05e.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vernnobile-nunito-fonts",
+    "desc": "Nunito, a sans serif font family with rounded terminals",
+    "package_name": "vernnobile-nunito-fonts",
+    "version": "3.504-16.20200225git6d8a4e1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vernnobile-nunito-fonts-3.504-16.20200225git6d8a4e1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vernnobile-oswald-fonts",
+    "desc": "Oswald, a reworked Gothic style font family",
+    "package_name": "vernnobile-oswald-fonts",
+    "version": "4.101-18.20200225git5a5fff2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vernnobile-oswald-fonts-4.101-18.20200225git5a5fff2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "veusz",
+    "desc": "GUI scientific plotting package",
+    "package_name": "veusz",
+    "version": "3.6.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/veusz-3.6.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vex",
+    "desc": "Run commands in a virtualenv",
+    "package_name": "vex",
+    "version": "0.0.19-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vex-0.0.19-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vfrnav",
+    "desc": "VFR/IFR Navigation",
+    "package_name": "vfrnav",
+    "version": "20230429-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vfrnav-20230429-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vfrnav-selinux",
+    "desc": "VFR Navigation selinux module",
+    "package_name": "vfrnav-selinux",
+    "version": "20230429-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vfrnav-selinux-20230429-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vfrnav-utils",
+    "desc": "VFR Navigation Utilities",
+    "package_name": "vfrnav-utils",
+    "version": "20230429-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vfrnav-utils-20230429-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vfrnav-validatorservice",
+    "desc": "VFR Navigation CFMU Validator Service",
+    "package_name": "vfrnav-validatorservice",
+    "version": "20230429-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vfrnav-validatorservice-20230429-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vfrnav-webservice",
+    "desc": "VFR Navigation CFMU Autorouter Webservice",
+    "package_name": "vfrnav-webservice",
+    "version": "20230429-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vfrnav-webservice-20230429-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vgrep",
+    "desc": "User-friendly pager for grep",
+    "package_name": "vgrep",
+    "version": "2.7.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vgrep-2.7.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vhd2vl",
+    "desc": "VHDL to Verilog translator",
+    "package_name": "vhd2vl",
+    "version": "2.5-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vhd2vl-2.5-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vhost-device-scmi",
+    "desc": "Vhost-user SCMI backend device",
+    "package_name": "vhost-device-scmi",
+    "version": "0.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vhost-device-scmi-0.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vhostmd",
+    "desc": "Virtualization host metrics daemon",
+    "package_name": "vhostmd",
+    "version": "1.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vhostmd-1.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vid.stab",
+    "desc": "Video stabilize library for fmpeg, mlt or transcode",
+    "package_name": "vid.stab",
+    "version": "1.1.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vid.stab-1.1.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vid.stab-devel",
+    "desc": "Development files for vid.stab",
+    "package_name": "vid.stab-devel",
+    "version": "1.1.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vid.stab-devel-1.1.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "video-downloader",
+    "desc": "Download videos from websites like YouTube and many others",
+    "package_name": "video-downloader",
+    "version": "0.12.11-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/video-downloader-0.12.11-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "viewnior",
+    "desc": "Elegant image viewer",
+    "package_name": "viewnior",
+    "version": "1.8-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/viewnior-1.8-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vifm",
+    "desc": "Vifm is a file manager with curses interface",
+    "package_name": "vifm",
+    "version": "0.13-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vifm-0.13-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vigra",
+    "desc": "Generic Programming for Computer Vision",
+    "package_name": "vigra",
+    "version": "1.11.1-50.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vigra-1.11.1-50.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vigra-devel",
+    "desc": "Development tools for programs which will use the vigra library",
+    "package_name": "vigra-devel",
+    "version": "1.11.1-50.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vigra-devel-1.11.1-50.fc40.x86_64.rpm"
+  },
+  {
+    "name": "viking",
+    "desc": "GPS data editor and analyzer",
+    "package_name": "viking",
+    "version": "1.10-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/viking-1.10-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vile",
+    "desc": "VI Like Emacs",
+    "package_name": "vile",
+    "version": "9.8z-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vile-9.8z-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vile-common",
+    "desc": "The common files needed by any version of the vile editor",
+    "package_name": "vile-common",
+    "version": "9.8z-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vile-common-9.8z-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-airline",
+    "desc": "Lean & mean status/tabline for vim that's light as air",
+    "package_name": "vim-airline",
+    "version": "0.11-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-airline-0.11-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-ale",
+    "desc": "Asynchronous Vim Lint Engine",
+    "package_name": "vim-ale",
+    "version": "3.3.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-ale-3.3.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-ansible",
+    "desc": "Vim plugin for syntax highlighting ansible's common filetypes",
+    "package_name": "vim-ansible",
+    "version": "3.4-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-ansible-3.4-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-command-t",
+    "desc": "An extremely fast, intuitive mechanism for opening files in VIM",
+    "package_name": "vim-command-t",
+    "version": "5.0.3-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-command-t-5.0.3-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-commentary",
+    "desc": "Comment and uncomments stuff in Vim using motion as a target",
+    "package_name": "vim-commentary",
+    "version": "1.3-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-commentary-1.3-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-common",
+    "desc": "The common files needed by any version of the VIM editor",
+    "package_name": "vim-common",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-common-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-ctrlp",
+    "desc": "Full path fuzzy file, buffer, mru, tag, ... finder for Vim",
+    "package_name": "vim-ctrlp",
+    "version": "1.80-10.20190610git2e773fd.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-ctrlp-1.80-10.20190610git2e773fd.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-data",
+    "desc": "Shared data for Vi and Vim",
+    "package_name": "vim-data",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-data-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-default-editor",
+    "desc": "Set vim as the default editor",
+    "package_name": "vim-default-editor",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-default-editor-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-devicons",
+    "desc": "Adds file type icons to Vim plugins",
+    "package_name": "vim-devicons",
+    "version": "0.11.0-0.20221001git71f239a.13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-devicons-0.11.0-0.20221001git71f239a.13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-editorconfig",
+    "desc": "EditorConfig Vim Plugin",
+    "package_name": "vim-editorconfig",
+    "version": "1.2.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-editorconfig-1.2.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-enhanced",
+    "desc": "A version of the VIM editor which includes recent enhancements",
+    "package_name": "vim-enhanced",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-enhanced-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-filesystem",
+    "desc": "VIM filesystem layout",
+    "package_name": "vim-filesystem",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-filesystem-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-fugitive",
+    "desc": "A Git wrapper so awesome, it should be illegal",
+    "package_name": "vim-fugitive",
+    "version": "3.7-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-fugitive-3.7-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-fugitive-gitlab",
+    "desc": "GitLab support for vim-fugitive plugin",
+    "package_name": "vim-fugitive-gitlab",
+    "version": "0~20220701gitb73a8e-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-fugitive-gitlab-0~20220701gitb73a8e-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-fugitive-pagure",
+    "desc": "Pagure support for vim-fugitive plugin",
+    "package_name": "vim-fugitive-pagure",
+    "version": "1.5-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-fugitive-pagure-1.5-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-gitgutter",
+    "desc": "Shows git diff markers in the sign column and stages/previews/undoes hunks",
+    "package_name": "vim-gitgutter",
+    "version": "0-12.20230901gitf7b9766.15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-gitgutter-0-12.20230901gitf7b9766.15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-go",
+    "desc": "Go development plugin for Vim",
+    "package_name": "vim-go",
+    "version": "1.28-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-go-1.28-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-golint",
+    "desc": "Golint vim plugin",
+    "package_name": "vim-golint",
+    "version": "0-22.20210123git83fdc39.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-golint-0-22.20210123git83fdc39.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-gtk-syntax",
+    "desc": "Vim syntax highlighting for GLib, Gtk+, Gstreamer, and more",
+    "package_name": "vim-gtk-syntax",
+    "version": "20130716-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-gtk-syntax-20130716-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-gv",
+    "desc": "Git commit browser in Vim",
+    "package_name": "vim-gv",
+    "version": "0-15.20221025git320cc8c.17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-gv-0-15.20221025git320cc8c.17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-halibut",
+    "desc": "Syntax file for the halibut manual tool",
+    "package_name": "vim-halibut",
+    "version": "1.3-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-halibut-1.3-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-javabrowser",
+    "desc": "The javabrowser plugin for VIM editor",
+    "package_name": "vim-javabrowser",
+    "version": "2.03-23.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-javabrowser-2.03-23.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-jedi",
+    "desc": "The Jedi vim plugin",
+    "package_name": "vim-jedi",
+    "version": "0.11.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-jedi-0.11.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-jellybeans",
+    "desc": "A colorful, dark color scheme for Vim",
+    "package_name": "vim-jellybeans",
+    "version": "1.7-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-jellybeans-1.7-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-latex",
+    "desc": "Tools to view, edit and compile LaTeX documents in Vim",
+    "package_name": "vim-latex",
+    "version": "1.10.0-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-latex-1.10.0-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-latex-doc",
+    "desc": "Documentation for vim-latex",
+    "package_name": "vim-latex-doc",
+    "version": "1.10.0-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-latex-doc-1.10.0-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-mediawiki",
+    "desc": "Vim syntax highlighting for MediaWiki",
+    "package_name": "vim-mediawiki",
+    "version": "0.2^1.26e5737-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-mediawiki-0.2^1.26e5737-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-merlin",
+    "desc": "Context sensitive completion for OCaml in Vim",
+    "package_name": "vim-merlin",
+    "version": "4.14-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-merlin-4.14-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-minimal",
+    "desc": "A minimal version of the VIM editor",
+    "package_name": "vim-minimal",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-minimal-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-nerdtree",
+    "desc": "A tree explorer plugin for the editor Vim",
+    "package_name": "vim-nerdtree",
+    "version": "6.10.16-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-nerdtree-6.10.16-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-omnicppcomplete",
+    "desc": "vim c++ completion omnifunc with a ctags database",
+    "package_name": "vim-omnicppcomplete",
+    "version": "0.41-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-omnicppcomplete-0.41-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-pathogen",
+    "desc": "Manage your runtimepath",
+    "package_name": "vim-pathogen",
+    "version": "2.4-12.20220824gitac4dd94.13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-pathogen-2.4-12.20220824gitac4dd94.13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-perl-support",
+    "desc": "Perl-IDE for VIM",
+    "package_name": "vim-perl-support",
+    "version": "5.3.2-19.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-perl-support-5.3.2-19.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-powerline",
+    "desc": "Powerline VIM plugin",
+    "package_name": "vim-powerline",
+    "version": "2.8.3-14.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-powerline-2.8.3-14.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-rhubarb",
+    "desc": "GitHub support for vim-fugitive plugin",
+    "package_name": "vim-rhubarb",
+    "version": "0-10.20191014git513059.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-rhubarb-0-10.20191014git513059.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic",
+    "desc": "A vim plugins to check syntax for programming languages",
+    "package_name": "vim-syntastic",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-ada",
+    "desc": "A syntax checker for ada programming language",
+    "package_name": "vim-syntastic-ada",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-ada-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-ansible",
+    "desc": "A syntax checker for ansible programming language",
+    "package_name": "vim-syntastic-ansible",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-ansible-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-asciidoc",
+    "desc": "A syntax checker for asciidoc programming language",
+    "package_name": "vim-syntastic-asciidoc",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-asciidoc-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-asl",
+    "desc": "A syntax checker for asl programming language",
+    "package_name": "vim-syntastic-asl",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-asl-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-asm",
+    "desc": "A syntax checker for asm programming language",
+    "package_name": "vim-syntastic-asm",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-asm-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-c",
+    "desc": "A syntax checker for c programming language",
+    "package_name": "vim-syntastic-c",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-c-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-cabal",
+    "desc": "A syntax checker for cabal programming language",
+    "package_name": "vim-syntastic-cabal",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-cabal-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-coq",
+    "desc": "A syntax checker for coq programming language",
+    "package_name": "vim-syntastic-coq",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-coq-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-cpp",
+    "desc": "A syntax checker for cpp programming language",
+    "package_name": "vim-syntastic-cpp",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-cpp-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-cs",
+    "desc": "A syntax checker for cs programming language",
+    "package_name": "vim-syntastic-cs",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-cs-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-css",
+    "desc": "A syntax checker for css programming language",
+    "package_name": "vim-syntastic-css",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-css-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-cucumber",
+    "desc": "A syntax checker for cucumber programming language",
+    "package_name": "vim-syntastic-cucumber",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-cucumber-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-docbk",
+    "desc": "A syntax checker for docbk programming language",
+    "package_name": "vim-syntastic-docbk",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-docbk-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-elixir",
+    "desc": "A syntax checker for elixir programming language",
+    "package_name": "vim-syntastic-elixir",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-elixir-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-erlang",
+    "desc": "A syntax checker for erlang programming language",
+    "package_name": "vim-syntastic-erlang",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-erlang-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-eruby",
+    "desc": "A syntax checker for eruby programming language",
+    "package_name": "vim-syntastic-eruby",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-eruby-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-fortran",
+    "desc": "A syntax checker for fortran programming language",
+    "package_name": "vim-syntastic-fortran",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-fortran-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-glsl",
+    "desc": "A syntax checker for glsl programming language",
+    "package_name": "vim-syntastic-glsl",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-glsl-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-go",
+    "desc": "A syntax checker for go programming language",
+    "package_name": "vim-syntastic-go",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-go-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-haml",
+    "desc": "A syntax checker for haml programming language",
+    "package_name": "vim-syntastic-haml",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-haml-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-haskell",
+    "desc": "A syntax checker for haskell programming language",
+    "package_name": "vim-syntastic-haskell",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-haskell-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-help",
+    "desc": "A syntax checker for help programming language",
+    "package_name": "vim-syntastic-help",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-help-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-html",
+    "desc": "A syntax checker for html programming language",
+    "package_name": "vim-syntastic-html",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-html-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-java",
+    "desc": "A syntax checker for java programming language",
+    "package_name": "vim-syntastic-java",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-java-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-json",
+    "desc": "A syntax checker for json programming language",
+    "package_name": "vim-syntastic-json",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-json-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-julia",
+    "desc": "A syntax checker for julia programming language",
+    "package_name": "vim-syntastic-julia",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-julia-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-less",
+    "desc": "A syntax checker for less programming language",
+    "package_name": "vim-syntastic-less",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-less-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-lex",
+    "desc": "A syntax checker for lex programming language",
+    "package_name": "vim-syntastic-lex",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-lex-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-llvm",
+    "desc": "A syntax checker for llvm programming language",
+    "package_name": "vim-syntastic-llvm",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-llvm-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-lua",
+    "desc": "A syntax checker for lua programming language",
+    "package_name": "vim-syntastic-lua",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-lua-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-matlab",
+    "desc": "A syntax checker for matlab programming language",
+    "package_name": "vim-syntastic-matlab",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-matlab-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-nasm",
+    "desc": "A syntax checker for nasm programming language",
+    "package_name": "vim-syntastic-nasm",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-nasm-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-objc",
+    "desc": "A syntax checker for objc programming language",
+    "package_name": "vim-syntastic-objc",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-objc-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-objcpp",
+    "desc": "A syntax checker for objcpp programming language",
+    "package_name": "vim-syntastic-objcpp",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-objcpp-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-ocaml",
+    "desc": "A syntax checker for ocaml programming language",
+    "package_name": "vim-syntastic-ocaml",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-ocaml-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-perl",
+    "desc": "A syntax checker for perl programming language",
+    "package_name": "vim-syntastic-perl",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-perl-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-perl6",
+    "desc": "A syntax checker for perl6 programming language",
+    "package_name": "vim-syntastic-perl6",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-perl6-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-php",
+    "desc": "A syntax checker for php programming language",
+    "package_name": "vim-syntastic-php",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-php-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-po",
+    "desc": "A syntax checker for po programming language",
+    "package_name": "vim-syntastic-po",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-po-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-pod",
+    "desc": "A syntax checker for pod programming language",
+    "package_name": "vim-syntastic-pod",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-pod-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-puppet",
+    "desc": "A syntax checker for puppet programming language",
+    "package_name": "vim-syntastic-puppet",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-puppet-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-python",
+    "desc": "A syntax checker for python programming language",
+    "package_name": "vim-syntastic-python",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-python-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-qml",
+    "desc": "A syntax checker for qml programming language",
+    "package_name": "vim-syntastic-qml",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-qml-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-rst",
+    "desc": "A syntax checker for rst programming language",
+    "package_name": "vim-syntastic-rst",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-rst-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-ruby",
+    "desc": "A syntax checker for ruby programming language",
+    "package_name": "vim-syntastic-ruby",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-ruby-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-sass",
+    "desc": "A syntax checker for sass programming language",
+    "package_name": "vim-syntastic-sass",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-sass-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-scala",
+    "desc": "A syntax checker for scala programming language",
+    "package_name": "vim-syntastic-scala",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-scala-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-scss",
+    "desc": "A syntax checker for scss programming language",
+    "package_name": "vim-syntastic-scss",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-scss-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-sh",
+    "desc": "A syntax checker for sh programming language",
+    "package_name": "vim-syntastic-sh",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-sh-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-spec",
+    "desc": "A syntax checker for spec programming language",
+    "package_name": "vim-syntastic-spec",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-spec-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-tcl",
+    "desc": "A syntax checker for tcl programming language",
+    "package_name": "vim-syntastic-tcl",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-tcl-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-tex",
+    "desc": "A syntax checker for tex programming language",
+    "package_name": "vim-syntastic-tex",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-tex-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-texinfo",
+    "desc": "A syntax checker for texinfo programming language",
+    "package_name": "vim-syntastic-texinfo",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-texinfo-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-text",
+    "desc": "A syntax checker for text programming language",
+    "package_name": "vim-syntastic-text",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-text-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-trig",
+    "desc": "A syntax checker for trig programming language",
+    "package_name": "vim-syntastic-trig",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-trig-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-turtle",
+    "desc": "A syntax checker for turtle programming language",
+    "package_name": "vim-syntastic-turtle",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-turtle-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-vala",
+    "desc": "A syntax checker for vala programming language",
+    "package_name": "vim-syntastic-vala",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-vala-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-verilog",
+    "desc": "A syntax checker for verilog programming language",
+    "package_name": "vim-syntastic-verilog",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-verilog-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-vim",
+    "desc": "A syntax checker for vim programming language",
+    "package_name": "vim-syntastic-vim",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-vim-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-xhtml",
+    "desc": "A syntax checker for xhtml programming language",
+    "package_name": "vim-syntastic-xhtml",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-xhtml-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-xml",
+    "desc": "A syntax checker for xml programming language",
+    "package_name": "vim-syntastic-xml",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-xml-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-xslt",
+    "desc": "A syntax checker for xslt programming language",
+    "package_name": "vim-syntastic-xslt",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-xslt-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-yacc",
+    "desc": "A syntax checker for yacc programming language",
+    "package_name": "vim-syntastic-yacc",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-yacc-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-yaml",
+    "desc": "A syntax checker for yaml programming language",
+    "package_name": "vim-syntastic-yaml",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-yaml-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-yara",
+    "desc": "A syntax checker for yara programming language",
+    "package_name": "vim-syntastic-yara",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-yara-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-z80",
+    "desc": "A syntax checker for z80 programming language",
+    "package_name": "vim-syntastic-z80",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-z80-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-syntastic-zsh",
+    "desc": "A syntax checker for zsh programming language",
+    "package_name": "vim-syntastic-zsh",
+    "version": "3.10.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-syntastic-zsh-3.10.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-taglist",
+    "desc": "The taglist plugin for VIM editor",
+    "package_name": "vim-taglist",
+    "version": "4.6-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-taglist-4.6-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-trailing-whitespace",
+    "desc": "Highlights trailing whitespace in red and provides :FixWhitespace to fix it",
+    "package_name": "vim-trailing-whitespace",
+    "version": "1.0-9.20230228git5540b3f.11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-trailing-whitespace-1.0-9.20230228git5540b3f.11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vim-X11",
+    "desc": "The VIM version of the vi editor for the X Window System - GVim",
+    "package_name": "vim-X11",
+    "version": "9.1.158-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-X11-9.1.158-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vimb",
+    "desc": "A fast and lightweight vim like web browser",
+    "package_name": "vimb",
+    "version": "3.7.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vimb-3.7.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vimiv",
+    "desc": "An image viewer with vim-like keybindings",
+    "package_name": "vimiv",
+    "version": "0.9.1-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vimiv-0.9.1-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vimiv-qt",
+    "desc": "An image viewer with vim-like keybindings",
+    "package_name": "vimiv-qt",
+    "version": "0.9.0-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vimiv-qt-0.9.0-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vimpal",
+    "desc": "Separate application providing a file tree for VIM",
+    "package_name": "vimpal",
+    "version": "1.5.0-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vimpal-1.5.0-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vinagre",
+    "desc": "VNC client for GNOME",
+    "package_name": "vinagre",
+    "version": "3.22.0-29.fc39",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vinagre-3.22.0-29.fc39.x86_64.rpm"
+  },
+  {
+    "name": "vinci",
+    "desc": "Algorithms for volume computation",
+    "package_name": "vinci",
+    "version": "1.0.5-26.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vinci-1.0.5-26.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips",
+    "desc": "C/C++ library for processing large images",
+    "package_name": "vips",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-devel",
+    "desc": "Development files for vips",
+    "package_name": "vips-devel",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-devel-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-doc",
+    "desc": "Documentation for vips",
+    "package_name": "vips-doc",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-doc-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-heif",
+    "desc": "HEIF support for vips",
+    "package_name": "vips-heif",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-heif-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-jxl",
+    "desc": "JPEG-XL support for vips",
+    "package_name": "vips-jxl",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-jxl-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-magick",
+    "desc": "Magick support for vips using ImageMagick6",
+    "package_name": "vips-magick",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-magick-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-openslide",
+    "desc": "OpenSlide support for vips",
+    "package_name": "vips-openslide",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-openslide-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-poppler",
+    "desc": "Poppler support for vips",
+    "package_name": "vips-poppler",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-poppler-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vips-tools",
+    "desc": "Command-line tools for vips",
+    "package_name": "vips-tools",
+    "version": "8.15.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vips-tools-8.15.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virglrenderer",
+    "desc": "Virgl Rendering library.",
+    "package_name": "virglrenderer",
+    "version": "1.0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virglrenderer-1.0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virglrenderer-devel",
+    "desc": "Virgil3D renderer development files",
+    "package_name": "virglrenderer-devel",
+    "version": "1.0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virglrenderer-devel-1.0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virglrenderer-test-server",
+    "desc": "Virgil3D renderer testing server",
+    "package_name": "virglrenderer-test-server",
+    "version": "1.0.1-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virglrenderer-test-server-1.0.1-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-backup",
+    "desc": "Backup script for libvirt managed VM",
+    "package_name": "virt-backup",
+    "version": "0.2.25-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-backup-0.2.25-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-bootstrap",
+    "desc": "System container rootfs creation tool",
+    "package_name": "virt-bootstrap",
+    "version": "1.1.1-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-bootstrap-1.1.1-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-install",
+    "desc": "Utilities for installing virtual machines",
+    "package_name": "virt-install",
+    "version": "4.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-install-4.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-lightning",
+    "desc": "A pure-Python implementation of the HTTP/2 priority tree",
+    "package_name": "virt-lightning",
+    "version": "2.2.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-lightning-2.2.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-manager",
+    "desc": "Desktop tool for managing virtual machines via libvirt",
+    "package_name": "virt-manager",
+    "version": "4.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-manager-4.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-manager-common",
+    "desc": "Common files used by the different Virtual Machine Manager interfaces",
+    "package_name": "virt-manager-common",
+    "version": "4.1.0-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-manager-common-4.1.0-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-p2v",
+    "desc": "Convert a physical machine to run on KVM",
+    "package_name": "virt-p2v",
+    "version": "1.42.3-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-p2v-1.42.3-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-top",
+    "desc": "Utility like top(1) for displaying virtualization stats",
+    "package_name": "virt-top",
+    "version": "1.1.1-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-top-1.1.1-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-v2v",
+    "desc": "Convert a virtual machine to run on KVM",
+    "package_name": "virt-v2v",
+    "version": "2.5.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-v2v-2.5.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-v2v-bash-completion",
+    "desc": "Bash tab-completion for virt-v2v",
+    "package_name": "virt-v2v-bash-completion",
+    "version": "2.5.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-v2v-bash-completion-2.5.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-v2v-man-pages-ja",
+    "desc": "Japanese (ja) man pages for virt-v2v",
+    "package_name": "virt-v2v-man-pages-ja",
+    "version": "2.5.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-v2v-man-pages-ja-2.5.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-v2v-man-pages-uk",
+    "desc": "Ukrainian (uk) man pages for virt-v2v",
+    "package_name": "virt-v2v-man-pages-uk",
+    "version": "2.5.2-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-v2v-man-pages-uk-2.5.2-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-viewer",
+    "desc": "Virtual Machine Viewer",
+    "package_name": "virt-viewer",
+    "version": "11.0-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-viewer-11.0-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-what",
+    "desc": "Detect if we are running in a virtual machine",
+    "package_name": "virt-what",
+    "version": "1.25-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-what-1.25-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virt-who",
+    "desc": "Agent for reporting virtual guest IDs to subscription-manager",
+    "package_name": "virt-who",
+    "version": "1.31.26-1.fc40.1",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-who-1.31.26-1.fc40.1.x86_64.rpm"
+  },
+  {
+    "name": "virt-win-reg",
+    "desc": "Access and modify the Windows Registry of a Windows VM",
+    "package_name": "virt-win-reg",
+    "version": "1.52.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virt-win-reg-1.52.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virtdetect",
+    "desc": "Detect if a UNIX system is running as a virtual machine",
+    "package_name": "virtdetect",
+    "version": "0.107-32.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virtdetect-0.107-32.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virtiofsd",
+    "desc": "Virtio-fs vhost-user device daemon (Rust version)",
+    "package_name": "virtiofsd",
+    "version": "1.10.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virtiofsd-1.10.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virtme-ng",
+    "desc": "Quickly build and run kernels inside a virtualized snapshot of your live system",
+    "package_name": "virtme-ng",
+    "version": "1.22-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virtme-ng-1.22-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virtualbox-guest-additions",
+    "desc": "VirtualBox Guest Additions",
+    "package_name": "virtualbox-guest-additions",
+    "version": "7.0.14-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virtualbox-guest-additions-7.0.14-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "VirtualGL",
+    "desc": "A toolkit for displaying OpenGL applications to thin clients",
+    "package_name": "VirtualGL",
+    "version": "2.6.5-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/VirtualGL-2.6.5-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "VirtualGL-devel",
+    "desc": "Development headers and libraries for VirtualGL",
+    "package_name": "VirtualGL-devel",
+    "version": "2.6.5-9.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/VirtualGL-devel-2.6.5-9.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virtualpg",
+    "desc": "A loadable dynamic extension to both SQLite and SpatiaLite",
+    "package_name": "virtualpg",
+    "version": "2.0.1-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virtualpg-2.0.1-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "virtualpg-devel",
+    "desc": "Development files for virtualpg",
+    "package_name": "virtualpg-devel",
+    "version": "2.0.1-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/virtualpg-devel-2.0.1-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vis",
+    "desc": "A vim-like editor with structural regex from plan9",
+    "package_name": "vis",
+    "version": "0.7-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vis-0.7-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vis-doc",
+    "desc": "Docs for the Lua API of Vis",
+    "package_name": "vis-doc",
+    "version": "0.7-8.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vis-doc-0.7-8.fc40.x86_64.rpm"
+  },
+  {
+    "name": "visidata",
+    "desc": "Terminal interface for exploring and arranging tabular data",
+    "package_name": "visidata",
+    "version": "3.0.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/visidata-3.0.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "visualboyadvance-m",
+    "desc": "High compatibility Gameboy Advance Emulator combining VBA builds",
+    "package_name": "visualboyadvance-m",
+    "version": "2.1.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/visualboyadvance-m-2.1.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "visualboyadvance-m-sdl",
+    "desc": "SDL version (no GUI) for VBA-M, a high compatibility Gameboy Advance Emulator",
+    "package_name": "visualboyadvance-m-sdl",
+    "version": "2.1.9-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/visualboyadvance-m-sdl-2.1.9-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vit",
+    "desc": "Visual Interactive Taskwarrior full-screen terminal interface",
+    "package_name": "vit",
+    "version": "2.3.2-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vit-2.3.2-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vkBasalt",
+    "desc": "Vulkan post processing layer",
+    "package_name": "vkBasalt",
+    "version": "0.3.2.10-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vkBasalt-0.3.2.10-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vkd3d-compiler",
+    "desc": "Compiler tool for vkd3d",
+    "package_name": "vkd3d-compiler",
+    "version": "1.10-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vkd3d-compiler-1.10-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vkeybd",
+    "desc": "Virtual MIDI keyboard",
+    "package_name": "vkeybd",
+    "version": "0.1.18d-27.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vkeybd-0.1.18d-27.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vkmark",
+    "desc": "Vulkan benchmarking suite",
+    "package_name": "vkmark",
+    "version": "2017.08-0.20.20230412gitab6e6f3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vkmark-2017.08-0.20.20230412gitab6e6f3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vkroots-devel",
+    "desc": "A stupid simple method of making Vulkan layers, at home",
+    "package_name": "vkroots-devel",
+    "version": "0^20231119git2ceb105-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vkroots-devel-0^20231119git2ceb105-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vl-gothic-fonts",
+    "desc": "Japanese TrueType font",
+    "package_name": "vl-gothic-fonts",
+    "version": "20220612-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vl-gothic-fonts-20220612-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vl-gothic-fonts-all",
+    "desc": "All the font packages, generated from vl-gothic-fonts",
+    "package_name": "vl-gothic-fonts-all",
+    "version": "20220612-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vl-gothic-fonts-all-20220612-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vl-pgothic-fonts",
+    "desc": "Proportional Japanese TrueType font",
+    "package_name": "vl-pgothic-fonts",
+    "version": "20220612-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vl-pgothic-fonts-20220612-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc",
+    "desc": "The cross-platform open-source multimedia framework, player and server",
+    "package_name": "vlc",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-cli",
+    "desc": "VLC media player command line interface",
+    "package_name": "vlc-cli",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-cli-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-devel",
+    "desc": "Development files for vlc",
+    "package_name": "vlc-devel",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-devel-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-gui-ncurses",
+    "desc": "VLC media player TUI",
+    "package_name": "vlc-gui-ncurses",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-gui-ncurses-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-gui-qt",
+    "desc": "VLC media player Qt GUI",
+    "package_name": "vlc-gui-qt",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-gui-qt-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-gui-skins2",
+    "desc": "VLC media player Skins2 GUI",
+    "package_name": "vlc-gui-skins2",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-gui-skins2-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-libs",
+    "desc": "VLC media player runtime libraries",
+    "package_name": "vlc-libs",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-libs-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-bittorrent",
+    "desc": "Bittorrent plugin for VLC",
+    "package_name": "vlc-plugin-bittorrent",
+    "version": "2.14-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-bittorrent-2.14-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-crystalhd",
+    "desc": "VLC media player Crystal HD plugin",
+    "package_name": "vlc-plugin-crystalhd",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-crystalhd-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-ffmpeg",
+    "desc": "VLC media player FFmpeg plugins",
+    "package_name": "vlc-plugin-ffmpeg",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-ffmpeg-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-fluidsynth",
+    "desc": "VLC media player MIDI playback plugin",
+    "package_name": "vlc-plugin-fluidsynth",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-fluidsynth-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-gnome",
+    "desc": "VLC media player Gnome Keyring plugin",
+    "package_name": "vlc-plugin-gnome",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-gnome-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-gstreamer",
+    "desc": "VLC media player GStreamer codec plugin",
+    "package_name": "vlc-plugin-gstreamer",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-gstreamer-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-ieee1394",
+    "desc": "VLC media player IEEE 1394 plugins",
+    "package_name": "vlc-plugin-ieee1394",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-ieee1394-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-jack",
+    "desc": "VLC media player JACK plugins",
+    "package_name": "vlc-plugin-jack",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-jack-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-kde",
+    "desc": "VLC media player KWallet plugin",
+    "package_name": "vlc-plugin-kde",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-kde-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-lua",
+    "desc": "VLC media player lua scripting plugins",
+    "package_name": "vlc-plugin-lua",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-lua-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-notify",
+    "desc": "VLC media player notification plugin",
+    "package_name": "vlc-plugin-notify",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-notify-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-pause-click",
+    "desc": "VLC plugin that pauses/plays video on mouse click",
+    "package_name": "vlc-plugin-pause-click",
+    "version": "2.2.0-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-pause-click-2.2.0-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-pipewire",
+    "desc": "Pipewire plugin for VLC media player",
+    "package_name": "vlc-plugin-pipewire",
+    "version": "3-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-pipewire-3-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-pulseaudio",
+    "desc": "VLC media player PulseAudio plugins",
+    "package_name": "vlc-plugin-pulseaudio",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-pulseaudio-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-samba",
+    "desc": "VLC media player SMB plugin",
+    "package_name": "vlc-plugin-samba",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-samba-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-svg",
+    "desc": "VLC media player SVG plugins",
+    "package_name": "vlc-plugin-svg",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-svg-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-visualization",
+    "desc": "VLC media player visualization plugins",
+    "package_name": "vlc-plugin-visualization",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-visualization-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugin-vnc",
+    "desc": "VLC media player VNC plugin",
+    "package_name": "vlc-plugin-vnc",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugin-vnc-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugins-base",
+    "desc": "VLC media player core",
+    "package_name": "vlc-plugins-base",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugins-base-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlc-plugins-video-out",
+    "desc": "VLC media player vout plugins",
+    "package_name": "vlc-plugins-video-out",
+    "version": "3.0.20-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlc-plugins-video-out-3.0.20-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vlfrx-tools",
+    "desc": "VLF Receiver Software Toolkit",
+    "package_name": "vlfrx-tools",
+    "version": "0.9m-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vlfrx-tools-0.9m-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vm-dump-metrics",
+    "desc": "Virtualization host metrics dump",
+    "package_name": "vm-dump-metrics",
+    "version": "1.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vm-dump-metrics-1.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vm-dump-metrics-devel",
+    "desc": "Virtualization host metrics dump development",
+    "package_name": "vm-dump-metrics-devel",
+    "version": "1.1-15.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vm-dump-metrics-devel-1.1-15.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmaf",
+    "desc": "Video Multi-Method Assessment Fusion",
+    "package_name": "vmaf",
+    "version": "2.3.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmaf-2.3.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmaf-models",
+    "desc": "Model files for vmaf",
+    "package_name": "vmaf-models",
+    "version": "2.3.0-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmaf-models-2.3.0-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmmlib-devel",
+    "desc": "A vector and matrix math library implemented using C++ templates",
+    "package_name": "vmmlib-devel",
+    "version": "1.8.0-0.5.20220222git364732e3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmmlib-devel-1.8.0-0.5.20220222git364732e3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmod-querystring",
+    "desc": "QueryString module for Varnish Cache",
+    "package_name": "vmod-querystring",
+    "version": "2.0.3-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmod-querystring-2.0.3-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmod-uuid",
+    "desc": "UUID module for Varnish Cache",
+    "package_name": "vmod-uuid",
+    "version": "1.10-16.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmod-uuid-1.10-16.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmpk",
+    "desc": "Virtual MIDI Piano Keyboard",
+    "package_name": "vmpk",
+    "version": "0.9.0-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmpk-0.9.0-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vmtouch",
+    "desc": "Portable file system cache diagnostics and control",
+    "package_name": "vmtouch",
+    "version": "1.3.1-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vmtouch-1.3.1-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vnc-reflector",
+    "desc": "A specialized, multiplexing vnc proxy server",
+    "package_name": "vnc-reflector",
+    "version": "1.2.4-37.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vnc-reflector-1.2.4-37.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vncpwd",
+    "desc": "VNC Password Decrypter",
+    "package_name": "vncpwd",
+    "version": "0.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vncpwd-0.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vnstat",
+    "desc": "Console-based network traffic monitor",
+    "package_name": "vnstat",
+    "version": "2.10-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vnstat-2.10-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vnstat-vnstati",
+    "desc": "Image output support for vnstat",
+    "package_name": "vnstat-vnstati",
+    "version": "2.10-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vnstat-vnstati-2.10-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vo-amrwbenc",
+    "desc": "VisualOn AMR-WB encoder library",
+    "package_name": "vo-amrwbenc",
+    "version": "0.1.3-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vo-amrwbenc-0.1.3-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vo-amrwbenc-devel",
+    "desc": "Development files for vo-amrwbenc",
+    "package_name": "vo-amrwbenc-devel",
+    "version": "0.1.3-20.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vo-amrwbenc-devel-0.1.3-20.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vobcopy",
+    "desc": "Utility to copy DVD .vob files to disk",
+    "package_name": "vobcopy",
+    "version": "1.2.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vobcopy-1.2.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vodovod",
+    "desc": "A pipe connecting game",
+    "package_name": "vodovod",
+    "version": "1.10r22-24.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vodovod-1.10r22-24.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voikko-fi",
+    "desc": "A description of Finnish morphology written for libvoikko",
+    "package_name": "voikko-fi",
+    "version": "2.5-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voikko-fi-2.5-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voikko-tools",
+    "desc": "Test tools for libvoikko",
+    "package_name": "voikko-tools",
+    "version": "4.3.2-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voikko-tools-4.3.2-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vokoscreenNG",
+    "desc": "Powerful screencast creator to record the screen",
+    "package_name": "vokoscreenNG",
+    "version": "4.1.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vokoscreenNG-4.1.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volk",
+    "desc": "The Vector Optimized Library of Kernels",
+    "package_name": "volk",
+    "version": "3.1.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volk-3.1.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volk-devel",
+    "desc": "Development files for VOLK",
+    "package_name": "volk-devel",
+    "version": "3.1.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volk-devel-3.1.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volk-doc",
+    "desc": "Documentation files for VOLK",
+    "package_name": "volk-doc",
+    "version": "3.1.1-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volk-doc-3.1.1-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volpack",
+    "desc": "Portable library for fast volume rendering",
+    "package_name": "volpack",
+    "version": "1.0c7-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volpack-1.0c7-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volpack-devel",
+    "desc": "Shared libraries and header files for development using volpack",
+    "package_name": "volpack-devel",
+    "version": "1.0c7-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volpack-devel-1.0c7-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volpack-doc",
+    "desc": "Documentation and examples for help using volpack",
+    "package_name": "volpack-doc",
+    "version": "1.0c7-31.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volpack-doc-1.0c7-31.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volume_key",
+    "desc": "An utility for manipulating storage encryption keys and passphrases",
+    "package_name": "volume_key",
+    "version": "0.3.12-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volume_key-0.3.12-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volume_key-devel",
+    "desc": "A library for manipulating storage encryption keys and passphrases",
+    "package_name": "volume_key-devel",
+    "version": "0.3.12-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volume_key-devel-0.3.12-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volume_key-libs",
+    "desc": "A library for manipulating storage encryption keys and passphrases",
+    "package_name": "volume_key-libs",
+    "version": "0.3.12-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volume_key-libs-0.3.12-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "volumeicon",
+    "desc": "Lightweight volume control for the system tray",
+    "package_name": "volumeicon",
+    "version": "0.5.1-15.20230208gitb034dd1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/volumeicon-0.5.1-15.20230208gitb034dd1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms",
+    "desc": "Virtual Organization Membership Service",
+    "package_name": "voms",
+    "version": "2.1.0-0.32.rc3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-2.1.0-0.32.rc3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-api-java",
+    "desc": "Virtual Organization Membership Service Java API",
+    "package_name": "voms-api-java",
+    "version": "3.3.2-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-api-java-3.3.2-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-api-java-javadoc",
+    "desc": "Virtual Organization Membership Service Java API Documentation",
+    "package_name": "voms-api-java-javadoc",
+    "version": "3.3.2-17.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-api-java-javadoc-3.3.2-17.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-clients-cpp",
+    "desc": "Virtual Organization Membership Service Clients",
+    "package_name": "voms-clients-cpp",
+    "version": "2.1.0-0.32.rc3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-clients-cpp-2.1.0-0.32.rc3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-clients-java",
+    "desc": "Virtual Organization Membership Service Java clients",
+    "package_name": "voms-clients-java",
+    "version": "3.3.2-13.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-clients-java-3.3.2-13.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-devel",
+    "desc": "Virtual Organization Membership Service Development Files",
+    "package_name": "voms-devel",
+    "version": "2.1.0-0.32.rc3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-devel-2.1.0-0.32.rc3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-doc",
+    "desc": "Virtual Organization Membership Service Documentation",
+    "package_name": "voms-doc",
+    "version": "2.1.0-0.32.rc3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-doc-2.1.0-0.32.rc3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-mysql-plugin",
+    "desc": "VOMS server plugin for MySQL",
+    "package_name": "voms-mysql-plugin",
+    "version": "3.1.7-21.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-mysql-plugin-3.1.7-21.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voms-server",
+    "desc": "Virtual Organization Membership Service Server",
+    "package_name": "voms-server",
+    "version": "2.1.0-0.32.rc3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voms-server-2.1.0-0.32.rc3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vorbis-tools",
+    "desc": "The Vorbis General Audio Compression Codec tools",
+    "package_name": "vorbis-tools",
+    "version": "1.4.2-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vorbis-tools-1.4.2-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vorbisgain",
+    "desc": "Adds tags to Ogg Vorbis files to adjust the volume",
+    "package_name": "vorbisgain",
+    "version": "0.37-7.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vorbisgain-0.37-7.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voro++",
+    "desc": "Library for 3D computations of the Voronoi tessellation",
+    "package_name": "voro++",
+    "version": "0.4.6-28.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voro++-0.4.6-28.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voro++-devel",
+    "desc": "voro++ headers",
+    "package_name": "voro++-devel",
+    "version": "0.4.6-28.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voro++-devel-0.4.6-28.fc40.x86_64.rpm"
+  },
+  {
+    "name": "voro++-doc",
+    "desc": "voro++ documentation",
+    "package_name": "voro++-doc",
+    "version": "0.4.6-28.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/voro++-doc-0.4.6-28.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vorta",
+    "desc": "A GUI for Borg Backup",
+    "package_name": "vorta",
+    "version": "0.8.12-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vorta-0.8.12-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca",
+    "desc": "Versatile Object-oriented Toolkit for Coarse-graining Applications",
+    "package_name": "votca",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-bash",
+    "desc": "Bash completion for VOTCA",
+    "package_name": "votca-bash",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-bash-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-common",
+    "desc": "Architecture independent data files for VOTCA",
+    "package_name": "votca-common",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-common-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-common-xtp",
+    "desc": "Architecture independent data files for xtp parts of VOTCA",
+    "package_name": "votca-common-xtp",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-common-xtp-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-csg-tutorials",
+    "desc": "Architecture independent csg tutorial files for VOTCA",
+    "package_name": "votca-csg-tutorials",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-csg-tutorials-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-devel",
+    "desc": "Development headers and libraries for votca",
+    "package_name": "votca-devel",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-devel-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-libs",
+    "desc": "Libraries for VOTCA coarse-graining engine",
+    "package_name": "votca-libs",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-libs-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "votca-xtp-tutorials",
+    "desc": "Architecture independent xtp tutorial files for VOTCA",
+    "package_name": "votca-xtp-tutorials",
+    "version": "2024-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/votca-xtp-tutorials-2024-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vpnc",
+    "desc": "IPSec VPN client compatible with Cisco equipment",
+    "package_name": "vpnc",
+    "version": "0.5.3-47.svn550.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vpnc-0.5.3-47.svn550.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vpnc-consoleuser",
+    "desc": "Allows console user to run the VPN client directly",
+    "package_name": "vpnc-consoleuser",
+    "version": "0.5.3-47.svn550.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vpnc-consoleuser-0.5.3-47.svn550.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vpnc-script",
+    "desc": "Routing setup script for vpnc and openconnect",
+    "package_name": "vpnc-script",
+    "version": "20230907-2.git5b9e7e4c.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vpnc-script-20230907-2.git5b9e7e4c.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vpoller",
+    "desc": "Executable binaries for Distributed vSphere API Proxy",
+    "package_name": "vpoller",
+    "version": "0.7.3-22.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vpoller-0.7.3-22.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vrms-rpm",
+    "desc": "Report non-free software",
+    "package_name": "vrms-rpm",
+    "version": "2.3-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vrms-rpm-2.3-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vrpn",
+    "desc": "Virtual-Reality Peripheral Network",
+    "package_name": "vrpn",
+    "version": "07.35-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vrpn-07.35-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vrpn-devel",
+    "desc": "Development files for the Virtual-Reality Peripheral Network",
+    "package_name": "vrpn-devel",
+    "version": "07.35-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vrpn-devel-07.35-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vrpn-doc",
+    "desc": "Developer's documentation for VRPN",
+    "package_name": "vrpn-doc",
+    "version": "07.35-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vrpn-doc-07.35-2.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vrq",
+    "desc": "Verilog tool framework with plugins for manipulating source code",
+    "package_name": "vrq",
+    "version": "1.0.134-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vrq-1.0.134-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vrq-devel",
+    "desc": "Header files and libraries for Vrq development",
+    "package_name": "vrq-devel",
+    "version": "1.0.134-10.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vrq-devel-1.0.134-10.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsftpd",
+    "desc": "Very Secure Ftp Daemon",
+    "package_name": "vsftpd",
+    "version": "3.0.5-6.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsftpd-3.0.5-6.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3",
+    "desc": "COVESA implementation of SOME/IP protocol",
+    "package_name": "vsomeip3",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-compat",
+    "desc": "Compat libraries for vsomeip2",
+    "package_name": "vsomeip3-compat",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-compat-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-compat-devel",
+    "desc": "Development files for vsomeip3-compat",
+    "package_name": "vsomeip3-compat-devel",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-compat-devel-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-devel",
+    "desc": "Development files for vsomeip3",
+    "package_name": "vsomeip3-devel",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-devel-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-examples",
+    "desc": "Examples for vsomeip3",
+    "package_name": "vsomeip3-examples",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-examples-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-routingmanager",
+    "desc": "Routingmanager daemon vsomeip3",
+    "package_name": "vsomeip3-routingmanager",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-routingmanager-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-selinux",
+    "desc": "SELinux policy module for vsomeip3",
+    "package_name": "vsomeip3-selinux",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-selinux-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vsomeip3-tools",
+    "desc": "Tools for vsomeip3",
+    "package_name": "vsomeip3-tools",
+    "version": "3.3.8-3.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vsomeip3-tools-3.3.8-3.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vst-amsynth-plugin",
+    "desc": "Amsynth vst plugin",
+    "package_name": "vst-amsynth-plugin",
+    "version": "1.13.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vst-amsynth-plugin-1.13.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtable-dumper",
+    "desc": "Tool to list content of virtual tables in a C++ shared library",
+    "package_name": "vtable-dumper",
+    "version": "1.2-18.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtable-dumper-1.2-18.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte",
+    "desc": "A terminal emulator",
+    "package_name": "vte",
+    "version": "0.28.2-42.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte-0.28.2-42.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte-devel",
+    "desc": "Files needed for developing applications which use vte",
+    "package_name": "vte-devel",
+    "version": "0.28.2-42.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte-devel-0.28.2-42.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte-profile",
+    "desc": "Profile script for VTE terminal emulator library",
+    "package_name": "vte-profile",
+    "version": "0.74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte-profile-0.74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte291",
+    "desc": "GTK+ 3 terminal emulator library",
+    "package_name": "vte291",
+    "version": "0.74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte291-0.74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte291-devel",
+    "desc": "Development files for GTK+ 3 vte291",
+    "package_name": "vte291-devel",
+    "version": "0.74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte291-devel-0.74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte291-gtk4",
+    "desc": "GTK4 terminal emulator library",
+    "package_name": "vte291-gtk4",
+    "version": "0.74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte291-gtk4-0.74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vte291-gtk4-devel",
+    "desc": "Development files for GTK 4 vte291",
+    "package_name": "vte291-gtk4-devel",
+    "version": "0.74.2-4.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vte291-gtk4-devel-0.74.2-4.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk",
+    "desc": "The Visualization Toolkit - A high level 3D visualization library",
+    "package_name": "vtk",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-data",
+    "desc": "VTK data files for tests/examples",
+    "package_name": "vtk-data",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-data-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-devel",
+    "desc": "VTK header files for building C++ code",
+    "package_name": "vtk-devel",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-devel-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-doc",
+    "desc": "API documentation for VTK",
+    "package_name": "vtk-doc",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-doc-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-examples",
+    "desc": "Examples for VTK",
+    "package_name": "vtk-examples",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-examples-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-java",
+    "desc": "Java bindings for VTK",
+    "package_name": "vtk-java",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-java-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-mpich",
+    "desc": "The Visualization Toolkit - mpich version",
+    "package_name": "vtk-mpich",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-mpich-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-mpich-devel",
+    "desc": "VTK header files for building C++ code with mpich",
+    "package_name": "vtk-mpich-devel",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-mpich-devel-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-mpich-java",
+    "desc": "Java bindings for VTK with mpich",
+    "package_name": "vtk-mpich-java",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-mpich-java-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-mpich-qt",
+    "desc": "Qt bindings for VTK with mpich",
+    "package_name": "vtk-mpich-qt",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-mpich-qt-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-openmpi",
+    "desc": "The Visualization Toolkit - openmpi version",
+    "package_name": "vtk-openmpi",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-openmpi-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-openmpi-devel",
+    "desc": "VTK header files for building C++ code with openmpi",
+    "package_name": "vtk-openmpi-devel",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-openmpi-devel-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-openmpi-java",
+    "desc": "Java bindings for VTK with openmpi",
+    "package_name": "vtk-openmpi-java",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-openmpi-java-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-openmpi-qt",
+    "desc": "Qt bindings for VTK with openmpi",
+    "package_name": "vtk-openmpi-qt",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-openmpi-qt-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-qt",
+    "desc": "Qt bindings for VTK",
+    "package_name": "vtk-qt",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-qt-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vtk-testing",
+    "desc": "Testing programs for VTK",
+    "package_name": "vtk-testing",
+    "version": "9.2.6-12.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vtk-testing-9.2.6-12.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vttest",
+    "desc": "test VT100-type terminal",
+    "package_name": "vttest",
+    "version": "2.7.20231230-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vttest-2.7.20231230-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-headers",
+    "desc": "Vulkan Header files and API registry",
+    "package_name": "vulkan-headers",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-headers-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-loader",
+    "desc": "Vulkan ICD desktop loader",
+    "package_name": "vulkan-loader",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-loader-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-loader-devel",
+    "desc": "Development files for vulkan-loader",
+    "package_name": "vulkan-loader-devel",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-loader-devel-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-tools",
+    "desc": "Vulkan tools",
+    "package_name": "vulkan-tools",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-tools-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-utility-libraries-devel",
+    "desc": "Development files for vulkan-utility-libraries",
+    "package_name": "vulkan-utility-libraries-devel",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-utility-libraries-devel-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-validation-layers",
+    "desc": "Vulkan validation layers",
+    "package_name": "vulkan-validation-layers",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-validation-layers-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vulkan-volk-devel",
+    "desc": "Development files for vulkan-volk",
+    "package_name": "vulkan-volk-devel",
+    "version": "1.3.275.0-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vulkan-volk-devel-1.3.275.0-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "VulkanMemoryAllocator",
+    "desc": "Easy to integrate Vulkan memory allocation library",
+    "package_name": "VulkanMemoryAllocator",
+    "version": "3.0.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/VulkanMemoryAllocator-3.0.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "VulkanMemoryAllocator-devel",
+    "desc": "The Vulkan Memory Allocator development package",
+    "package_name": "VulkanMemoryAllocator-devel",
+    "version": "3.0.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/VulkanMemoryAllocator-devel-3.0.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "VulkanMemoryAllocator-doc",
+    "desc": "The Vulkan Memory Allocator documentation package",
+    "package_name": "VulkanMemoryAllocator-doc",
+    "version": "3.0.1-5.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/VulkanMemoryAllocator-doc-3.0.1-5.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vultr",
+    "desc": "Vultr CLI",
+    "package_name": "vultr",
+    "version": "2.0.3-11.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vultr-2.0.3-11.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vultr-cli",
+    "desc": "Official command line tool for Vultr services",
+    "package_name": "vultr-cli",
+    "version": "3.0.3-1.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vultr-cli-3.0.3-1.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vxl",
+    "desc": "C++ Libraries for Computer Vision Research and Implementation",
+    "package_name": "vxl",
+    "version": "2.0.2-29.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vxl-2.0.2-29.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vxl-devel",
+    "desc": "Headers and development libraries for VXL",
+    "package_name": "vxl-devel",
+    "version": "2.0.2-29.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vxl-devel-2.0.2-29.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vxl-doc",
+    "desc": "Documentation for VXL library",
+    "package_name": "vxl-doc",
+    "version": "2.0.2-29.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vxl-doc-2.0.2-29.fc40.x86_64.rpm"
+  },
+  {
+    "name": "vym",
+    "desc": "View your mind",
+    "package_name": "vym",
+    "version": "2.9.26-2.fc40",
+    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vym-2.9.26-2.fc40.x86_64.rpm"
+  }
+]
