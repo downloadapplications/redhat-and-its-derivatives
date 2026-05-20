@@ -27,12 +27,13 @@ jobs:
           echo "🔨 Querying complete un-sliced repository metadata..."
           dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.json
           
-          echo "🐍 Running Python Sharding Partition Matrix..."
-          python3 -c '
-          import json, os, re
+          echo "📝 Creating localized Python engine script..."
+          cat << 'EOF' > parse_repo.py
+          import json
+          import os
+          import re
           from collections import defaultdict
 
-          # Create a directory to store our database shards cleanly
           os.makedirs("repo_shards", exist_ok=True)
           
           shards = defaultdict(list)
@@ -41,31 +42,35 @@ jobs:
           with open("raw_list.json", "r") as f:
               for line in f:
                   line = line.strip()
-                  if not line: continue
+                  if not line: 
+                      continue
                   try:
                       pkg = json.loads(line)
                       name = pkg.get("name", "")
                       desc = pkg.get("desc", "")
                       version = pkg.get("version", "")
                       
-                      if not name or not desc: continue
+                      if not name or not desc: 
+                          continue
+                      if "-debug" in name or "-static" in name: 
+                          continue
                       
-                      # Filter out debugging artifacts and duplication, keep absolutely everything else
-                      if "-debug" in name or "-static" in name: continue
-                      
-                      # Unique tracking string (combines name + version)
                       pkg_key = f"{name}-{version}"
-                      if pkg_key in seen_packages: continue
+                      if pkg_key in seen_packages: 
+                          continue
                       seen_packages.add(pkg_key)
                       
-                      # Group sorting logic
                       first_char = name[0].lower()
                       if not first_char.isalnum():
                           first_char = re.sub(r"^[^a-zA-Z0-9]", "", name)[0].lower()
+                      
                       if first_char.isdigit():
                           first_char = "number"
+                          folder = "n"
+                      else:
+                          folder = first_char
                           
-                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{first_char[0] if first_char != \"number\" else \"n\"}/{name}-{version}.x86_64.rpm"
+                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{folder}/{name}-{version}.x86_64.rpm"
                       
                       shards[first_char].append({
                           "name": name,
@@ -77,7 +82,6 @@ jobs:
                   except Exception:
                       continue
 
-          # Write out individual data cluster file maps with zero limits
           total_count = 0
           summary_manifest = {}
           
@@ -89,12 +93,14 @@ jobs:
               with open(f"repo_shards/{shard_key}.json", "w") as out:
                   json.dump(packages, out, indent=2)
           
-          # Output a primary master index file so the website knows what letters exist
           with open("repo_shards/manifest.json", "w") as out:
               json.dump({"total_packages": total_count, "groups": summary_manifest}, out, indent=2)
 
-          print(f"✅ Sharding successful. Total un-capped metadata records generated: {total_count}")
-          '
+          print(f"✅ Sharding successful. Total records: {total_count}")
+          EOF
+
+          echo "🐍 Running Python Sharding Partition Matrix..."
+          python3 parse_repo.py
           
       - name: Push Database Shards to Main Branch
         run: |
