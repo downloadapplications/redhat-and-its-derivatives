@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fedora Package Hub</title>
+    <title>Fedora Enterprise Package Mirror</title>
     <style>
         :root {
             --fedora-blue: #294172;         
@@ -13,7 +13,7 @@
             --fedora-text: #2e3440;         
             --fedora-muted: #65737e;        
             --fedora-border: #d8dee9;       
-            --font-stack: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            --font-stack: system-ui, -apple-system, sans-serif;
         }
 
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -41,7 +41,7 @@
         }
 
         .header-brand { font-weight: 700; font-size: 16px; letter-spacing: 0.5px; }
-        .header-brand span { font-weight: 300; opacity: 0.8; }
+        .header-brand span { font-weight: 300; opacity: 0.7; font-size: 13px; margin-left: 8px; background: rgba(255,255,255,0.15); padding: 2px 8px; border-radius: 4px; }
 
         .search-container { position: relative; width: 380px; }
         .search-box {
@@ -60,7 +60,7 @@
         .workspace-layout { flex: 1; display: flex; overflow: hidden; }
         
         .os-sidebar {
-            width: 260px;
+            width: 280px;
             background-color: var(--fedora-surface);
             border-right: 1px solid var(--fedora-border);
             padding: 16px 8px;
@@ -69,6 +69,8 @@
             gap: 2px;
             overflow-y: auto;
         }
+
+        .sidebar-title { font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--fedora-muted); padding: 8px 14px; letter-spacing: 0.5px; }
 
         .category-row {
             padding: 10px 14px;
@@ -137,25 +139,22 @@
 <body>
     <div class="os-window">
         <header class="os-headerbar">
-            <div class="header-brand">Fedora <span>AppStream Repository Portal</span></div>
+            <div class="header-brand">Fedora OS <span>Total Mirror Node</span> <span id="globalCount">0 Packages</span></div>
             <div class="search-container">
                 <span class="search-icon">🔍</span>
-                <input type="text" id="searchBox" class="search-box" placeholder="Filter indexed applications..." disabled>
+                <input type="text" id="searchBox" class="search-box" placeholder="Search loaded partition..." disabled>
             </div>
             <div style="width: 20px;"></div>
         </header>
         <div class="workspace-layout">
             <aside class="os-sidebar" id="sidebarMenu">
-                <div class="category-row active" id="cat-ALL" onclick="filterCategory('ALL')">
-                    <span>All System Feeds</span>
-                    <span class="badge" id="badge-ALL">0</span>
-                </div>
+                <div class="sidebar-title">Repository Partitions</div>
             </aside>
             <main class="viewport-stream">
                 <div id="gridSection">
-                    <h3 class="grid-header" id="sectionTitle">Available Core Targets</h3>
+                    <h3 class="grid-header" id="sectionTitle">Select a Partition</h3>
                     <div class="rpm-grid" id="rpmContainer">
-                        <div class="status-empty">Connecting to local data matrices...</div>
+                        <div class="status-empty">Please choose an alphabetical index group from the sidebar.</div>
                     </div>
                 </div>
                 <div id="detailSection" class="detail-view-pane"></div>
@@ -164,56 +163,65 @@
     </div>
 
     <script>
-        const DATA_URL = "fedora_packages.json";
-        let MASTER_DB = [];
-        let VIEW_DB = [];
+        const MANIFEST_URL = "repo_shards/manifest.json";
+        let SHARD_MANIFEST = {};
+        let ACTIVE_SHARD_DATA = [];
 
-        async function startStore() {
+        async function initStore() {
             try {
-                const response = await fetch(DATA_URL);
-                if (!response.ok) throw new Error("Manifest generation processing incomplete.");
-                MASTER_DB = await response.json();
+                const response = await fetch(MANIFEST_URL);
+                if (!response.ok) throw new Error("Manifest file absent.");
+                SHARD_MANIFEST = await response.json();
                 
-                document.getElementById('badge-ALL').textContent = MASTER_DB.length;
-                document.getElementById('searchBox').disabled = false;
-                
-                buildAlphaNavigation();
-                filterCategory('ALL');
+                document.getElementById('globalCount').textContent = `${SHARD_MANIFEST.total_packages.toLocaleString()} Packages`;
+                buildShardNavigation(SHARD_MANIFEST.groups);
             } catch (err) {
                 document.getElementById('rpmContainer').innerHTML = `
                     <div class="status-empty" style="color:#bf616a;">
-                        ⚠️ Repository Array Empty: Build action required.<br>
-                        <small style="display:block; margin-top:8px; color:var(--fedora-muted);">Execute the modified container build workflow to scrape DNF AppStream records.</small>
+                        ⚠️ Mirror Offline: repo_shards system generation not found.<br>
+                        <small style="display:block; margin-top:8px; color:var(--fedora-muted);">Execute your updated sharder actions workflow to generate full uncapped files.</small>
                     </div>`;
             }
         }
 
-        function buildAlphaNavigation() {
+        function buildShardNavigation(groups) {
             const menu = document.getElementById('sidebarMenu');
-            const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+            const keys = Object.keys(groups).sort();
             
-            letters.forEach(char => {
-                const size = MASTER_DB.filter(x => x.name.toUpperCase().startsWith(char)).length;
-                if (size > 0) {
-                    const row = document.createElement('div');
-                    row.className = 'category-row';
-                    row.id = `cat-${char}`;
-                    row.onclick = () => filterCategory(char);
-                    row.innerHTML = `<span>Index Group ${char}</span><span class="badge">${size}</span>`;
-                    menu.appendChild(row);
-                }
+            keys.forEach(key => {
+                const row = document.createElement('div');
+                row.className = 'category-row';
+                row.id = `shard-${key}`;
+                row.onclick = () => loadShard(key);
+                
+                const label = key === "number" ? "Numbers [0-9]" : `Index Cluster ${key.toUpperCase()}`;
+                row.innerHTML = `<span>${label}</span><span class="badge">${groups[key]}</span>`;
+                menu.appendChild(row);
             });
         }
 
-        function filterCategory(char) {
+        async function loadShard(key) {
             document.querySelectorAll('.category-row').forEach(el => el.classList.remove('active'));
-            document.getElementById(`cat-${char}`).classList.add('active');
+            const targetRow = document.getElementById(`shard-${key}`);
+            if(targetRow) targetRow.classList.add('active');
+            
             document.getElementById('searchBox').value = '';
+            document.getElementById('searchBox').disabled = true;
             closeDetail();
+            
+            document.getElementById('sectionTitle').textContent = `Loading Partition Cluster [${key.toUpperCase()}]...`;
+            document.getElementById('rpmContainer').innerHTML = '<div class="status-empty">Downloading dynamic repository matrix file...</div>';
 
-            document.getElementById('sectionTitle').textContent = char === 'ALL' ? "Available Core Targets" : `Packages indexed under "${char}"`;
-            VIEW_DB = char === 'ALL' ? [...MASTER_DB] : MASTER_DB.filter(x => x.name.toUpperCase().startsWith(char));
-            renderGrid(VIEW_DB);
+            try {
+                const response = await fetch(`repo_shards/${key}.json`);
+                ACTIVE_SHARD_DATA = await response.json();
+                
+                document.getElementById('sectionTitle').textContent = key === "number" ? "Numeric System Targets" : `Packages under Identifier: ${key.toUpperCase()}`;
+                document.getElementById('searchBox').disabled = false;
+                renderGrid(ACTIVE_SHARD_DATA);
+            } catch (err) {
+                document.getElementById('rpmContainer').innerHTML = '<div class="status-empty" style="color:#bf616a;">Failed to load data shard.</div>';
+            }
         }
 
         function renderGrid(data) {
@@ -267,11 +275,11 @@
         document.getElementById('searchBox').addEventListener('input', (e) => {
             const query = e.target.value.toLowerCase().trim();
             closeDetail();
-            const matching = VIEW_DB.filter(x => x.name.toLowerCase().includes(query));
+            const matching = ACTIVE_SHARD_DATA.filter(x => x.name.toLowerCase().includes(query));
             renderGrid(matching);
         });
 
-        startStore();
+        initStore();
     </script>
 </body>
 </html>
