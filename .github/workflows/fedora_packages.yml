@@ -1,0 +1,64 @@
+name: Bulk Ingest Fedora AppStream Database
+on:
+  schedule:
+    - cron: '0 12 * * *' # Refreshes every single day
+  workflow_dispatch: # Manual activation override
+
+permissions:
+  contents: write
+
+jobs:
+  build-matrix:
+    runs-on: ubuntu-latest
+    container:
+      image: fedora:40 # We boot a native Fedora environment to get full native access to DNF
+    steps:
+      - name: Install Fundamental Core Utilities
+        run: dnf install -y git jq
+
+      - name: Checkout Source Repository
+        uses: actions/checkout@v4
+
+      - name: Extract Live Package Meta via Local DNF Engine
+        run: |
+          echo "📥 Synchronizing upstream AppStream indices..."
+          dnf makecache
+          
+          echo "🔨 Pulling bulk package metadata sets via native DNF query pipelines..."
+          
+          # We tap the AppStream repository cluster for user-facing applications
+          # We select fields: name, summary, version, release, and target arch format
+          dnf repoquery --repo=appstream --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}", "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/\($first_letter)/%{name}-%{version}-%{release}.%{arch}.rpm"}' > raw_list.txt
+          
+          echo "🧹 Cleaning, filtering, and structural parsing via jq..."
+          
+          # We read the raw output, skip sub-development libraries, match clean titles, 
+          # format the dynamic directory letter index required by Fedora CDN mirrors, and truncate safely
+          cat raw_list.txt | jq -s '
+            map(
+              select(.name != null and .desc != null) |
+              select(.name | startswith("lib") | not) |
+              select(.name | contains("-devel") | not) |
+              select(.name | contains("-debug") | not) |
+              . + { 
+                download_url: (
+                  "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/" + 
+                  (.name | sub("^[^a-zA-Z0-9]"; "") | .[0:1] | tolower) + 
+                  "/" + .name + "-" + .version + ".x86_64.rpm"
+                )
+              }
+            ) | 
+            sort_by(.name) | 
+            .[0:600]
+          ' > fedora_packages.json
+
+          echo "✅ Pipeline successfully processed. Total packages extracted:"
+          jq 'length' fedora_packages.json
+
+      - name: Push Bulk Matrix to Repository
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add fedora_packages.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Bulk DNF AppStream Database Exported" && git push)
