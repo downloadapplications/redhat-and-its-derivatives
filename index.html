@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fedora Package Hub</title>
+    <style>
+        :root {
+            --fedora-blue: #294172;         
+            --fedora-dark: #1d2d50;         
+            --fedora-bg: #f4f6f9;           
+            --fedora-surface: #ffffff;      
+            --fedora-text: #2e3440;         
+            --fedora-muted: #65737e;        
+            --fedora-border: #d8dee9;       
+            --font-stack: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: var(--font-stack);
+            background-color: var(--fedora-bg);
+            color: var(--fedora-text);
+            height: 100vh;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .os-window { width: 100%; height: 100%; display: flex; flex-direction: column; }
+        
+        .os-headerbar {
+            height: 64px;
+            background-color: var(--fedora-blue);
+            color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            z-index: 10;
+        }
+
+        .header-brand { font-weight: 700; font-size: 16px; letter-spacing: 0.5px; }
+        .header-brand span { font-weight: 300; opacity: 0.8; }
+
+        .search-container { position: relative; width: 380px; }
+        .search-box {
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.15);
+            border: 1px solid transparent;
+            color: #ffffff;
+            padding: 10px 16px 10px 42px;
+            border-radius: 6px;
+            font-size: 14px;
+            outline: none;
+        }
+        .search-box:focus { background-color: var(--fedora-surface); color: var(--fedora-text); }
+        .search-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); opacity: 0.6; }
+
+        .workspace-layout { flex: 1; display: flex; overflow: hidden; }
+        
+        .os-sidebar {
+            width: 260px;
+            background-color: var(--fedora-surface);
+            border-right: 1px solid var(--fedora-border);
+            padding: 16px 8px;
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+            overflow-y: auto;
+        }
+
+        .category-row {
+            padding: 10px 14px;
+            border-radius: 6px;
+            font-size: 13.5px;
+            font-weight: 500;
+            color: var(--fedora-text);
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .category-row:hover { background-color: var(--fedora-bg); }
+        .category-row.active { background-color: rgba(41, 65, 114, 0.08); color: var(--fedora-blue); font-weight: 600; }
+
+        .badge { font-size: 11px; background-color: var(--fedora-bg); color: var(--fedora-muted); padding: 2px 6px; border-radius: 10px; }
+        .category-row.active .badge { background-color: var(--fedora-blue); color: white; }
+
+        .viewport-stream { flex: 1; overflow-y: auto; padding: 32px; }
+        .grid-header { font-size: 20px; font-weight: 600; margin-bottom: 24px; border-bottom: 2px solid var(--fedora-border); padding-bottom: 8px; color: var(--fedora-blue); }
+        
+        .rpm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+        
+        .rpm-card {
+            background-color: var(--fedora-surface);
+            border: 1px solid var(--fedora-border);
+            border-radius: 8px;
+            padding: 16px;
+            display: flex;
+            gap: 16px;
+            align-items: center;
+            cursor: pointer;
+        }
+        .rpm-card:hover { border-color: var(--fedora-blue); background-color: rgba(41, 65, 114, 0.01); }
+
+        .rpm-icon-box { width: 44px; height: 44px; border-radius: 6px; background-color: #e5e9f0; color: var(--fedora-blue); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 16px; flex-shrink: 0; }
+
+        .meta-container { flex: 1; min-width: 0; }
+        .rpm-title { font-size: 14.5px; font-weight: 600; margin-bottom: 2px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
+        .rpm-desc { font-size: 12.5px; color: var(--fedora-muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; height: 34px; line-height: 1.4; }
+
+        .detail-view-pane { display: none; flex-direction: column; }
+        .btn-back-link { background: none; border: none; color: var(--fedora-blue); font-size: 14px; font-weight: 500; cursor: pointer; margin-bottom: 24px; text-align: left; }
+        
+        .detail-main-info { display: flex; gap: 24px; align-items: center; margin-bottom: 32px; }
+        .detail-title-block h2 { font-size: 24px; font-weight: 700; }
+        
+        .btn-action-rpm {
+            background-color: var(--fedora-blue);
+            color: white;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 4px;
+            font-size: 13.5px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 12px;
+        }
+        .btn-action-rpm:hover { background-color: var(--fedora-dark); }
+
+        .terminal-instructions { background-color: #2e3440; color: #d8dee9; padding: 16px; border-radius: 6px; font-family: monospace; font-size: 13px; margin-top: 24px; line-height: 1.6; }
+        .status-empty { text-align: center; color: var(--fedora-muted); padding: 80px 0; }
+    </style>
+</head>
+<body>
+    <div class="os-window">
+        <header class="os-headerbar">
+            <div class="header-brand">Fedora <span>AppStream Repository Portal</span></div>
+            <div class="search-container">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="searchBox" class="search-box" placeholder="Filter indexed applications..." disabled>
+            </div>
+            <div style="width: 20px;"></div>
+        </header>
+        <div class="workspace-layout">
+            <aside class="os-sidebar" id="sidebarMenu">
+                <div class="category-row active" id="cat-ALL" onclick="filterCategory('ALL')">
+                    <span>All System Feeds</span>
+                    <span class="badge" id="badge-ALL">0</span>
+                </div>
+            </aside>
+            <main class="viewport-stream">
+                <div id="gridSection">
+                    <h3 class="grid-header" id="sectionTitle">Available Core Targets</h3>
+                    <div class="rpm-grid" id="rpmContainer">
+                        <div class="status-empty">Connecting to local data matrices...</div>
+                    </div>
+                </div>
+                <div id="detailSection" class="detail-view-pane"></div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        const DATA_URL = "fedora_packages.json";
+        let MASTER_DB = [];
+        let VIEW_DB = [];
+
+        async function startStore() {
+            try {
+                const response = await fetch(DATA_URL);
+                if (!response.ok) throw new Error("Manifest generation processing incomplete.");
+                MASTER_DB = await response.json();
+                
+                document.getElementById('badge-ALL').textContent = MASTER_DB.length;
+                document.getElementById('searchBox').disabled = false;
+                
+                buildAlphaNavigation();
+                filterCategory('ALL');
+            } catch (err) {
+                document.getElementById('rpmContainer').innerHTML = `
+                    <div class="status-empty" style="color:#bf616a;">
+                        ⚠️ Repository Array Empty: Build action required.<br>
+                        <small style="display:block; margin-top:8px; color:var(--fedora-muted);">Execute the modified container build workflow to scrape DNF AppStream records.</small>
+                    </div>`;
+            }
+        }
+
+        function buildAlphaNavigation() {
+            const menu = document.getElementById('sidebarMenu');
+            const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+            
+            letters.forEach(char => {
+                const size = MASTER_DB.filter(x => x.name.toUpperCase().startsWith(char)).length;
+                if (size > 0) {
+                    const row = document.createElement('div');
+                    row.className = 'category-row';
+                    row.id = `cat-${char}`;
+                    row.onclick = () => filterCategory(char);
+                    row.innerHTML = `<span>Index Group ${char}</span><span class="badge">${size}</span>`;
+                    menu.appendChild(row);
+                }
+            });
+        }
+
+        function filterCategory(char) {
+            document.querySelectorAll('.category-row').forEach(el => el.classList.remove('active'));
+            document.getElementById(`cat-${char}`).classList.add('active');
+            document.getElementById('searchBox').value = '';
+            closeDetail();
+
+            document.getElementById('sectionTitle').textContent = char === 'ALL' ? "Available Core Targets" : `Packages indexed under "${char}"`;
+            VIEW_DB = char === 'ALL' ? [...MASTER_DB] : MASTER_DB.filter(x => x.name.toUpperCase().startsWith(char));
+            renderGrid(VIEW_DB);
+        }
+
+        function renderGrid(data) {
+            const container = document.getElementById('rpmContainer');
+            container.innerHTML = '';
+            if(data.length === 0) {
+                container.innerHTML = '<div class="status-empty">No workspace parameters match execution criteria.</div>';
+                return;
+            }
+            data.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'rpm-card';
+                card.onclick = () => openDetail(item);
+                card.innerHTML = `
+                    <div class="rpm-icon-box">${item.name.charAt(0).toUpperCase()}</div>
+                    <div class="meta-container">
+                        <div class="rpm-title">${item.name}</div>
+                        <div class="rpm-desc">${item.desc}</div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function openDetail(item) {
+            document.getElementById('gridSection').style.display = 'none';
+            const pane = document.getElementById('detailSection');
+            pane.style.display = 'flex';
+            pane.innerHTML = `
+                <button class="btn-back-link" onclick="closeDetail()">🠔 Return to listing grid</button>
+                <div class="detail-main-info">
+                    <div class="rpm-icon-box" style="width:64px; height:64px; font-size:20px;">${item.name.charAt(0).toUpperCase()}</div>
+                    <div class="detail-title-block">
+                        <h2>${item.name}</h2>
+                        <p style="color:var(--fedora-muted); font-size:13px; margin-top:4px;">Package: ${item.package_name} | Version Vector: ${item.version}</p>
+                        <a class="btn-action-rpm" href="${item.download_url}">📥 Fetch Native RPM Binary</a>
+                    </div>
+                </div>
+                <div class="terminal-instructions">
+                    <span style="color:#65737e;"># Deploy standard shell installation sequences:</span><br>
+                    <span style="color:#a3be8c;">sudo dnf install -y ${item.package_name}</span>
+                </div>
+            `;
+        }
+
+        function closeDetail() {
+            document.getElementById('detailSection').style.display = 'none';
+            document.getElementById('gridSection').style.display = 'block';
+        }
+
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            closeDetail();
+            const matching = VIEW_DB.filter(x => x.name.toLowerCase().includes(query));
+            renderGrid(matching);
+        });
+
+        startStore();
+    </script>
+</body>
+</html>
