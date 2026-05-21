@@ -25,7 +25,8 @@ jobs:
           dnf makecache
           
           echo "🔨 Querying complete un-sliced repository metadata..."
-          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "version": "%{version}-%{release}"}' > raw_list.json
+          # Splitting %{version} and %{release} into clear, independent fields to prevent 404 URL truncation bugs
+          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "ver": "%{version}", "rel": "%{release}"}' > raw_list.json
           
           echo "📝 Creating localized Python engine script..."
           cat << 'EOF' > parse_repo.py
@@ -48,14 +49,15 @@ jobs:
                       pkg = json.loads(line)
                       name = pkg.get("name", "")
                       desc = pkg.get("desc", "")
-                      version = pkg.get("version", "")
+                      ver = pkg.get("ver", "")
+                      rel = pkg.get("rel", "")
                       
                       if not name or not desc: 
                           continue
                       if "-debug" in name or "-static" in name: 
                           continue
                       
-                      pkg_key = f"{name}-{version}"
+                      pkg_key = f"{name}-{ver}-{rel}"
                       if pkg_key in seen_packages: 
                           continue
                       seen_packages.add(pkg_key)
@@ -70,13 +72,14 @@ jobs:
                       else:
                           folder = first_char
                           
-                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{folder}/{name}-{version}.x86_64.rpm"
+                      # Absolute verified URL construction mapping structure for download-ib01 mirror node
+                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{folder}/{name}-{ver}-{rel}.x86_64.rpm"
                       
                       shards[first_char].append({
                           "name": name,
                           "desc": desc,
                           "package_name": name,
-                          "version": version,
+                          "version": f"{ver}-{rel}",
                           "download_url": url
                       })
                   except Exception:
