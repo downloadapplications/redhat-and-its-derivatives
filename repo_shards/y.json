@@ -4,720 +4,720 @@
     "desc": "Cross platform comic reader and library manager",
     "package_name": "yacreader",
     "version": "9.14.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yacreader-9.14.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yacreader/9.14.2/1.fc40/x86_64/yacreader-9.14.2-1.fc40.x86_64.rpm"
   },
   {
     "name": "yad",
     "desc": "Display graphical dialogs from shell scripts or command line",
     "package_name": "yad",
     "version": "9.3-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yad-9.3-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yad/9.3/8.fc40/x86_64/yad-9.3-8.fc40.x86_64.rpm"
   },
   {
     "name": "yadifa",
     "desc": "Lightweight authoritative Name Server with DNSSEC capabilities",
     "package_name": "yadifa",
     "version": "2.6.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yadifa-2.6.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yadifa/2.6.5/2.fc40/x86_64/yadifa-2.6.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "yadifa-devel",
     "desc": "Header files and libraries needed for YADIFA development",
     "package_name": "yadifa-devel",
     "version": "2.6.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yadifa-devel-2.6.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yadifa-devel/2.6.5/2.fc40/x86_64/yadifa-devel-2.6.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "yadifa-libs",
     "desc": "Libraries used by the YADIFA packages",
     "package_name": "yadifa-libs",
     "version": "2.6.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yadifa-libs-2.6.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yadifa-libs/2.6.5/2.fc40/x86_64/yadifa-libs-2.6.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "yadifa-tools",
     "desc": "Remote management client for YADIFA DNS server",
     "package_name": "yadifa-tools",
     "version": "2.6.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yadifa-tools-2.6.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yadifa-tools/2.6.5/2.fc40/x86_64/yadifa-tools-2.6.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "YafaRay",
     "desc": "A free open-source ray-tracing render engine",
     "package_name": "YafaRay",
     "version": "3.5.1-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/YafaRay-3.5.1-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/YafaRay/3.5.1/28.fc40/x86_64/YafaRay-3.5.1-28.fc40.x86_64.rpm"
   },
   {
     "name": "YafaRay-blender",
     "desc": "Blender integration scripts for YafaRay",
     "package_name": "YafaRay-blender",
     "version": "3.5.1-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/YafaRay-blender-3.5.1-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/YafaRay-blender/3.5.1/28.fc40/x86_64/YafaRay-blender-3.5.1-28.fc40.x86_64.rpm"
   },
   {
     "name": "YafaRay-devel",
     "desc": "Development files for YafaRay",
     "package_name": "YafaRay-devel",
     "version": "3.5.1-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/YafaRay-devel-3.5.1-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/YafaRay-devel/3.5.1/28.fc40/x86_64/YafaRay-devel-3.5.1-28.fc40.x86_64.rpm"
   },
   {
     "name": "YafaRay-lib",
     "desc": "Libraries for YafaRay",
     "package_name": "YafaRay-lib",
     "version": "3.5.1-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/YafaRay-lib-3.5.1-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/YafaRay-lib/3.5.1/28.fc40/x86_64/YafaRay-lib-3.5.1-28.fc40.x86_64.rpm"
   },
   {
     "name": "yagf",
     "desc": "Graphical front-end for cuneiform",
     "package_name": "yagf",
     "version": "0.9.5-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yagf-0.9.5-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yagf/0.9.5/21.fc40/x86_64/yagf-0.9.5-21.fc40.x86_64.rpm"
   },
   {
     "name": "yajl",
     "desc": "Yet Another JSON Library (YAJL)",
     "package_name": "yajl",
     "version": "2.1.0-23.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yajl-2.1.0-23.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yajl/2.1.0/23.fc40/x86_64/yajl-2.1.0-23.fc40.x86_64.rpm"
   },
   {
     "name": "yajl-devel",
     "desc": "Libraries, includes, etc to develop with YAJL",
     "package_name": "yajl-devel",
     "version": "2.1.0-23.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yajl-devel-2.1.0-23.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yajl-devel/2.1.0/23.fc40/x86_64/yajl-devel-2.1.0-23.fc40.x86_64.rpm"
   },
   {
     "name": "yaksa",
     "desc": "High-performance library for noncontiguous data",
     "package_name": "yaksa",
     "version": "0.3-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaksa-0.3-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaksa/0.3/5.fc40/x86_64/yaksa-0.3-5.fc40.x86_64.rpm"
   },
   {
     "name": "yaksa-devel",
     "desc": "Development files for libyaksa",
     "package_name": "yaksa-devel",
     "version": "0.3-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaksa-devel-0.3-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaksa-devel/0.3/5.fc40/x86_64/yaksa-devel-0.3-5.fc40.x86_64.rpm"
   },
   {
     "name": "yakuake",
     "desc": "A drop-down terminal emulator",
     "package_name": "yakuake",
     "version": "24.02.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yakuake-24.02.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yakuake/24.02.1/1.fc40/x86_64/yakuake-24.02.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "yambar",
     "desc": "Modular status panel for X11 and Wayland",
     "package_name": "yambar",
     "version": "1.10.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yambar-1.10.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yambar/1.10.0/3.fc40/x86_64/yambar-1.10.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "yambar-devel",
     "desc": "Development files for yambar",
     "package_name": "yambar-devel",
     "version": "1.10.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yambar-devel-1.10.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yambar-devel/1.10.0/3.fc40/x86_64/yambar-devel-1.10.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "yaml-cpp",
     "desc": "A YAML parser and emitter for C++",
     "package_name": "yaml-cpp",
     "version": "0.7.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaml-cpp-0.7.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaml-cpp/0.7.0/5.fc40/x86_64/yaml-cpp-0.7.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "yaml-cpp-devel",
     "desc": "Development files for yaml-cpp",
     "package_name": "yaml-cpp-devel",
     "version": "0.7.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaml-cpp-devel-0.7.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaml-cpp-devel/0.7.0/5.fc40/x86_64/yaml-cpp-devel-0.7.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "yamllint",
     "desc": "A linter for YAML files",
     "package_name": "yamllint",
     "version": "1.35.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yamllint-1.35.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yamllint/1.35.1/1.fc40/x86_64/yamllint-1.35.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "yank",
     "desc": "Tool for selecting and copying text from stdin without a mouse",
     "package_name": "yank",
     "version": "1.3.0-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yank-1.3.0-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yank/1.3.0/4.fc40/x86_64/yank-1.3.0-4.fc40.x86_64.rpm"
   },
   {
     "name": "yanone-kaffeesatz-fonts",
     "desc": "Yanone Kaffeesatz, a decorative font family",
     "package_name": "yanone-kaffeesatz-fonts",
     "version": "2.001-16.20200221git1da4935.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yanone-kaffeesatz-fonts-2.001-16.20200221git1da4935.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yanone-kaffeesatz-fonts/2.001/16.20200221git1da4935.fc40/x86_64/yanone-kaffeesatz-fonts-2.001-16.20200221git1da4935.fc40.x86_64.rpm"
   },
   {
     "name": "yapet",
     "desc": "Yet Another Password Encryption Tool",
     "package_name": "yapet",
     "version": "2.6-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yapet-2.6-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yapet/2.6/3.fc40/x86_64/yapet-2.6-3.fc40.x86_64.rpm"
   },
   {
     "name": "yara",
     "desc": "Pattern matching Swiss knife for malware researchers",
     "package_name": "yara",
     "version": "4.5.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yara-4.5.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yara/4.5.0/1.fc40/x86_64/yara-4.5.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "yara-devel",
     "desc": "Development files for yara",
     "package_name": "yara-devel",
     "version": "4.5.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yara-devel-4.5.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yara-devel/4.5.0/1.fc40/x86_64/yara-devel-4.5.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "yara-doc",
     "desc": "Documentation for yara",
     "package_name": "yara-doc",
     "version": "4.5.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yara-doc-4.5.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yara-doc/4.5.0/1.fc40/x86_64/yara-doc-4.5.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "yarnpkg",
     "desc": "Fast, reliable, and secure dependency management.",
     "package_name": "yarnpkg",
     "version": "1.22.22-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yarnpkg-1.22.22-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yarnpkg/1.22.22/1.fc40/x86_64/yarnpkg-1.22.22-1.fc40.x86_64.rpm"
   },
   {
     "name": "yaru-gtk2-theme",
     "desc": "GTK+ 2 support for the Yaru GTK Theme",
     "package_name": "yaru-gtk2-theme",
     "version": "23.10.0-5.20231109git23.10.0.0ubuntu2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaru-gtk2-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaru-gtk2-theme/23.10.0/5.20231109git23.10.0.0ubuntu2.fc40/x86_64/yaru-gtk2-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
   },
   {
     "name": "yaru-gtk3-theme",
     "desc": "GTK+ 3 support for the Yaru GTK Theme",
     "package_name": "yaru-gtk3-theme",
     "version": "23.10.0-5.20231109git23.10.0.0ubuntu2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaru-gtk3-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaru-gtk3-theme/23.10.0/5.20231109git23.10.0.0ubuntu2.fc40/x86_64/yaru-gtk3-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
   },
   {
     "name": "yaru-gtk4-theme",
     "desc": "GTK+ 3 support for the Yaru GTK Theme",
     "package_name": "yaru-gtk4-theme",
     "version": "23.10.0-5.20231109git23.10.0.0ubuntu2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaru-gtk4-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaru-gtk4-theme/23.10.0/5.20231109git23.10.0.0ubuntu2.fc40/x86_64/yaru-gtk4-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
   },
   {
     "name": "yaru-gtksourceview-theme",
     "desc": "Yaru GtkSourceView theme",
     "package_name": "yaru-gtksourceview-theme",
     "version": "23.10.0-5.20231109git23.10.0.0ubuntu2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaru-gtksourceview-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaru-gtksourceview-theme/23.10.0/5.20231109git23.10.0.0ubuntu2.fc40/x86_64/yaru-gtksourceview-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
   },
   {
     "name": "yaru-icon-theme",
     "desc": "Yaru icon theme",
     "package_name": "yaru-icon-theme",
     "version": "23.10.0-5.20231109git23.10.0.0ubuntu2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaru-icon-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaru-icon-theme/23.10.0/5.20231109git23.10.0.0ubuntu2.fc40/x86_64/yaru-icon-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
   },
   {
     "name": "yaru-sound-theme",
     "desc": "Yaru sound theme",
     "package_name": "yaru-sound-theme",
     "version": "23.10.0-5.20231109git23.10.0.0ubuntu2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaru-sound-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaru-sound-theme/23.10.0/5.20231109git23.10.0.0ubuntu2.fc40/x86_64/yaru-sound-theme-23.10.0-5.20231109git23.10.0.0ubuntu2.fc40.x86_64.rpm"
   },
   {
     "name": "yascreen",
     "desc": "Yet Another Screen Library (lib(n)curses alternative)",
     "package_name": "yascreen",
     "version": "1.99-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yascreen-1.99-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yascreen/1.99/2.fc40/x86_64/yascreen-1.99-2.fc40.x86_64.rpm"
   },
   {
     "name": "yascreen-devel",
     "desc": "Development files for yascreen",
     "package_name": "yascreen-devel",
     "version": "1.99-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yascreen-devel-1.99-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yascreen-devel/1.99/2.fc40/x86_64/yascreen-devel-1.99-2.fc40.x86_64.rpm"
   },
   {
     "name": "yash",
     "desc": "Yet Another SHell",
     "package_name": "yash",
     "version": "2.56.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yash-2.56.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yash/2.56.1/1.fc40/x86_64/yash-2.56.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "yash-doc",
     "desc": "Documentation for yash",
     "package_name": "yash-doc",
     "version": "2.56.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yash-doc-2.56.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yash-doc/2.56.1/1.fc40/x86_64/yash-doc-2.56.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "yasm",
     "desc": "Modular Assembler",
     "package_name": "yasm",
     "version": "1.3.0-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yasm-1.3.0-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yasm/1.3.0/20.fc40/x86_64/yasm-1.3.0-20.fc40.x86_64.rpm"
   },
   {
     "name": "yasm-devel",
     "desc": "Header files and static libraries for the yasm Modular Assembler",
     "package_name": "yasm-devel",
     "version": "1.3.0-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yasm-devel-1.3.0-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yasm-devel/1.3.0/20.fc40/x86_64/yasm-devel-1.3.0-20.fc40.x86_64.rpm"
   },
   {
     "name": "yast2-devtools",
     "desc": "YaST Development Tools",
     "package_name": "yast2-devtools",
     "version": "3.1.36-18.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yast2-devtools-3.1.36-18.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yast2-devtools/3.1.36/18.fc40/x86_64/yast2-devtools-3.1.36-18.fc40.x86_64.rpm"
   },
   {
     "name": "yast2-filesystem",
     "desc": "YaST filesystem layout",
     "package_name": "yast2-filesystem",
     "version": "0.1.0-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yast2-filesystem-0.1.0-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yast2-filesystem/0.1.0/19.fc40/x86_64/yast2-filesystem-0.1.0-19.fc40.x86_64.rpm"
   },
   {
     "name": "yawn",
     "desc": "Yet Another WBEM Navigator",
     "package_name": "yawn",
     "version": "0-0.47.20140318svn632.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yawn-0-0.47.20140318svn632.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yawn/0/0.47.20140318svn632.fc40/x86_64/yawn-0-0.47.20140318svn632.fc40.x86_64.rpm"
   },
   {
     "name": "yawn-server",
     "desc": "Standalone web server for yawn",
     "package_name": "yawn-server",
     "version": "0-0.47.20140318svn632.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yawn-server-0-0.47.20140318svn632.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yawn-server/0/0.47.20140318svn632.fc40/x86_64/yawn-server-0-0.47.20140318svn632.fc40.x86_64.rpm"
   },
   {
     "name": "yaz",
     "desc": "Z39.50/SRW/SRU toolkit",
     "package_name": "yaz",
     "version": "5.34.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaz-5.34.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaz/5.34.0/8.fc40/x86_64/yaz-5.34.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "yaz-doc",
     "desc": "Documentation for yaz",
     "package_name": "yaz-doc",
     "version": "5.34.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yaz-doc-5.34.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yaz-doc/5.34.0/8.fc40/x86_64/yaz-doc-5.34.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "ybaas",
     "desc": "Yubibomb as a service",
     "package_name": "ybaas",
     "version": "0.0.17-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ybaas-0.0.17-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ybaas/0.0.17/2.fc40/x86_64/ybaas-0.0.17-2.fc40.x86_64.rpm"
   },
   {
     "name": "ydiff",
     "desc": "View colored, incremental diff",
     "package_name": "ydiff",
     "version": "1.2-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ydiff-1.2-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ydiff/1.2/11.fc40/x86_64/ydiff-1.2-11.fc40.x86_64.rpm"
   },
   {
     "name": "ydotool",
     "desc": "Generic command-line automation tool (no X!)",
     "package_name": "ydotool",
     "version": "1.0.4-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ydotool-1.0.4-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ydotool/1.0.4/3.fc40/x86_64/ydotool-1.0.4-3.fc40.x86_64.rpm"
   },
   {
     "name": "yelp",
     "desc": "Help browser for the GNOME desktop",
     "package_name": "yelp",
     "version": "42.2-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yelp-42.2-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yelp/42.2/5.fc40/x86_64/yelp-42.2-5.fc40.x86_64.rpm"
   },
   {
     "name": "yelp-devel",
     "desc": "Development files for yelp-libs",
     "package_name": "yelp-devel",
     "version": "42.2-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yelp-devel-42.2-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yelp-devel/42.2/5.fc40/x86_64/yelp-devel-42.2-5.fc40.x86_64.rpm"
   },
   {
     "name": "yelp-libs",
     "desc": "Libraries for yelp",
     "package_name": "yelp-libs",
     "version": "42.2-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yelp-libs-42.2-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yelp-libs/42.2/5.fc40/x86_64/yelp-libs-42.2-5.fc40.x86_64.rpm"
   },
   {
     "name": "yelp-tools",
     "desc": "Create, manage, and publish documentation for Yelp",
     "package_name": "yelp-tools",
     "version": "42.1-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yelp-tools-42.1-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yelp-tools/42.1/5.fc40/x86_64/yelp-tools-42.1-5.fc40.x86_64.rpm"
   },
   {
     "name": "yelp-xsl",
     "desc": "XSL stylesheets for the yelp help browser",
     "package_name": "yelp-xsl",
     "version": "42.1-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yelp-xsl-42.1-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yelp-xsl/42.1/4.fc40/x86_64/yelp-xsl-42.1-4.fc40.x86_64.rpm"
   },
   {
     "name": "yelp-xsl-devel",
     "desc": "Developer documentation for yelp-xsl",
     "package_name": "yelp-xsl-devel",
     "version": "42.1-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yelp-xsl-devel-42.1-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yelp-xsl-devel/42.1/4.fc40/x86_64/yelp-xsl-devel-42.1-4.fc40.x86_64.rpm"
   },
   {
     "name": "yersinia",
     "desc": "Network protocols tester and attacker",
     "package_name": "yersinia",
     "version": "0.8.2-16.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yersinia-0.8.2-16.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yersinia/0.8.2/16.fc40/x86_64/yersinia-0.8.2-16.fc40.x86_64.rpm"
   },
   {
     "name": "yggdrasil",
     "desc": "Remote data transmission and processing client",
     "package_name": "yggdrasil",
     "version": "0.4.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yggdrasil-0.4.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yggdrasil/0.4.1/3.fc40/x86_64/yggdrasil-0.4.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "yggdrasil-worker-package-manager",
     "desc": "Package manager worker for yggdrasil",
     "package_name": "yggdrasil-worker-package-manager",
     "version": "0.2.2-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yggdrasil-worker-package-manager-0.2.2-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yggdrasil-worker-package-manager/0.2.2/4.fc40/x86_64/yggdrasil-worker-package-manager-0.2.2-4.fc40.x86_64.rpm"
   },
   {
     "name": "yices",
     "desc": "SMT solver",
     "package_name": "yices",
     "version": "2.6.4-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yices-2.6.4-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yices/2.6.4/12.fc40/x86_64/yices-2.6.4-12.fc40.x86_64.rpm"
   },
   {
     "name": "yices-devel",
     "desc": "Development files for yices",
     "package_name": "yices-devel",
     "version": "2.6.4-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yices-devel-2.6.4-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yices-devel/2.6.4/12.fc40/x86_64/yices-devel-2.6.4-12.fc40.x86_64.rpm"
   },
   {
     "name": "yices-doc",
     "desc": "Documentation for yices",
     "package_name": "yices-doc",
     "version": "2.6.4-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yices-doc-2.6.4-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yices-doc/2.6.4/12.fc40/x86_64/yices-doc-2.6.4-12.fc40.x86_64.rpm"
   },
   {
     "name": "yices-tools",
     "desc": "Command line tools that use the yices library",
     "package_name": "yices-tools",
     "version": "2.6.4-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yices-tools-2.6.4-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yices-tools/2.6.4/12.fc40/x86_64/yices-tools-2.6.4-12.fc40.x86_64.rpm"
   },
   {
     "name": "ykclient",
     "desc": "Yubikey management library and client",
     "package_name": "ykclient",
     "version": "2.15-18.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ykclient-2.15-18.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ykclient/2.15/18.fc40/x86_64/ykclient-2.15-18.fc40.x86_64.rpm"
   },
   {
     "name": "ykclient-devel",
     "desc": "Development headers and libraries for ykclient",
     "package_name": "ykclient-devel",
     "version": "2.15-18.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ykclient-devel-2.15-18.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ykclient-devel/2.15/18.fc40/x86_64/ykclient-devel-2.15-18.fc40.x86_64.rpm"
   },
   {
     "name": "ykocli",
     "desc": "Front-end script for ykman to obtain TOTP tokens",
     "package_name": "ykocli",
     "version": "1.3.2-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ykocli-1.3.2-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ykocli/1.3.2/4.fc40/x86_64/ykocli-1.3.2-4.fc40.x86_64.rpm"
   },
   {
     "name": "ykpers",
     "desc": "Yubikey personalization program",
     "package_name": "ykpers",
     "version": "1.20.0-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ykpers-1.20.0-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ykpers/1.20.0/13.fc40/x86_64/ykpers-1.20.0-13.fc40.x86_64.rpm"
   },
   {
     "name": "ykpers-devel",
     "desc": "Development files for ykpers",
     "package_name": "ykpers-devel",
     "version": "1.20.0-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ykpers-devel-1.20.0-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ykpers-devel/1.20.0/13.fc40/x86_64/ykpers-devel-1.20.0-13.fc40.x86_64.rpm"
   },
   {
     "name": "ykushcmd",
     "desc": "YKUSH Boards Control Application",
     "package_name": "ykushcmd",
     "version": "1.2.3-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ykushcmd-1.2.3-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ykushcmd/1.2.3/8.fc40/x86_64/ykushcmd-1.2.3-8.fc40.x86_64.rpm"
   },
   {
     "name": "yle-dl",
     "desc": "Download videos from Yle servers",
     "package_name": "yle-dl",
     "version": "20240130-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yle-dl-20240130-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yle-dl/20240130/1.fc40/x86_64/yle-dl-20240130-1.fc40.x86_64.rpm"
   },
   {
     "name": "yle-dl+extra",
     "desc": "Metapackage for yle-dl: extra extras",
     "package_name": "yle-dl+extra",
     "version": "20240130-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yle-dl+extra-20240130-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yle-dl+extra/20240130/1.fc40/x86_64/yle-dl+extra-20240130-1.fc40.x86_64.rpm"
   },
   {
     "name": "yoshimi",
     "desc": "Rewrite of ZynAddSubFx aiming for better JACK support",
     "package_name": "yoshimi",
     "version": "2.3.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yoshimi-2.3.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yoshimi/2.3.0/3.fc40/x86_64/yoshimi-2.3.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "yosys",
     "desc": "Yosys Open SYnthesis Suite, including Verilog synthesizer",
     "package_name": "yosys",
     "version": "0.39-1.20240314gitb3124f3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosys-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosys/0.39/1.20240314gitb3124f3.fc40/x86_64/yosys-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
   },
   {
     "name": "yosys-devel",
     "desc": "Development files to build Yosys synthesizer plugins",
     "package_name": "yosys-devel",
     "version": "0.39-1.20240314gitb3124f3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosys-devel-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosys-devel/0.39/1.20240314gitb3124f3.fc40/x86_64/yosys-devel-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
   },
   {
     "name": "yosys-doc",
     "desc": "Documentation for Yosys synthesizer",
     "package_name": "yosys-doc",
     "version": "0.39-1.20240314gitb3124f3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosys-doc-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosys-doc/0.39/1.20240314gitb3124f3.fc40/x86_64/yosys-doc-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
   },
   {
     "name": "yosys-share",
     "desc": "Architecture-independent Yosys files",
     "package_name": "yosys-share",
     "version": "0.39-1.20240314gitb3124f3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosys-share-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosys-share/0.39/1.20240314gitb3124f3.fc40/x86_64/yosys-share-0.39-1.20240314gitb3124f3.fc40.x86_64.rpm"
   },
   {
     "name": "yosyshq-abc",
     "desc": "Sequential logic synthesis and formal verification",
     "package_name": "yosyshq-abc",
     "version": "0.39-1.20240314git0cd90d0.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosyshq-abc-0.39-1.20240314git0cd90d0.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosyshq-abc/0.39/1.20240314git0cd90d0.fc40/x86_64/yosyshq-abc-0.39-1.20240314git0cd90d0.fc40.x86_64.rpm"
   },
   {
     "name": "yosyshq-abc-devel",
     "desc": "Headers and libraries for developing with ABC",
     "package_name": "yosyshq-abc-devel",
     "version": "0.39-1.20240314git0cd90d0.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosyshq-abc-devel-0.39-1.20240314git0cd90d0.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosyshq-abc-devel/0.39/1.20240314git0cd90d0.fc40/x86_64/yosyshq-abc-devel-0.39-1.20240314git0cd90d0.fc40.x86_64.rpm"
   },
   {
     "name": "yosyshq-abc-libs",
     "desc": "Library for sequential synthesis and verification",
     "package_name": "yosyshq-abc-libs",
     "version": "0.39-1.20240314git0cd90d0.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yosyshq-abc-libs-0.39-1.20240314git0cd90d0.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yosyshq-abc-libs/0.39/1.20240314git0cd90d0.fc40/x86_64/yosyshq-abc-libs-0.39-1.20240314git0cd90d0.fc40.x86_64.rpm"
   },
   {
     "name": "youtube-dl",
     "desc": "A small command-line program to download online videos",
     "package_name": "youtube-dl",
     "version": "2023.08.04.git86e3cf5-2.20230815git86e3cf5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/youtube-dl-2023.08.04.git86e3cf5-2.20230815git86e3cf5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/youtube-dl/2023.08.04.git86e3cf5/2.20230815git86e3cf5.fc40/x86_64/youtube-dl-2023.08.04.git86e3cf5-2.20230815git86e3cf5.fc40.x86_64.rpm"
   },
   {
     "name": "yp-tools",
     "desc": "NIS (or YP) client programs",
     "package_name": "yp-tools",
     "version": "4.2.3-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yp-tools-4.2.3-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yp-tools/4.2.3/17.fc40/x86_64/yp-tools-4.2.3-17.fc40.x86_64.rpm"
   },
   {
     "name": "ypbind",
     "desc": "The NIS daemon which binds NIS clients to an NIS domain",
     "package_name": "ypbind",
     "version": "2.7.2-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ypbind-2.7.2-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ypbind/2.7.2/13.fc40/x86_64/ypbind-2.7.2-13.fc40.x86_64.rpm"
   },
   {
     "name": "ypserv",
     "desc": "The NIS (Network Information Service) server",
     "package_name": "ypserv",
     "version": "4.2-10.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ypserv-4.2-10.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ypserv/4.2/10.fc40/x86_64/ypserv-4.2-10.fc40.x86_64.rpm"
   },
   {
     "name": "yt-dlp",
     "desc": "A command-line program to download videos from online video platforms",
     "package_name": "yt-dlp",
     "version": "2024.03.10-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yt-dlp-2024.03.10-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yt-dlp/2024.03.10/1.fc40/x86_64/yt-dlp-2024.03.10-1.fc40.x86_64.rpm"
   },
   {
     "name": "yt-dlp-bash-completion",
     "desc": "Bash completion for yt-dlp",
     "package_name": "yt-dlp-bash-completion",
     "version": "2024.03.10-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yt-dlp-bash-completion-2024.03.10-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yt-dlp-bash-completion/2024.03.10/1.fc40/x86_64/yt-dlp-bash-completion-2024.03.10-1.fc40.x86_64.rpm"
   },
   {
     "name": "yt-dlp-fish-completion",
     "desc": "Fish completion for yt-dlp",
     "package_name": "yt-dlp-fish-completion",
     "version": "2024.03.10-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yt-dlp-fish-completion-2024.03.10-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yt-dlp-fish-completion/2024.03.10/1.fc40/x86_64/yt-dlp-fish-completion-2024.03.10-1.fc40.x86_64.rpm"
   },
   {
     "name": "yt-dlp-zsh-completion",
     "desc": "Zsh completion for yt-dlp",
     "package_name": "yt-dlp-zsh-completion",
     "version": "2024.03.10-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yt-dlp-zsh-completion-2024.03.10-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yt-dlp-zsh-completion/2024.03.10/1.fc40/x86_64/yt-dlp-zsh-completion-2024.03.10-1.fc40.x86_64.rpm"
   },
   {
     "name": "ytalk",
     "desc": "A chat program for multiple users",
     "package_name": "ytalk",
     "version": "3.3.0-43.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ytalk-3.3.0-43.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ytalk/3.3.0/43.fc40/x86_64/ytalk-3.3.0-43.fc40.x86_64.rpm"
   },
   {
     "name": "ytnef",
     "desc": "Yerase's TNEF Stream Reader",
     "package_name": "ytnef",
     "version": "2.1.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ytnef-2.1.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ytnef/2.1.2/2.fc40/x86_64/ytnef-2.1.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "ytree",
     "desc": "A filemanager similar to XTree",
     "package_name": "ytree",
     "version": "2.07-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/ytree-2.07-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ytree/2.07/1.fc40/x86_64/ytree-2.07-1.fc40.x86_64.rpm"
   },
   {
     "name": "yubibomb",
     "desc": "Rust command line tool that prints out a 6-digit random number",
     "package_name": "yubibomb",
     "version": "0.2.14-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubibomb-0.2.14-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubibomb/0.2.14/2.fc40/x86_64/yubibomb-0.2.14-2.fc40.x86_64.rpm"
   },
   {
     "name": "yubico-piv-tool",
     "desc": "Tool for interacting with the PIV applet on a YubiKey",
     "package_name": "yubico-piv-tool",
     "version": "2.5.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubico-piv-tool-2.5.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubico-piv-tool/2.5.1/1.fc40/x86_64/yubico-piv-tool-2.5.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "yubico-piv-tool-devel",
     "desc": "Tool for interacting with the PIV applet on a YubiKey",
     "package_name": "yubico-piv-tool-devel",
     "version": "2.5.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubico-piv-tool-devel-2.5.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubico-piv-tool-devel/2.5.1/1.fc40/x86_64/yubico-piv-tool-devel-2.5.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "yubihsm-connector",
     "desc": "YubiHSM Connector",
     "package_name": "yubihsm-connector",
     "version": "3.0.4-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubihsm-connector-3.0.4-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubihsm-connector/3.0.4/4.fc40/x86_64/yubihsm-connector-3.0.4-4.fc40.x86_64.rpm"
   },
   {
     "name": "yubihsm-shell",
     "desc": "Tools to interact with YubiHSM 2",
     "package_name": "yubihsm-shell",
     "version": "2.4.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubihsm-shell-2.4.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubihsm-shell/2.4.2/2.fc40/x86_64/yubihsm-shell-2.4.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "yubihsm-shell-devel",
     "desc": "Development tools for interacting with YubiHSM 2",
     "package_name": "yubihsm-shell-devel",
     "version": "2.4.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubihsm-shell-devel-2.4.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubihsm-shell-devel/2.4.2/2.fc40/x86_64/yubihsm-shell-devel-2.4.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "yubikey-manager",
     "desc": "Python library and command line tool for configuring a YubiKey",
     "package_name": "yubikey-manager",
     "version": "5.3.0-1.20240131git758d270.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubikey-manager-5.3.0-1.20240131git758d270.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubikey-manager/5.3.0/1.20240131git758d270.fc40/x86_64/yubikey-manager-5.3.0-1.20240131git758d270.fc40.x86_64.rpm"
   },
   {
     "name": "yubikey-manager-qt",
     "desc": "Application for configuring any YubiKey over all USB interfaces",
     "package_name": "yubikey-manager-qt",
     "version": "1.2.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubikey-manager-qt-1.2.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubikey-manager-qt/1.2.5/4.fc40/x86_64/yubikey-manager-qt-1.2.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "yubikey-personalization-gui",
     "desc": "GUI for Yubikey personalization",
     "package_name": "yubikey-personalization-gui",
     "version": "3.1.25-14.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubikey-personalization-gui-3.1.25-14.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubikey-personalization-gui/3.1.25/14.fc40/x86_64/yubikey-personalization-gui-3.1.25-14.fc40.x86_64.rpm"
   },
   {
     "name": "yubikey-val",
     "desc": "The YubiKey Validation Server",
     "package_name": "yubikey-val",
     "version": "2.39-15.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubikey-val-2.39-15.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubikey-val/2.39/15.fc40/x86_64/yubikey-val-2.39-15.fc40.x86_64.rpm"
   },
   {
     "name": "yubikey-val-munin",
     "desc": "Munin plugins for the YubiKey Validation Server",
     "package_name": "yubikey-val-munin",
     "version": "2.39-15.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yubikey-val-munin-2.39-15.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yubikey-val-munin/2.39/15.fc40/x86_64/yubikey-val-munin-2.39-15.fc40.x86_64.rpm"
   },
   {
     "name": "yum",
     "desc": "Package manager",
     "package_name": "yum",
     "version": "4.19.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yum-4.19.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yum/4.19.0/1.fc40/x86_64/yum-4.19.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "yyjson",
     "desc": "A high performance JSON library written in ANSI C",
     "package_name": "yyjson",
     "version": "0.8.0-3.20231205gite0bacd5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yyjson-0.8.0-3.20231205gite0bacd5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yyjson/0.8.0/3.20231205gite0bacd5.fc40/x86_64/yyjson-0.8.0-3.20231205gite0bacd5.fc40.x86_64.rpm"
   },
   {
     "name": "yyjson-devel",
     "desc": "Development files for yyjson",
     "package_name": "yyjson-devel",
     "version": "0.8.0-3.20231205gite0bacd5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/y/yyjson-devel-0.8.0-3.20231205gite0bacd5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/yyjson-devel/0.8.0/3.20231205gite0bacd5.fc40/x86_64/yyjson-devel-0.8.0-3.20231205gite0bacd5.fc40.x86_64.rpm"
   }
 ]

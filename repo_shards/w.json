@@ -4,2589 +4,2589 @@
     "desc": "W3C Markup Validator",
     "package_name": "w3c-markup-validator",
     "version": "1.3-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/w3c-markup-validator-1.3-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/w3c-markup-validator/1.3/28.fc40/x86_64/w3c-markup-validator-1.3-28.fc40.x86_64.rpm"
   },
   {
     "name": "w3c-markup-validator-libs",
     "desc": "SGML and XML DTDs for the W3C Markup Validator",
     "package_name": "w3c-markup-validator-libs",
     "version": "1.3-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/w3c-markup-validator-libs-1.3-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/w3c-markup-validator-libs/1.3/28.fc40/x86_64/w3c-markup-validator-libs-1.3-28.fc40.x86_64.rpm"
   },
   {
     "name": "w3m",
     "desc": "Pager with Web browsing abilities",
     "package_name": "w3m",
     "version": "0.5.3-63.git20230121.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/w3m-0.5.3-63.git20230121.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/w3m/0.5.3/63.git20230121.fc40/x86_64/w3m-0.5.3-63.git20230121.fc40.x86_64.rpm"
   },
   {
     "name": "w3m-img",
     "desc": "Helper program to display the inline images for w3m",
     "package_name": "w3m-img",
     "version": "0.5.3-63.git20230121.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/w3m-img-0.5.3-63.git20230121.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/w3m-img/0.5.3/63.git20230121.fc40/x86_64/w3m-img-0.5.3-63.git20230121.fc40.x86_64.rpm"
   },
   {
     "name": "wabt",
     "desc": "The WebAssembly Binary Toolkit",
     "package_name": "wabt",
     "version": "1.0.33-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wabt-1.0.33-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wabt/1.0.33/3.fc40/x86_64/wabt-1.0.33-3.fc40.x86_64.rpm"
   },
   {
     "name": "wad",
     "desc": "Tool for detecting technologies used by web applications",
     "package_name": "wad",
     "version": "0.4.6-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wad-0.4.6-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wad/0.4.6/13.fc40/x86_64/wad-0.4.6-13.fc40.x86_64.rpm"
   },
   {
     "name": "waf",
     "desc": "A Python-based build system",
     "package_name": "waf",
     "version": "2.0.26-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waf-2.0.26-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waf/2.0.26/2.fc40/x86_64/waf-2.0.26-2.fc40.x86_64.rpm"
   },
   {
     "name": "waf-doc",
     "desc": "Documentation for waf",
     "package_name": "waf-doc",
     "version": "2.0.26-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waf-doc-2.0.26-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waf-doc/2.0.26/2.fc40/x86_64/waf-doc-2.0.26-2.fc40.x86_64.rpm"
   },
   {
     "name": "waffle",
     "desc": "Platform independent GL API layer",
     "package_name": "waffle",
     "version": "1.7.0-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waffle-1.7.0-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waffle/1.7.0/6.fc40/x86_64/waffle-1.7.0-6.fc40.x86_64.rpm"
   },
   {
     "name": "waffle-devel",
     "desc": "Development headers and libraries for waffle",
     "package_name": "waffle-devel",
     "version": "1.7.0-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waffle-devel-1.7.0-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waffle-devel/1.7.0/6.fc40/x86_64/waffle-devel-1.7.0-6.fc40.x86_64.rpm"
   },
   {
     "name": "waffle-doc",
     "desc": "Documentation for waffle",
     "package_name": "waffle-doc",
     "version": "1.7.0-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waffle-doc-1.7.0-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waffle-doc/1.7.0/6.fc40/x86_64/waffle-doc-1.7.0-6.fc40.x86_64.rpm"
   },
   {
     "name": "waffle-examples",
     "desc": "Example programs using waffle",
     "package_name": "waffle-examples",
     "version": "1.7.0-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waffle-examples-1.7.0-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waffle-examples/1.7.0/6.fc40/x86_64/waffle-examples-1.7.0-6.fc40.x86_64.rpm"
   },
   {
     "name": "wafw00f",
     "desc": "Tool to identifies and fingerprints Web Application Firewall (WAF)",
     "package_name": "wafw00f",
     "version": "2.1.0-14.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wafw00f-2.1.0-14.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wafw00f/2.1.0/14.fc40/x86_64/wafw00f-2.1.0-14.fc40.x86_64.rpm"
   },
   {
     "name": "wagesreiter-patrick-hand-fonts",
     "desc": "Patrick Hand, an handwriting font family",
     "package_name": "wagesreiter-patrick-hand-fonts",
     "version": "20200215-15.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wagesreiter-patrick-hand-fonts-20200215-15.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wagesreiter-patrick-hand-fonts/20200215/15.fc40/x86_64/wagesreiter-patrick-hand-fonts-20200215-15.fc40.x86_64.rpm"
   },
   {
     "name": "wagyu-devel",
     "desc": "Development files for wagyu",
     "package_name": "wagyu-devel",
     "version": "0.5.0-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wagyu-devel-0.5.0-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wagyu-devel/0.5.0/9.fc40/x86_64/wagyu-devel-0.5.0-9.fc40.x86_64.rpm"
   },
   {
     "name": "waifu2x-converter-cpp",
     "desc": "Image Super-Resolution for Anime-style art using OpenCL and OpenCV",
     "package_name": "waifu2x-converter-cpp",
     "version": "5.3.4-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waifu2x-converter-cpp-5.3.4-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waifu2x-converter-cpp/5.3.4/11.fc40/x86_64/waifu2x-converter-cpp-5.3.4-11.fc40.x86_64.rpm"
   },
   {
     "name": "waifu2x-converter-cpp-devel",
     "desc": "Development files for waifu2x-converter-cpp",
     "package_name": "waifu2x-converter-cpp-devel",
     "version": "5.3.4-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waifu2x-converter-cpp-devel-5.3.4-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waifu2x-converter-cpp-devel/5.3.4/11.fc40/x86_64/waifu2x-converter-cpp-devel-5.3.4-11.fc40.x86_64.rpm"
   },
   {
     "name": "WALinuxAgent",
     "desc": "The Microsoft Azure Linux Agent",
     "package_name": "WALinuxAgent",
     "version": "2.9.1.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WALinuxAgent-2.9.1.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WALinuxAgent/2.9.1.1/3.fc40/x86_64/WALinuxAgent-2.9.1.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "WALinuxAgent-udev",
     "desc": "Udev rules for Microsoft Azure",
     "package_name": "WALinuxAgent-udev",
     "version": "2.9.1.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WALinuxAgent-udev-2.9.1.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WALinuxAgent-udev/2.9.1.1/3.fc40/x86_64/WALinuxAgent-udev-2.9.1.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "wallpapoz",
     "desc": "Gnome Multi Backgrounds and Wallpapers Configuration Tool",
     "package_name": "wallpapoz",
     "version": "0.6.2-16.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wallpapoz-0.6.2-16.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wallpapoz/0.6.2/16.fc40/x86_64/wallpapoz-0.6.2-16.fc40.x86_64.rpm"
   },
   {
     "name": "wangle",
     "desc": "Framework for building services in a consistent/modular/composable way",
     "package_name": "wangle",
     "version": "2024.01.22.00-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wangle-2024.01.22.00-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wangle/2024.01.22.00/2.fc40/x86_64/wangle-2024.01.22.00-2.fc40.x86_64.rpm"
   },
   {
     "name": "wangle-devel",
     "desc": "Development files for wangle",
     "package_name": "wangle-devel",
     "version": "2024.01.22.00-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wangle-devel-2024.01.22.00-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wangle-devel/2024.01.22.00/2.fc40/x86_64/wangle-devel-2024.01.22.00-2.fc40.x86_64.rpm"
   },
   {
     "name": "wapanel",
     "desc": "Desktop-dedicated wayland bar for wayfire and other wlroots based compositors",
     "package_name": "wapanel",
     "version": "1.1.0-5.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wapanel-1.1.0-5.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wapanel/1.1.0/5.fc39/x86_64/wapanel-1.1.0-5.fc39.x86_64.rpm"
   },
   {
     "name": "wapanel-devel",
     "desc": "Development files for wapanel",
     "package_name": "wapanel-devel",
     "version": "1.1.0-5.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wapanel-devel-1.1.0-5.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wapanel-devel/1.1.0/5.fc39/x86_64/wapanel-devel-1.1.0-5.fc39.x86_64.rpm"
   },
   {
     "name": "wapiti",
     "desc": "A web application vulnerability scanner",
     "package_name": "wapiti",
     "version": "3.0.2-15.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wapiti-3.0.2-15.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wapiti/3.0.2/15.fc40/x86_64/wapiti-3.0.2-15.fc40.x86_64.rpm"
   },
   {
     "name": "warble",
     "desc": "The word-guessing game",
     "package_name": "warble",
     "version": "1.5.0-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warble-1.5.0-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warble/1.5.0/4.fc40/x86_64/warble-1.5.0-4.fc40.x86_64.rpm"
   },
   {
     "name": "warmux",
     "desc": "2D turn-based artillery game",
     "package_name": "warmux",
     "version": "11.04.1-38.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warmux-11.04.1-38.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warmux/11.04.1/38.fc40/x86_64/warmux-11.04.1-38.fc40.x86_64.rpm"
   },
   {
     "name": "warmux-data",
     "desc": "Data files for warmux",
     "package_name": "warmux-data",
     "version": "11.04.1-38.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warmux-data-11.04.1-38.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warmux-data/11.04.1/38.fc40/x86_64/warmux-data-11.04.1-38.fc40.x86_64.rpm"
   },
   {
     "name": "warsow",
     "desc": "Fast paced 3D first person shooter",
     "package_name": "warsow",
     "version": "2.1.2-15.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warsow-2.1.2-15.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warsow/2.1.2/15.fc40/x86_64/warsow-2.1.2-15.fc40.x86_64.rpm"
   },
   {
     "name": "warsow-data",
     "desc": "Game data for Warsow",
     "package_name": "warsow-data",
     "version": "2.1.2-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warsow-data-2.1.2-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warsow-data/2.1.2/13.fc40/x86_64/warsow-data-2.1.2-13.fc40.x86_64.rpm"
   },
   {
     "name": "warsow-server",
     "desc": "Dedicated server for Warsow",
     "package_name": "warsow-server",
     "version": "2.1.2-15.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warsow-server-2.1.2-15.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warsow-server/2.1.2/15.fc40/x86_64/warsow-server-2.1.2-15.fc40.x86_64.rpm"
   },
   {
     "name": "warzone2100",
     "desc": "Innovative 3D real-time strategy",
     "package_name": "warzone2100",
     "version": "4.3.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warzone2100-4.3.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warzone2100/4.3.5/4.fc40/x86_64/warzone2100-4.3.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "warzone2100-sequences",
     "desc": "Video file for warzone2100",
     "package_name": "warzone2100-sequences",
     "version": "4.3.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/warzone2100-sequences-4.3.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/warzone2100-sequences/4.3.5/4.fc40/x86_64/warzone2100-sequences-4.3.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "wasi-libc-devel",
     "desc": "C library for WASI - headers and development files",
     "package_name": "wasi-libc-devel",
     "version": "21-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wasi-libc-devel-21-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wasi-libc-devel/21/2.fc40/x86_64/wasi-libc-devel-21-2.fc40.x86_64.rpm"
   },
   {
     "name": "wasmedge",
     "desc": "High performance WebAssembly Virtual Machine",
     "package_name": "wasmedge",
     "version": "0.13.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wasmedge-0.13.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wasmedge/0.13.5/2.fc40/x86_64/wasmedge-0.13.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "wasmedge-devel",
     "desc": "WasmEdge development files",
     "package_name": "wasmedge-devel",
     "version": "0.13.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wasmedge-devel-0.13.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wasmedge-devel/0.13.5/2.fc40/x86_64/wasmedge-devel-0.13.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "wasmedge-rt",
     "desc": "WasmEdge Runtime",
     "package_name": "wasmedge-rt",
     "version": "0.13.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wasmedge-rt-0.13.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wasmedge-rt/0.13.5/2.fc40/x86_64/wasmedge-rt-0.13.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "watchdog",
     "desc": "Software and/or Hardware watchdog daemon",
     "package_name": "watchdog",
     "version": "5.16-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/watchdog-5.16-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/watchdog/5.16/8.fc40/x86_64/watchdog-5.16-8.fc40.x86_64.rpm"
   },
   {
     "name": "watchman",
     "desc": "File alteration monitoring service",
     "package_name": "watchman",
     "version": "2021.05.10.00-25.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/watchman-2021.05.10.00-25.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/watchman/2021.05.10.00/25.fc40/x86_64/watchman-2021.05.10.00-25.fc40.x86_64.rpm"
   },
   {
     "name": "wavbreaker",
     "desc": "GUI tool to losslessly split WAV, MP2 and MP3 files into multiple parts",
     "package_name": "wavbreaker",
     "version": "0.16-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wavbreaker-0.16-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wavbreaker/0.16/3.fc40/x86_64/wavbreaker-0.16-3.fc40.x86_64.rpm"
   },
   {
     "name": "wavemon",
     "desc": "Ncurses-based monitoring application for wireless network devices",
     "package_name": "wavemon",
     "version": "0.9.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wavemon-0.9.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wavemon/0.9.5/2.fc40/x86_64/wavemon-0.9.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "wavextract",
     "desc": "Program for extracting embedded audio data from JPEG images",
     "package_name": "wavextract",
     "version": "1.0.0-34.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wavextract-1.0.0-34.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wavextract/1.0.0/34.fc40/x86_64/wavextract-1.0.0-34.fc40.x86_64.rpm"
   },
   {
     "name": "wavpack",
     "desc": "A completely open audiocodec",
     "package_name": "wavpack",
     "version": "5.6.0-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wavpack-5.6.0-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wavpack/5.6.0/6.fc40/x86_64/wavpack-5.6.0-6.fc40.x86_64.rpm"
   },
   {
     "name": "wavpack-devel",
     "desc": "WavPack - development files",
     "package_name": "wavpack-devel",
     "version": "5.6.0-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wavpack-devel-5.6.0-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wavpack-devel/5.6.0/6.fc40/x86_64/wavpack-devel-5.6.0-6.fc40.x86_64.rpm"
   },
   {
     "name": "waybar",
     "desc": "Highly customizable Wayland bar for Sway and Wlroots based compositors",
     "package_name": "waybar",
     "version": "0.10.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waybar-0.10.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waybar/0.10.0/1.fc40/x86_64/waybar-0.10.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "waycheck",
     "desc": "Simple GUI that displays protocols implemented by a Wayland compositor",
     "package_name": "waycheck",
     "version": "1.2.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waycheck-1.2.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waycheck/1.2.0/1.fc40/x86_64/waycheck-1.2.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "waydroid",
     "desc": "Container-based approach to boot a full Android system on GNU/Linux",
     "package_name": "waydroid",
     "version": "1.4.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waydroid-1.4.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waydroid/1.4.2/3.fc40/x86_64/waydroid-1.4.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "waydroid-selinux",
     "desc": "SELinux policy module for waydroid",
     "package_name": "waydroid-selinux",
     "version": "1.4.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waydroid-selinux-1.4.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waydroid-selinux/1.4.2/3.fc40/x86_64/waydroid-selinux-1.4.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "wayfire",
     "desc": "A modular and extensible wayland compositor",
     "package_name": "wayfire",
     "version": "0.8.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayfire-0.8.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayfire/0.8.1/1.fc40/x86_64/wayfire-0.8.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wayfire-config-manager",
     "desc": "Wayfire Config Manager",
     "package_name": "wayfire-config-manager",
     "version": "0.8.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayfire-config-manager-0.8.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayfire-config-manager/0.8.0/3.fc40/x86_64/wayfire-config-manager-0.8.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "wayfire-devel",
     "desc": "Development files for wayfire",
     "package_name": "wayfire-devel",
     "version": "0.8.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayfire-devel-0.8.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayfire-devel/0.8.1/1.fc40/x86_64/wayfire-devel-0.8.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wayland-devel",
     "desc": "Development files for wayland",
     "package_name": "wayland-devel",
     "version": "1.22.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayland-devel-1.22.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayland-devel/1.22.0/3.fc40/x86_64/wayland-devel-1.22.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "wayland-doc",
     "desc": "Wayland development documentation",
     "package_name": "wayland-doc",
     "version": "1.22.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayland-doc-1.22.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayland-doc/1.22.0/3.fc40/x86_64/wayland-doc-1.22.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "wayland-logout",
     "desc": "Simple program that sends SIGTERM to a wayland compositor",
     "package_name": "wayland-logout",
     "version": "1.4-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayland-logout-1.4-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayland-logout/1.4/8.fc40/x86_64/wayland-logout-1.4-8.fc40.x86_64.rpm"
   },
   {
     "name": "wayland-protocols-devel",
     "desc": "Wayland protocols that adds functionality not available in the core protocol",
     "package_name": "wayland-protocols-devel",
     "version": "1.34-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayland-protocols-devel-1.34-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayland-protocols-devel/1.34/1.fc40/x86_64/wayland-protocols-devel-1.34-1.fc40.x86_64.rpm"
   },
   {
     "name": "wayland-utils",
     "desc": "Wayland utilities",
     "package_name": "wayland-utils",
     "version": "1.2.0-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayland-utils-1.2.0-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayland-utils/1.2.0/4.fc40/x86_64/wayland-utils-1.2.0-4.fc40.x86_64.rpm"
   },
   {
     "name": "waylandpp",
     "desc": "Wayland C++ bindings",
     "package_name": "waylandpp",
     "version": "1.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waylandpp-1.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waylandpp/1.0.0/5.fc40/x86_64/waylandpp-1.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "waylandpp-devel",
     "desc": "Development files for waylandpp",
     "package_name": "waylandpp-devel",
     "version": "1.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waylandpp-devel-1.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waylandpp-devel/1.0.0/5.fc40/x86_64/waylandpp-devel-1.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "waylandpp-doc",
     "desc": "Documentation for waylandpp",
     "package_name": "waylandpp-doc",
     "version": "1.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waylandpp-doc-1.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waylandpp-doc/1.0.0/5.fc40/x86_64/waylandpp-doc-1.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "waypipe",
     "desc": "Wayland forwarding proxy",
     "package_name": "waypipe",
     "version": "0.8.6-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/waypipe-0.8.6-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/waypipe/0.8.6/5.fc40/x86_64/waypipe-0.8.6-5.fc40.x86_64.rpm"
   },
   {
     "name": "wayvnc",
     "desc": "A VNC server for wlroots based Wayland compositors",
     "package_name": "wayvnc",
     "version": "0.8.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wayvnc-0.8.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wayvnc/0.8.0/2.fc40/x86_64/wayvnc-0.8.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wbfs-manager",
     "desc": "A WBFS manager for Linux using GTK+",
     "package_name": "wbfs-manager",
     "version": "0.1.12-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wbfs-manager-0.1.12-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wbfs-manager/0.1.12/28.fc40/x86_64/wbfs-manager-0.1.12-28.fc40.x86_64.rpm"
   },
   {
     "name": "wbox",
     "desc": "HTTP testing tool and configuration-less HTTP server",
     "package_name": "wbox",
     "version": "5-27.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wbox-5-27.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wbox/5/27.fc40/x86_64/wbox-5-27.fc40.x86_64.rpm"
   },
   {
     "name": "wcd",
     "desc": "Wherever Change Directory: chdir for DOS and Unix",
     "package_name": "wcd",
     "version": "6.0.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcd-6.0.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcd/6.0.5/4.fc40/x86_64/wcd-6.0.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "wcd-doc",
     "desc": "Documentation for wcs",
     "package_name": "wcd-doc",
     "version": "6.0.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcd-doc-6.0.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcd-doc/6.0.5/4.fc40/x86_64/wcd-doc-6.0.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "wcslib",
     "desc": "An implementation of the FITS World Coordinate System standard",
     "package_name": "wcslib",
     "version": "8.2.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcslib-8.2.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcslib/8.2.2/2.fc40/x86_64/wcslib-8.2.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "wcslib-devel",
     "desc": "Libraries, includes, etc. used to develop an application with wcslib",
     "package_name": "wcslib-devel",
     "version": "8.2.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcslib-devel-8.2.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcslib-devel/8.2.2/2.fc40/x86_64/wcslib-devel-8.2.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "wcslib-utils",
     "desc": "Utility programs provided by wcslib",
     "package_name": "wcslib-utils",
     "version": "8.2.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcslib-utils-8.2.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcslib-utils/8.2.2/2.fc40/x86_64/wcslib-utils-8.2.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "wcstools",
     "desc": "Software utilities to display and manipulate the WCS of a FITS image",
     "package_name": "wcstools",
     "version": "3.9.7-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcstools-3.9.7-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcstools/3.9.7/7.fc40/x86_64/wcstools-3.9.7-7.fc40.x86_64.rpm"
   },
   {
     "name": "wcstools-devel",
     "desc": "Libraries, includes, etc. used to develop an application with wcstools",
     "package_name": "wcstools-devel",
     "version": "3.9.7-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcstools-devel-3.9.7-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcstools-devel/3.9.7/7.fc40/x86_64/wcstools-devel-3.9.7-7.fc40.x86_64.rpm"
   },
   {
     "name": "wcstools-libs",
     "desc": "Wcstools shared library",
     "package_name": "wcstools-libs",
     "version": "3.9.7-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wcstools-libs-3.9.7-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wcstools-libs/3.9.7/7.fc40/x86_64/wcstools-libs-3.9.7-7.fc40.x86_64.rpm"
   },
   {
     "name": "wdiff",
     "desc": "Compare files on a word per word basis",
     "package_name": "wdiff",
     "version": "1.2.2-50.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdiff-1.2.2-50.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdiff/1.2.2/50.fc40/x86_64/wdiff-1.2.2-50.fc40.x86_64.rpm"
   },
   {
     "name": "wdisplays",
     "desc": "GUI display configurator for wlroots compositors",
     "package_name": "wdisplays",
     "version": "1.1.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdisplays-1.1.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdisplays/1.1.1/3.fc40/x86_64/wdisplays-1.1.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "wdsp",
     "desc": "DSP library for LinHPSDR",
     "package_name": "wdsp",
     "version": "0-0.7.20210705gitc55342c5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdsp-0-0.7.20210705gitc55342c5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdsp/0/0.7.20210705gitc55342c5.fc40/x86_64/wdsp-0-0.7.20210705gitc55342c5.fc40.x86_64.rpm"
   },
   {
     "name": "wdsp-devel",
     "desc": "Development files for wdsp",
     "package_name": "wdsp-devel",
     "version": "0-0.7.20210705gitc55342c5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdsp-devel-0-0.7.20210705gitc55342c5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdsp-devel/0/0.7.20210705gitc55342c5.fc40/x86_64/wdsp-devel-0-0.7.20210705gitc55342c5.fc40.x86_64.rpm"
   },
   {
     "name": "wdt",
     "desc": "Warp speed Data Transfer",
     "package_name": "wdt",
     "version": "1.32.1910230^20240115gitf0c3324-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdt-1.32.1910230^20240115gitf0c3324-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdt/1.32.1910230^20240115gitf0c3324/1.fc40/x86_64/wdt-1.32.1910230^20240115gitf0c3324-1.fc40.x86_64.rpm"
   },
   {
     "name": "wdt-devel",
     "desc": "Development files for wdt",
     "package_name": "wdt-devel",
     "version": "1.32.1910230^20240115gitf0c3324-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdt-devel-1.32.1910230^20240115gitf0c3324-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdt-devel/1.32.1910230^20240115gitf0c3324/1.fc40/x86_64/wdt-devel-1.32.1910230^20240115gitf0c3324-1.fc40.x86_64.rpm"
   },
   {
     "name": "wdt-libs",
     "desc": "Shared libraries for wdt",
     "package_name": "wdt-libs",
     "version": "1.32.1910230^20240115gitf0c3324-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdt-libs-1.32.1910230^20240115gitf0c3324-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdt-libs/1.32.1910230^20240115gitf0c3324/1.fc40/x86_64/wdt-libs-1.32.1910230^20240115gitf0c3324-1.fc40.x86_64.rpm"
   },
   {
     "name": "wdune",
     "desc": "A graphical X3D/VRML97 editor, simple 3D modeler and animation tool",
     "package_name": "wdune",
     "version": "1.958-12.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdune-1.958-12.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdune/1.958/12.fc39/x86_64/wdune-1.958-12.fc39.x86_64.rpm"
   },
   {
     "name": "wdune-devel",
     "desc": "Develop files for white_dune",
     "package_name": "wdune-devel",
     "version": "1.958-12.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdune-devel-1.958-12.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdune-devel/1.958/12.fc39/x86_64/wdune-devel-1.958-12.fc39.x86_64.rpm"
   },
   {
     "name": "wdune-docs",
     "desc": "Documentation for white_dune",
     "package_name": "wdune-docs",
     "version": "1.958-12.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdune-docs-1.958-12.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdune-docs/1.958/12.fc39/x86_64/wdune-docs-1.958-12.fc39.x86_64.rpm"
   },
   {
     "name": "wdune-opengl-examples",
     "desc": "Compiled OpenGL examples for white_dune",
     "package_name": "wdune-opengl-examples",
     "version": "1.958-12.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wdune-opengl-examples-1.958-12.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wdune-opengl-examples/1.958/12.fc39/x86_64/wdune-opengl-examples-1.958-12.fc39.x86_64.rpm"
   },
   {
     "name": "We10X-icon-theme",
     "desc": "Colorful icon theme inspired by Microsoft Windows 10 aesthetic",
     "package_name": "We10X-icon-theme",
     "version": "0-31.20230413git4c244fcd.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/We10X-icon-theme-0-31.20230413git4c244fcd.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/We10X-icon-theme/0/31.20230413git4c244fcd.fc40/x86_64/We10X-icon-theme-0-31.20230413git4c244fcd.fc40.x86_64.rpm"
   },
   {
     "name": "weasyprint",
     "desc": "Utility to render HTML and CSS to PDF",
     "package_name": "weasyprint",
     "version": "61.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weasyprint-61.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weasyprint/61.2/1.fc40/x86_64/weasyprint-61.2-1.fc40.x86_64.rpm"
   },
   {
     "name": "web-assets-devel",
     "desc": "RPM macros for Web Assets packaging",
     "package_name": "web-assets-devel",
     "version": "5-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/web-assets-devel-5-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/web-assets-devel/5/21.fc40/x86_64/web-assets-devel-5-21.fc40.x86_64.rpm"
   },
   {
     "name": "web-assets-filesystem",
     "desc": "The basic directory layout for Web Assets",
     "package_name": "web-assets-filesystem",
     "version": "5-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/web-assets-filesystem-5-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/web-assets-filesystem/5/21.fc40/x86_64/web-assets-filesystem-5-21.fc40.x86_64.rpm"
   },
   {
     "name": "web-assets-httpd",
     "desc": "Web Assets aliases for the Apache HTTP daemon",
     "package_name": "web-assets-httpd",
     "version": "5-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/web-assets-httpd-5-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/web-assets-httpd/5/21.fc40/x86_64/web-assets-httpd-5-21.fc40.x86_64.rpm"
   },
   {
     "name": "web-assets-nginx",
     "desc": "Web Assets aliases for the nginx daemon",
     "package_name": "web-assets-nginx",
     "version": "5-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/web-assets-nginx-5-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/web-assets-nginx/5/21.fc40/x86_64/web-assets-nginx-5-21.fc40.x86_64.rpm"
   },
   {
     "name": "webalizer",
     "desc": "A flexible Web server log file analysis program",
     "package_name": "webalizer",
     "version": "2.23_08-24.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webalizer-2.23_08-24.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webalizer/2.23_08/24.fc40/x86_64/webalizer-2.23_08-24.fc40.x86_64.rpm"
   },
   {
     "name": "webanalyze",
     "desc": "Tool to uncovers technologies used on websites",
     "package_name": "webanalyze",
     "version": "0.3.1-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webanalyze-0.3.1-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webanalyze/0.3.1/12.fc40/x86_64/webanalyze-0.3.1-12.fc40.x86_64.rpm"
   },
   {
     "name": "webextension-gsconnect",
     "desc": "Web browser integration for GSConnect",
     "package_name": "webextension-gsconnect",
     "version": "56-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webextension-gsconnect-56-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webextension-gsconnect/56/3.fc40/x86_64/webextension-gsconnect-56-3.fc40.x86_64.rpm"
   },
   {
     "name": "webextension-token-signing",
     "desc": "Chrome and Firefox extension for signing with your eID on the web",
     "package_name": "webextension-token-signing",
     "version": "1.1.5-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webextension-token-signing-1.1.5-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webextension-token-signing/1.1.5/6.fc40/x86_64/webextension-token-signing-1.1.5-6.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2-sharp",
     "desc": "C# bindings for WebKit 2 with GTK+ 3",
     "package_name": "webkit2-sharp",
     "version": "0-0.20.20170219gita59fd76.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2-sharp-0-0.20.20170219gita59fd76.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2-sharp/0/0.20.20170219gita59fd76.fc40/x86_64/webkit2-sharp-0-0.20.20170219gita59fd76.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2-sharp-devel",
     "desc": "Development files for WebKit2-sharp",
     "package_name": "webkit2-sharp-devel",
     "version": "0-0.20.20170219gita59fd76.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2-sharp-devel-0-0.20.20170219gita59fd76.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2-sharp-devel/0/0.20.20170219gita59fd76.fc40/x86_64/webkit2-sharp-devel-0-0.20.20170219gita59fd76.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2gtk4.0",
     "desc": "WebKitGTK for GTK 3 and libsoup 2",
     "package_name": "webkit2gtk4.0",
     "version": "2.42.5-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2gtk4.0-2.42.5-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2gtk4.0/2.42.5/1.fc40/x86_64/webkit2gtk4.0-2.42.5-1.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2gtk4.0-devel",
     "desc": "Development files for webkit2gtk4.0",
     "package_name": "webkit2gtk4.0-devel",
     "version": "2.42.5-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2gtk4.0-devel-2.42.5-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2gtk4.0-devel/2.42.5/1.fc40/x86_64/webkit2gtk4.0-devel-2.42.5-1.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2gtk4.0-doc",
     "desc": "Documentation files for webkit2gtk4.0",
     "package_name": "webkit2gtk4.0-doc",
     "version": "2.42.5-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2gtk4.0-doc-2.42.5-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2gtk4.0-doc/2.42.5/1.fc40/x86_64/webkit2gtk4.0-doc-2.42.5-1.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2gtk4.1",
     "desc": "WebKitGTK for GTK 3 and libsoup 3",
     "package_name": "webkit2gtk4.1",
     "version": "2.44.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2gtk4.1-2.44.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2gtk4.1/2.44.0/2.fc40/x86_64/webkit2gtk4.1-2.44.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2gtk4.1-devel",
     "desc": "Development files for webkit2gtk4.1",
     "package_name": "webkit2gtk4.1-devel",
     "version": "2.44.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2gtk4.1-devel-2.44.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2gtk4.1-devel/2.44.0/2.fc40/x86_64/webkit2gtk4.1-devel-2.44.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "webkit2gtk4.1-doc",
     "desc": "Documentation files for webkit2gtk4.1",
     "package_name": "webkit2gtk4.1-doc",
     "version": "2.44.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkit2gtk4.1-doc-2.44.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkit2gtk4.1-doc/2.44.0/2.fc40/x86_64/webkit2gtk4.1-doc-2.44.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "webkitgtk6.0",
     "desc": "WebKitGTK for GTK 4",
     "package_name": "webkitgtk6.0",
     "version": "2.44.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkitgtk6.0-2.44.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkitgtk6.0/2.44.0/2.fc40/x86_64/webkitgtk6.0-2.44.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "webkitgtk6.0-devel",
     "desc": "Development files for webkitgtk6.0",
     "package_name": "webkitgtk6.0-devel",
     "version": "2.44.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkitgtk6.0-devel-2.44.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkitgtk6.0-devel/2.44.0/2.fc40/x86_64/webkitgtk6.0-devel-2.44.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "webkitgtk6.0-doc",
     "desc": "Documentation files for webkit2gtk5.0",
     "package_name": "webkitgtk6.0-doc",
     "version": "2.44.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webkitgtk6.0-doc-2.44.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webkitgtk6.0-doc/2.44.0/2.fc40/x86_64/webkitgtk6.0-doc-2.44.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "webp-pixbuf-loader",
     "desc": "WebP image loader for GTK+ applications",
     "package_name": "webp-pixbuf-loader",
     "version": "0.2.7-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webp-pixbuf-loader-0.2.7-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webp-pixbuf-loader/0.2.7/1.fc40/x86_64/webp-pixbuf-loader-0.2.7-1.fc40.x86_64.rpm"
   },
   {
     "name": "webrtc-audio-processing",
     "desc": "Library for echo cancellation",
     "package_name": "webrtc-audio-processing",
     "version": "1.3-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webrtc-audio-processing-1.3-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webrtc-audio-processing/1.3/1.fc40/x86_64/webrtc-audio-processing-1.3-1.fc40.x86_64.rpm"
   },
   {
     "name": "webrtc-audio-processing-devel",
     "desc": "Development files for webrtc-audio-processing",
     "package_name": "webrtc-audio-processing-devel",
     "version": "1.3-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webrtc-audio-processing-devel-1.3-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webrtc-audio-processing-devel/1.3/1.fc40/x86_64/webrtc-audio-processing-devel-1.3-1.fc40.x86_64.rpm"
   },
   {
     "name": "webrtc-audio-processing0.3",
     "desc": "Library for echo cancellation",
     "package_name": "webrtc-audio-processing0.3",
     "version": "0.3.1-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webrtc-audio-processing0.3-0.3.1-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webrtc-audio-processing0.3/0.3.1/12.fc40/x86_64/webrtc-audio-processing0.3-0.3.1-12.fc40.x86_64.rpm"
   },
   {
     "name": "webrtc-audio-processing0.3-devel",
     "desc": "Development files for webrtc-audio-processing0.3",
     "package_name": "webrtc-audio-processing0.3-devel",
     "version": "0.3.1-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webrtc-audio-processing0.3-devel-0.3.1-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webrtc-audio-processing0.3-devel/0.3.1/12.fc40/x86_64/webrtc-audio-processing0.3-devel-0.3.1-12.fc40.x86_64.rpm"
   },
   {
     "name": "websec",
     "desc": "Web Secretary - Web page monitoring software with highlighting",
     "package_name": "websec",
     "version": "1.9.0-36.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/websec-1.9.0-36.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/websec/1.9.0/36.fc40/x86_64/websec-1.9.0-36.fc40.x86_64.rpm"
   },
   {
     "name": "websocketpp-devel",
     "desc": "C++ WebSocket Protocol Library",
     "package_name": "websocketpp-devel",
     "version": "0.8.2-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/websocketpp-devel-0.8.2-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/websocketpp-devel/0.8.2/13.fc40/x86_64/websocketpp-devel-0.8.2-13.fc40.x86_64.rpm"
   },
   {
     "name": "websvn",
     "desc": "Online subversion repository browser",
     "package_name": "websvn",
     "version": "2.8.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/websvn-2.8.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/websvn/2.8.2/3.fc40/x86_64/websvn-2.8.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "websvn-selinux",
     "desc": "SELinux context for websvn",
     "package_name": "websvn-selinux",
     "version": "2.8.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/websvn-selinux-2.8.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/websvn-selinux/2.8.2/3.fc40/x86_64/websvn-selinux-2.8.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "webtech",
     "desc": "Tool to identify technologies used on websites",
     "package_name": "webtech",
     "version": "1.2.11-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webtech-1.2.11-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webtech/1.2.11/8.fc40/x86_64/webtech-1.2.11-8.fc40.x86_64.rpm"
   },
   {
     "name": "webvfx",
     "desc": "Video effects engine based on web technologies",
     "package_name": "webvfx",
     "version": "1.2.0-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webvfx-1.2.0-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webvfx/1.2.0/11.fc40/x86_64/webvfx-1.2.0-11.fc40.x86_64.rpm"
   },
   {
     "name": "webvfx-devel",
     "desc": "Development library for webvfx",
     "package_name": "webvfx-devel",
     "version": "1.2.0-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webvfx-devel-1.2.0-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webvfx-devel/1.2.0/11.fc40/x86_64/webvfx-devel-1.2.0-11.fc40.x86_64.rpm"
   },
   {
     "name": "webvfx-doc",
     "desc": "Documentation files for webvfx",
     "package_name": "webvfx-doc",
     "version": "1.2.0-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/webvfx-doc-1.2.0-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/webvfx-doc/1.2.0/11.fc40/x86_64/webvfx-doc-1.2.0-11.fc40.x86_64.rpm"
   },
   {
     "name": "weechat",
     "desc": "Portable, fast, light and extensible IRC client",
     "package_name": "weechat",
     "version": "4.2.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weechat-4.2.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weechat/4.2.1/2.fc40/x86_64/weechat-4.2.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "weechat-devel",
     "desc": "Development files for weechat",
     "package_name": "weechat-devel",
     "version": "4.2.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weechat-devel-4.2.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weechat-devel/4.2.1/2.fc40/x86_64/weechat-devel-4.2.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "weezl",
     "desc": "Fast LZW compression and decompression",
     "package_name": "weezl",
     "version": "0.1.8-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weezl-0.1.8-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weezl/0.1.8/1.fc40/x86_64/weezl-0.1.8-1.fc40.x86_64.rpm"
   },
   {
     "name": "weiweihuanghuang-work-sans-fonts",
     "desc": "Work Sans, a font family in the early grotesque style",
     "package_name": "weiweihuanghuang-work-sans-fonts",
     "version": "2.07-19.20200226gitdcd044c.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weiweihuanghuang-work-sans-fonts-2.07-19.20200226gitdcd044c.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weiweihuanghuang-work-sans-fonts/2.07/19.20200226gitdcd044c.fc40/x86_64/weiweihuanghuang-work-sans-fonts-2.07-19.20200226gitdcd044c.fc40.x86_64.rpm"
   },
   {
     "name": "weiweihuanghuang-work-sans-fonts-doc",
     "desc": "Optional documentation files of weiweihuanghuang-work-sans-fonts",
     "package_name": "weiweihuanghuang-work-sans-fonts-doc",
     "version": "2.07-19.20200226gitdcd044c.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weiweihuanghuang-work-sans-fonts-doc-2.07-19.20200226gitdcd044c.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weiweihuanghuang-work-sans-fonts-doc/2.07/19.20200226gitdcd044c.fc40/x86_64/weiweihuanghuang-work-sans-fonts-doc-2.07-19.20200226gitdcd044c.fc40.x86_64.rpm"
   },
   {
     "name": "weld-parent",
     "desc": "Parent POM for Weld",
     "package_name": "weld-parent",
     "version": "46-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weld-parent-46-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weld-parent/46/7.fc40/x86_64/weld-parent-46-7.fc40.x86_64.rpm"
   },
   {
     "name": "weldr-client",
     "desc": "Command line utility to control osbuild-composer",
     "package_name": "weldr-client",
     "version": "35.11-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weldr-client-35.11-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weldr-client/35.11/4.fc40/x86_64/weldr-client-35.11-4.fc40.x86_64.rpm"
   },
   {
     "name": "weldr-client-tests",
     "desc": "Integration tests for composer-cli",
     "package_name": "weldr-client-tests",
     "version": "35.11-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weldr-client-tests-35.11-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weldr-client-tests/35.11/4.fc40/x86_64/weldr-client-tests-35.11-4.fc40.x86_64.rpm"
   },
   {
     "name": "wemux",
     "desc": "Multi-user terminal multiplexing utility",
     "package_name": "wemux",
     "version": "3.2.0-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wemux-3.2.0-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wemux/3.2.0/20.fc40/x86_64/wemux-3.2.0-20.fc40.x86_64.rpm"
   },
   {
     "name": "wesnoth",
     "desc": "Turn-based strategy game with a fantasy theme",
     "package_name": "wesnoth",
     "version": "1.18.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wesnoth-1.18.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wesnoth/1.18.0/1.fc40/x86_64/wesnoth-1.18.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wesnoth-data",
     "desc": "Turn-based strategy game with a fantasy theme",
     "package_name": "wesnoth-data",
     "version": "1.18.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wesnoth-data-1.18.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wesnoth-data/1.18.0/1.fc40/x86_64/wesnoth-data-1.18.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wesnoth-server",
     "desc": "Turn-based strategy game with a fantasy theme",
     "package_name": "wesnoth-server",
     "version": "1.18.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wesnoth-server-1.18.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wesnoth-server/1.18.0/1.fc40/x86_64/wesnoth-server-1.18.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wesnoth-tools",
     "desc": "Turn-based strategy game with a fantasy theme",
     "package_name": "wesnoth-tools",
     "version": "1.18.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wesnoth-tools-1.18.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wesnoth-tools/1.18.0/1.fc40/x86_64/wesnoth-tools-1.18.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "weston",
     "desc": "Reference compositor for Wayland",
     "package_name": "weston",
     "version": "13.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weston-13.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weston/13.0.0/5.fc40/x86_64/weston-13.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "weston-demo",
     "desc": "Weston demo program files",
     "package_name": "weston-demo",
     "version": "13.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weston-demo-13.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weston-demo/13.0.0/5.fc40/x86_64/weston-demo-13.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "weston-devel",
     "desc": "Common headers for weston",
     "package_name": "weston-devel",
     "version": "13.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weston-devel-13.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weston-devel/13.0.0/5.fc40/x86_64/weston-devel-13.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "weston-libs",
     "desc": "Weston compositor libraries",
     "package_name": "weston-libs",
     "version": "13.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weston-libs-13.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weston-libs/13.0.0/5.fc40/x86_64/weston-libs-13.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "weston-session",
     "desc": "Weston desktop session",
     "package_name": "weston-session",
     "version": "13.0.0-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/weston-session-13.0.0-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/weston-session/13.0.0/5.fc40/x86_64/weston-session-13.0.0-5.fc40.x86_64.rpm"
   },
   {
     "name": "wev",
     "desc": "A tool for debugging events on a sway Wayland window",
     "package_name": "wev",
     "version": "1.0.1-0.20230427git0fc0549.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wev-1.0.1-0.20230427git0fc0549.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wev/1.0.1/0.20230427git0fc0549.fc40/x86_64/wev-1.0.1-0.20230427git0fc0549.fc40.x86_64.rpm"
   },
   {
     "name": "wf",
     "desc": "Simple word frequency counter",
     "package_name": "wf",
     "version": "0.41-32.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wf-0.41-32.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wf/0.41/32.fc40/x86_64/wf-0.41-32.fc40.x86_64.rpm"
   },
   {
     "name": "wf-config",
     "desc": "Library for managing configuration files, written for wayfire",
     "package_name": "wf-config",
     "version": "0.8.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wf-config-0.8.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wf-config/0.8.0/1.fc40/x86_64/wf-config-0.8.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wf-config-devel",
     "desc": "Development files for wf-config",
     "package_name": "wf-config-devel",
     "version": "0.8.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wf-config-devel-0.8.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wf-config-devel/0.8.0/1.fc40/x86_64/wf-config-devel-0.8.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wf-recorder",
     "desc": "Screen recorder for wlroots-based compositors eg swaywm",
     "package_name": "wf-recorder",
     "version": "0.4.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wf-recorder-0.4.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wf-recorder/0.4.0/2.fc40/x86_64/wf-recorder-0.4.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wf-shell",
     "desc": "GTK3-based panel for wayfire",
     "package_name": "wf-shell",
     "version": "0.8.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wf-shell-0.8.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wf-shell/0.8.1/2.fc40/x86_64/wf-shell-0.8.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "wf-shell-devel",
     "desc": "Development files for wf-shell",
     "package_name": "wf-shell-devel",
     "version": "0.8.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wf-shell-devel-0.8.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wf-shell-devel/0.8.1/2.fc40/x86_64/wf-shell-devel-0.8.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "wfuzz",
     "desc": "Web fuzzer",
     "package_name": "wfuzz",
     "version": "3.1.0-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wfuzz-3.1.0-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wfuzz/3.1.0/12.fc40/x86_64/wfuzz-3.1.0-12.fc40.x86_64.rpm"
   },
   {
     "name": "wfuzz-doc",
     "desc": "The wfuzz documentation",
     "package_name": "wfuzz-doc",
     "version": "3.1.0-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wfuzz-doc-3.1.0-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wfuzz-doc/3.1.0/12.fc40/x86_64/wfuzz-doc-3.1.0-12.fc40.x86_64.rpm"
   },
   {
     "name": "wgctrl",
     "desc": "Control of WireGuard interfaces on multiple platforms",
     "package_name": "wgctrl",
     "version": "0-0.16.20210811git4253848.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wgctrl-0-0.16.20210811git4253848.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wgctrl/0/0.16.20210811git4253848.fc40/x86_64/wgctrl-0-0.16.20210811git4253848.fc40.x86_64.rpm"
   },
   {
     "name": "wget2",
     "desc": "An advanced file and recursive website downloader",
     "package_name": "wget2",
     "version": "2.1.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wget2-2.1.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wget2/2.1.0/8.fc40/x86_64/wget2-2.1.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "wget2-devel",
     "desc": "Libraries and header files needed for using wget2 libraries",
     "package_name": "wget2-devel",
     "version": "2.1.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wget2-devel-2.1.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wget2-devel/2.1.0/8.fc40/x86_64/wget2-devel-2.1.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "wget2-libs",
     "desc": "Runtime libraries for GNU Wget2",
     "package_name": "wget2-libs",
     "version": "2.1.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wget2-libs-2.1.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wget2-libs/2.1.0/8.fc40/x86_64/wget2-libs-2.1.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "wget2-wget",
     "desc": "wget2 shim to provide wget",
     "package_name": "wget2-wget",
     "version": "2.1.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wget2-wget-2.1.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wget2-wget/2.1.0/8.fc40/x86_64/wget2-wget-2.1.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "wgrib",
     "desc": "Manipulate, inventory and decode GRIB files",
     "package_name": "wgrib",
     "version": "1.8.5-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wgrib-1.8.5-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wgrib/1.8.5/2.fc40/x86_64/wgrib-1.8.5-2.fc40.x86_64.rpm"
   },
   {
     "name": "wgrib2",
     "desc": "Manipulate, inventory and decode GRIB2 files",
     "package_name": "wgrib2",
     "version": "3.1.3-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wgrib2-3.1.3-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wgrib2/3.1.3/3.fc40/x86_64/wgrib2-3.1.3-3.fc40.x86_64.rpm"
   },
   {
     "name": "whatip",
     "desc": "Info on your IP address",
     "package_name": "whatip",
     "version": "1.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whatip-1.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whatip/1.2/2.fc40/x86_64/whatip-1.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "whatmask",
     "desc": "Convert between different netmask types and show information",
     "package_name": "whatmask",
     "version": "1.2-34.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whatmask-1.2-34.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whatmask/1.2/34.fc40/x86_64/whatmask-1.2-34.fc40.x86_64.rpm"
   },
   {
     "name": "whatsup",
     "desc": "Node up/down detection utility",
     "package_name": "whatsup",
     "version": "1.14-44.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whatsup-1.14-44.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whatsup/1.14/44.fc40/x86_64/whatsup-1.14-44.fc40.x86_64.rpm"
   },
   {
     "name": "whatsup-pingd",
     "desc": "Pingd daemon for whatsup",
     "package_name": "whatsup-pingd",
     "version": "1.14-44.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whatsup-pingd-1.14-44.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whatsup-pingd/1.14/44.fc40/x86_64/whatsup-pingd-1.14-44.fc40.x86_64.rpm"
   },
   {
     "name": "whatweb",
     "desc": "Web scanner to identify what are the websites running",
     "package_name": "whatweb",
     "version": "0.5.5-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whatweb-0.5.5-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whatweb/0.5.5/6.fc40/x86_64/whatweb-0.5.5-6.fc40.x86_64.rpm"
   },
   {
     "name": "whereami",
     "desc": "Displays work location",
     "package_name": "whereami",
     "version": "1.0-26.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whereami-1.0-26.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whereami/1.0/26.fc39/x86_64/whereami-1.0-26.fc39.x86_64.rpm"
   },
   {
     "name": "which",
     "desc": "Displays where a particular program in your path is located",
     "package_name": "which",
     "version": "2.21-41.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/which-2.21-41.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/which/2.21/41.fc40/x86_64/which-2.21-41.fc40.x86_64.rpm"
   },
   {
     "name": "whichfont",
     "desc": "Querying Fontconfig",
     "package_name": "whichfont",
     "version": "1.0.9-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whichfont-1.0.9-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whichfont/1.0.9/2.fc40/x86_64/whichfont-1.0.9-2.fc40.x86_64.rpm"
   },
   {
     "name": "whichwayisup",
     "desc": "2D platform game with a slight rotational twist",
     "package_name": "whichwayisup",
     "version": "0.7.9-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whichwayisup-0.7.9-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whichwayisup/0.7.9/20.fc40/x86_64/whichwayisup-0.7.9-20.fc40.x86_64.rpm"
   },
   {
     "name": "whipper",
     "desc": "Python CD-DA ripper preferring accuracy over speed",
     "package_name": "whipper",
     "version": "0.10.0-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whipper-0.10.0-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whipper/0.10.0/12.fc40/x86_64/whipper-0.10.0-12.fc40.x86_64.rpm"
   },
   {
     "name": "whisper-cpp",
     "desc": "Port of OpenAI's Whisper model in C/C++",
     "package_name": "whisper-cpp",
     "version": "1.5.4-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whisper-cpp-1.5.4-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whisper-cpp/1.5.4/1.fc40/x86_64/whisper-cpp-1.5.4-1.fc40.x86_64.rpm"
   },
   {
     "name": "whisper-cpp-devel",
     "desc": "Libraries and headers for whisper-cpp",
     "package_name": "whisper-cpp-devel",
     "version": "1.5.4-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whisper-cpp-devel-1.5.4-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whisper-cpp-devel/1.5.4/1.fc40/x86_64/whisper-cpp-devel-1.5.4-1.fc40.x86_64.rpm"
   },
   {
     "name": "whohas",
     "desc": "Command line tool for query package lists",
     "package_name": "whohas",
     "version": "0.29.1-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whohas-0.29.1-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whohas/0.29.1/20.fc40/x86_64/whohas-0.29.1-20.fc40.x86_64.rpm"
   },
   {
     "name": "whois",
     "desc": "Improved WHOIS client",
     "package_name": "whois",
     "version": "5.5.20-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whois-5.5.20-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whois/5.5.20/3.fc40/x86_64/whois-5.5.20-3.fc40.x86_64.rpm"
   },
   {
     "name": "whois-nls",
     "desc": "Gettext catalogs for whois tools",
     "package_name": "whois-nls",
     "version": "5.5.20-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whois-nls-5.5.20-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whois-nls/5.5.20/3.fc40/x86_64/whois-nls-5.5.20-3.fc40.x86_64.rpm"
   },
   {
     "name": "whowatch",
     "desc": "Display information about users currently logged on",
     "package_name": "whowatch",
     "version": "1.8.6-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whowatch-1.8.6-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whowatch/1.8.6/17.fc40/x86_64/whowatch-1.8.6-17.fc40.x86_64.rpm"
   },
   {
     "name": "whsniff",
     "desc": "Command line utility that interfaces TI CC2531 USB dongle",
     "package_name": "whsniff",
     "version": "1.3-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whsniff-1.3-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/whsniff/1.3/9.fc40/x86_64/whsniff-1.3-9.fc40.x86_64.rpm"
   },
   {
     "name": "why3",
     "desc": "Software verification platform",
     "package_name": "why3",
     "version": "1.7.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/why3-1.7.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/why3/1.7.1/2.fc40/x86_64/why3-1.7.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "why3-all",
     "desc": "Complete Why3 software verification platform suite",
     "package_name": "why3-all",
     "version": "1.7.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/why3-all-1.7.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/why3-all/1.7.1/2.fc40/x86_64/why3-all-1.7.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "why3-emacs",
     "desc": "Emacs support file for why3 files",
     "package_name": "why3-emacs",
     "version": "1.7.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/why3-emacs-1.7.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/why3-emacs/1.7.1/2.fc40/x86_64/why3-emacs-1.7.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "why3-examples",
     "desc": "Example inputs",
     "package_name": "why3-examples",
     "version": "1.7.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/why3-examples-1.7.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/why3-examples/1.7.1/2.fc40/x86_64/why3-examples-1.7.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "why3-proofgeneral",
     "desc": "Why3 integration with ProofGeneral",
     "package_name": "why3-proofgeneral",
     "version": "1.7.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/why3-proofgeneral-1.7.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/why3-proofgeneral/1.7.1/2.fc40/x86_64/why3-proofgeneral-1.7.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "wicked",
     "desc": "Network configuration infrastructure",
     "package_name": "wicked",
     "version": "0.6.69-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wicked-0.6.69-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wicked/0.6.69/6.fc40/x86_64/wicked-0.6.69-6.fc40.x86_64.rpm"
   },
   {
     "name": "wicked-devel",
     "desc": "Network configuration infrastructure - Development files",
     "package_name": "wicked-devel",
     "version": "0.6.69-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wicked-devel-0.6.69-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wicked-devel/0.6.69/6.fc40/x86_64/wicked-devel-0.6.69-6.fc40.x86_64.rpm"
   },
   {
     "name": "wide-dhcpv6",
     "desc": "DHCP Client and Server for IPv6",
     "package_name": "wide-dhcpv6",
     "version": "20080615-23.3.fc40.4",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wide-dhcpv6-20080615-23.3.fc40.4.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wide-dhcpv6/20080615/23.3.fc40.4/x86_64/wide-dhcpv6-20080615-23.3.fc40.4.x86_64.rpm"
   },
   {
     "name": "widelands",
     "desc": "Open source realtime-strategy game",
     "package_name": "widelands",
     "version": "1.1-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/widelands-1.1-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/widelands/1.1/6.fc40/x86_64/widelands-1.1-6.fc40.x86_64.rpm"
   },
   {
     "name": "wiggle",
     "desc": "A tool for applying patches with conflicts",
     "package_name": "wiggle",
     "version": "1.2-10.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wiggle-1.2-10.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wiggle/1.2/10.fc40/x86_64/wiggle-1.2-10.fc40.x86_64.rpm"
   },
   {
     "name": "wiiuse",
     "desc": "The wiiuse library is used to access and control multiple Nintendo Wiimotes",
     "package_name": "wiiuse",
     "version": "0.15.5-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wiiuse-0.15.5-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wiiuse/0.15.5/12.fc40/x86_64/wiiuse-0.15.5-12.fc40.x86_64.rpm"
   },
   {
     "name": "wiiuse-devel",
     "desc": "Developer tools for the wiiuse library",
     "package_name": "wiiuse-devel",
     "version": "0.15.5-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wiiuse-devel-0.15.5-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wiiuse-devel/0.15.5/12.fc40/x86_64/wiiuse-devel-0.15.5-12.fc40.x86_64.rpm"
   },
   {
     "name": "wiiuse-examples",
     "desc": "Example programs for the wiiuse library",
     "package_name": "wiiuse-examples",
     "version": "0.15.5-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wiiuse-examples-0.15.5-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wiiuse-examples/0.15.5/12.fc40/x86_64/wiiuse-examples-0.15.5-12.fc40.x86_64.rpm"
   },
   {
     "name": "wike",
     "desc": "Wikipedia Reader for the GNOME Desktop",
     "package_name": "wike",
     "version": "2.1.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wike-2.1.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wike/2.1.0/1.fc40/x86_64/wike-2.1.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wiki2beamer",
     "desc": "Converts a simple wiki-like syntax to complex LaTeX beamer code",
     "package_name": "wiki2beamer",
     "version": "0.10.0-9.fc38",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wiki2beamer-0.10.0-9.fc38.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wiki2beamer/0.10.0/9.fc38/x86_64/wiki2beamer-0.10.0-9.fc38.x86_64.rpm"
   },
   {
     "name": "wildcard",
     "desc": "Test your regular expressions",
     "package_name": "wildcard",
     "version": "0.3.3-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildcard-0.3.3-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildcard/0.3.3/2.fc40/x86_64/wildcard-0.3.3-2.fc40.x86_64.rpm"
   },
   {
     "name": "wildmagic5",
     "desc": "Wild Magic libraries",
     "package_name": "wildmagic5",
     "version": "5.17-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmagic5-5.17-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmagic5/5.17/17.fc40/x86_64/wildmagic5-5.17-17.fc40.x86_64.rpm"
   },
   {
     "name": "wildmagic5-data",
     "desc": "wildmagic5 data files",
     "package_name": "wildmagic5-data",
     "version": "5.17-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmagic5-data-5.17-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmagic5-data/5.17/17.fc40/x86_64/wildmagic5-data-5.17-17.fc40.x86_64.rpm"
   },
   {
     "name": "wildmagic5-devel",
     "desc": "Development files for wildmagic5",
     "package_name": "wildmagic5-devel",
     "version": "5.17-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmagic5-devel-5.17-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmagic5-devel/5.17/17.fc40/x86_64/wildmagic5-devel-5.17-17.fc40.x86_64.rpm"
   },
   {
     "name": "wildmagic5-samples",
     "desc": "Samples files for wildmagic5",
     "package_name": "wildmagic5-samples",
     "version": "5.17-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmagic5-samples-5.17-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmagic5-samples/5.17/17.fc40/x86_64/wildmagic5-samples-5.17-17.fc40.x86_64.rpm"
   },
   {
     "name": "wildmidi",
     "desc": "Softsynth midi player",
     "package_name": "wildmidi",
     "version": "0.4.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmidi-0.4.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmidi/0.4.5/4.fc40/x86_64/wildmidi-0.4.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "wildmidi-devel",
     "desc": "Development files for wildmidi",
     "package_name": "wildmidi-devel",
     "version": "0.4.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmidi-devel-0.4.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmidi-devel/0.4.5/4.fc40/x86_64/wildmidi-devel-0.4.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "wildmidi-libs",
     "desc": "WildMidi Midi Wavetable Synth Lib",
     "package_name": "wildmidi-libs",
     "version": "0.4.5-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wildmidi-libs-0.4.5-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wildmidi-libs/0.4.5/4.fc40/x86_64/wildmidi-libs-0.4.5-4.fc40.x86_64.rpm"
   },
   {
     "name": "will-crash",
     "desc": "Set of crashing executables written in various languages",
     "package_name": "will-crash",
     "version": "0.13.5-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/will-crash-0.13.5-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/will-crash/0.13.5/6.fc40/x86_64/will-crash-0.13.5-6.fc40.x86_64.rpm"
   },
   {
     "name": "wimlib",
     "desc": "Open source Windows Imaging (WIM) library",
     "package_name": "wimlib",
     "version": "1.14.4-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wimlib-1.14.4-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wimlib/1.14.4/1.fc40/x86_64/wimlib-1.14.4-1.fc40.x86_64.rpm"
   },
   {
     "name": "wimlib-devel",
     "desc": "Development files for wimlib",
     "package_name": "wimlib-devel",
     "version": "1.14.4-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wimlib-devel-1.14.4-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wimlib-devel/1.14.4/1.fc40/x86_64/wimlib-devel-1.14.4-1.fc40.x86_64.rpm"
   },
   {
     "name": "wimlib-utils",
     "desc": "Tools for creating, modifying, extracting, and mounting WIM files",
     "package_name": "wimlib-utils",
     "version": "1.14.4-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wimlib-utils-1.14.4-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wimlib-utils/1.14.4/1.fc40/x86_64/wimlib-utils-1.14.4-1.fc40.x86_64.rpm"
   },
   {
     "name": "WindowMaker",
     "desc": "A fast, feature rich Window Manager",
     "package_name": "WindowMaker",
     "version": "0.96.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WindowMaker-0.96.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WindowMaker/0.96.0/3.fc40/x86_64/WindowMaker-0.96.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "WindowMaker-devel",
     "desc": "Development files for WindowMaker",
     "package_name": "WindowMaker-devel",
     "version": "0.96.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WindowMaker-devel-0.96.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WindowMaker-devel/0.96.0/3.fc40/x86_64/WindowMaker-devel-0.96.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "WindowMaker-extra",
     "desc": "Extra icons and themes for WindowMaker",
     "package_name": "WindowMaker-extra",
     "version": "0.1-29.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WindowMaker-extra-0.1-29.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WindowMaker-extra/0.1/29.fc40/x86_64/WindowMaker-extra-0.1-29.fc40.x86_64.rpm"
   },
   {
     "name": "wine",
     "desc": "A compatibility layer for windows applications",
     "package_name": "wine",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine/9.1/1.fc40/x86_64/wine-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-alsa",
     "desc": "Alsa support for wine",
     "package_name": "wine-alsa",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-alsa-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-alsa/9.1/1.fc40/x86_64/wine-alsa-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-arial-fonts",
     "desc": "Wine Arial font family",
     "package_name": "wine-arial-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-arial-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-arial-fonts/9.1/1.fc40/x86_64/wine-arial-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-cms",
     "desc": "Color Management for wine",
     "package_name": "wine-cms",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-cms-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-cms/9.1/1.fc40/x86_64/wine-cms-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-common",
     "desc": "Common files",
     "package_name": "wine-common",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-common-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-common/9.1/1.fc40/x86_64/wine-common-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-core",
     "desc": "Wine core package",
     "package_name": "wine-core",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-core-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-core/9.1/1.fc40/x86_64/wine-core-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-courier-fonts",
     "desc": "Wine Courier font family",
     "package_name": "wine-courier-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-courier-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-courier-fonts/9.1/1.fc40/x86_64/wine-courier-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-desktop",
     "desc": "Desktop integration features for wine",
     "package_name": "wine-desktop",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-desktop-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-desktop/9.1/1.fc40/x86_64/wine-desktop-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-devel",
     "desc": "Wine development environment",
     "package_name": "wine-devel",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-devel-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-devel/9.1/1.fc40/x86_64/wine-devel-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-dxvk",
     "desc": "Vulkan-based D3D11 and D3D10 implementation for Linux / Wine",
     "package_name": "wine-dxvk",
     "version": "1.10.3-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-dxvk-1.10.3-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-dxvk/1.10.3/6.fc40/x86_64/wine-dxvk-1.10.3-6.fc40.x86_64.rpm"
   },
   {
     "name": "wine-dxvk-d3d9",
     "desc": "DXVK D3D9 implementation",
     "package_name": "wine-dxvk-d3d9",
     "version": "1.10.3-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-dxvk-d3d9-1.10.3-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-dxvk-d3d9/1.10.3/6.fc40/x86_64/wine-dxvk-d3d9-1.10.3-6.fc40.x86_64.rpm"
   },
   {
     "name": "wine-dxvk-dxgi",
     "desc": "DXVK DXGI implementation",
     "package_name": "wine-dxvk-dxgi",
     "version": "1.10.3-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-dxvk-dxgi-1.10.3-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-dxvk-dxgi/1.10.3/6.fc40/x86_64/wine-dxvk-dxgi-1.10.3-6.fc40.x86_64.rpm"
   },
   {
     "name": "wine-filesystem",
     "desc": "Filesystem directories for wine",
     "package_name": "wine-filesystem",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-filesystem-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-filesystem/9.1/1.fc40/x86_64/wine-filesystem-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-fixedsys-fonts",
     "desc": "Wine Fixedsys font family",
     "package_name": "wine-fixedsys-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-fixedsys-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-fixedsys-fonts/9.1/1.fc40/x86_64/wine-fixedsys-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-fonts",
     "desc": "Wine font files",
     "package_name": "wine-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-fonts/9.1/1.fc40/x86_64/wine-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-ldap",
     "desc": "LDAP support for wine",
     "package_name": "wine-ldap",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-ldap-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-ldap/9.1/1.fc40/x86_64/wine-ldap-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-marlett-fonts",
     "desc": "Wine Marlett font family",
     "package_name": "wine-marlett-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-marlett-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-marlett-fonts/9.1/1.fc40/x86_64/wine-marlett-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-mono",
     "desc": "Mono library required for Wine",
     "package_name": "wine-mono",
     "version": "8.1.0-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-mono-8.1.0-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-mono/8.1.0/1.fc40/x86_64/wine-mono-8.1.0-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-ms-sans-serif-fonts",
     "desc": "Wine MS Sans Serif font family",
     "package_name": "wine-ms-sans-serif-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-ms-sans-serif-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-ms-sans-serif-fonts/9.1/1.fc40/x86_64/wine-ms-sans-serif-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-opencl",
     "desc": "OpenCL support for wine",
     "package_name": "wine-opencl",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-opencl-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-opencl/9.1/1.fc40/x86_64/wine-opencl-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-pulseaudio",
     "desc": "Pulseaudio support for wine",
     "package_name": "wine-pulseaudio",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-pulseaudio-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-pulseaudio/9.1/1.fc40/x86_64/wine-pulseaudio-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-small-fonts",
     "desc": "Wine Small font family",
     "package_name": "wine-small-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-small-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-small-fonts/9.1/1.fc40/x86_64/wine-small-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-symbol-fonts",
     "desc": "Wine Symbol font family",
     "package_name": "wine-symbol-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-symbol-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-symbol-fonts/9.1/1.fc40/x86_64/wine-symbol-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-system-fonts",
     "desc": "Wine System font family",
     "package_name": "wine-system-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-system-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-system-fonts/9.1/1.fc40/x86_64/wine-system-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-systemd",
     "desc": "Systemd config for the wine binfmt handler",
     "package_name": "wine-systemd",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-systemd-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-systemd/9.1/1.fc40/x86_64/wine-systemd-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-tahoma-fonts",
     "desc": "Wine Tahoma font family",
     "package_name": "wine-tahoma-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-tahoma-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-tahoma-fonts/9.1/1.fc40/x86_64/wine-tahoma-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-tahoma-fonts-system",
     "desc": "Wine Tahoma font family system integration",
     "package_name": "wine-tahoma-fonts-system",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-tahoma-fonts-system-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-tahoma-fonts-system/9.1/1.fc40/x86_64/wine-tahoma-fonts-system-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-times-new-roman-fonts",
     "desc": "Wine Times New Roman font family",
     "package_name": "wine-times-new-roman-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-times-new-roman-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-times-new-roman-fonts/9.1/1.fc40/x86_64/wine-times-new-roman-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-times-new-roman-fonts-system",
     "desc": "Wine Times New Roman font family system integration",
     "package_name": "wine-times-new-roman-fonts-system",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-times-new-roman-fonts-system-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-times-new-roman-fonts-system/9.1/1.fc40/x86_64/wine-times-new-roman-fonts-system-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-twain",
     "desc": "Twain support for wine",
     "package_name": "wine-twain",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-twain-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-twain/9.1/1.fc40/x86_64/wine-twain-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-webdings-fonts",
     "desc": "Wine Webdings font family",
     "package_name": "wine-webdings-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-webdings-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-webdings-fonts/9.1/1.fc40/x86_64/wine-webdings-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-wingdings-fonts",
     "desc": "Wine Wingdings font family",
     "package_name": "wine-wingdings-fonts",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-wingdings-fonts-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-wingdings-fonts/9.1/1.fc40/x86_64/wine-wingdings-fonts-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wine-wingdings-fonts-system",
     "desc": "Wine Wingdings font family system integration",
     "package_name": "wine-wingdings-fonts-system",
     "version": "9.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wine-wingdings-fonts-system-9.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wine-wingdings-fonts-system/9.1/1.fc40/x86_64/wine-wingdings-fonts-system-9.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wineglass",
     "desc": "GUI for Wine",
     "package_name": "wineglass",
     "version": "1.2.1-6.20191110git7b2558e.9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wineglass-1.2.1-6.20191110git7b2558e.9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wineglass/1.2.1/6.20191110git7b2558e.9.fc40/x86_64/wineglass-1.2.1-6.20191110git7b2558e.9.fc40.x86_64.rpm"
   },
   {
     "name": "winetricks",
     "desc": "Work around common problems in Wine",
     "package_name": "winetricks",
     "version": "20230212-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/winetricks-20230212-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/winetricks/20230212/3.fc40/x86_64/winetricks-20230212-3.fc40.x86_64.rpm"
   },
   {
     "name": "wingpanel",
     "desc": "Stylish top panel",
     "package_name": "wingpanel",
     "version": "3.0.5-3.20231206.git0fb4a14.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wingpanel-3.0.5-3.20231206.git0fb4a14.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wingpanel/3.0.5/3.20231206.git0fb4a14.fc40/x86_64/wingpanel-3.0.5-3.20231206.git0fb4a14.fc40.x86_64.rpm"
   },
   {
     "name": "wingpanel-devel",
     "desc": "Stylish top panel (development files)",
     "package_name": "wingpanel-devel",
     "version": "3.0.5-3.20231206.git0fb4a14.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wingpanel-devel-3.0.5-3.20231206.git0fb4a14.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wingpanel-devel/3.0.5/3.20231206.git0fb4a14.fc40/x86_64/wingpanel-devel-3.0.5-3.20231206.git0fb4a14.fc40.x86_64.rpm"
   },
   {
     "name": "WINGs-devel",
     "desc": "Development files for the WINGs library",
     "package_name": "WINGs-devel",
     "version": "0.96.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WINGs-devel-0.96.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WINGs-devel/0.96.0/3.fc40/x86_64/WINGs-devel-0.96.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "WINGs-libs",
     "desc": "Widgets and image libraries needed for WindowMaker",
     "package_name": "WINGs-libs",
     "version": "0.96.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WINGs-libs-0.96.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WINGs-libs/0.96.0/3.fc40/x86_64/WINGs-libs-0.96.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "winpdb",
     "desc": "An advanced python debugger",
     "package_name": "winpdb",
     "version": "2.0.0-0.17.dev5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/winpdb-2.0.0-0.17.dev5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/winpdb/2.0.0/0.17.dev5.fc40/x86_64/winpdb-2.0.0-0.17.dev5.fc40.x86_64.rpm"
   },
   {
     "name": "wipe",
     "desc": "Secure file erasing tool",
     "package_name": "wipe",
     "version": "0.21-29.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wipe-0.21-29.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wipe/0.21/29.fc40/x86_64/wipe-0.21-29.fc40.x86_64.rpm"
   },
   {
     "name": "wireguard-tools",
     "desc": "Fast, modern, secure VPN tunnel",
     "package_name": "wireguard-tools",
     "version": "1.0.20210914-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireguard-tools-1.0.20210914-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireguard-tools/1.0.20210914/6.fc40/x86_64/wireguard-tools-1.0.20210914-6.fc40.x86_64.rpm"
   },
   {
     "name": "wireless-regdb",
     "desc": "Regulatory database for 802.11 wireless networking",
     "package_name": "wireless-regdb",
     "version": "2024.01.23-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireless-regdb-2024.01.23-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireless-regdb/2024.01.23/1.fc40/x86_64/wireless-regdb-2024.01.23-1.fc40.x86_64.rpm"
   },
   {
     "name": "wireplumber",
     "desc": "A modular session/policy manager for PipeWire",
     "package_name": "wireplumber",
     "version": "0.5.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireplumber-0.5.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireplumber/0.5.0/2.fc40/x86_64/wireplumber-0.5.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wireplumber-devel",
     "desc": "Development files for wireplumber",
     "package_name": "wireplumber-devel",
     "version": "0.5.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireplumber-devel-0.5.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireplumber-devel/0.5.0/2.fc40/x86_64/wireplumber-devel-0.5.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wireplumber-doc",
     "desc": "Documentation for wireplumber",
     "package_name": "wireplumber-doc",
     "version": "0.5.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireplumber-doc-0.5.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireplumber-doc/0.5.0/2.fc40/x86_64/wireplumber-doc-0.5.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wireplumber-libs",
     "desc": "Libraries for WirePlumber clients",
     "package_name": "wireplumber-libs",
     "version": "0.5.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireplumber-libs-0.5.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireplumber-libs/0.5.0/2.fc40/x86_64/wireplumber-libs-0.5.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wireshark",
     "desc": "Network traffic analyzer",
     "package_name": "wireshark",
     "version": "4.2.3-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireshark-4.2.3-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireshark/4.2.3/1.fc40/x86_64/wireshark-4.2.3-1.fc40.x86_64.rpm"
   },
   {
     "name": "wireshark-cli",
     "desc": "Network traffic analyzer",
     "package_name": "wireshark-cli",
     "version": "4.2.3-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireshark-cli-4.2.3-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireshark-cli/4.2.3/1.fc40/x86_64/wireshark-cli-4.2.3-1.fc40.x86_64.rpm"
   },
   {
     "name": "wireshark-devel",
     "desc": "Development headers and libraries for wireshark",
     "package_name": "wireshark-devel",
     "version": "4.2.3-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wireshark-devel-4.2.3-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wireshark-devel/4.2.3/1.fc40/x86_64/wireshark-devel-4.2.3-1.fc40.x86_64.rpm"
   },
   {
     "name": "withlock",
     "desc": "Locking wrapper script",
     "package_name": "withlock",
     "version": "0.5-17.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/withlock-0.5-17.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/withlock/0.5/17.fc40/x86_64/withlock-0.5-17.fc40.x86_64.rpm"
   },
   {
     "name": "wkhtmltopdf",
     "desc": "Simple shell utility to convert html to pdf",
     "package_name": "wkhtmltopdf",
     "version": "0.12.6-3.fc40.5",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wkhtmltopdf-0.12.6-3.fc40.5.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wkhtmltopdf/0.12.6/3.fc40.5/x86_64/wkhtmltopdf-0.12.6-3.fc40.5.x86_64.rpm"
   },
   {
     "name": "wkhtmltopdf-devel",
     "desc": "Development files for wkhtmltopdf",
     "package_name": "wkhtmltopdf-devel",
     "version": "0.12.6-3.fc40.5",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wkhtmltopdf-devel-0.12.6-3.fc40.5.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wkhtmltopdf-devel/0.12.6/3.fc40.5/x86_64/wkhtmltopdf-devel-0.12.6-3.fc40.5.x86_64.rpm"
   },
   {
     "name": "wkhtmltopdf-doc",
     "desc": "Documentation for wkhtmltopdf",
     "package_name": "wkhtmltopdf-doc",
     "version": "0.12.6-3.fc40.5",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wkhtmltopdf-doc-0.12.6-3.fc40.5.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wkhtmltopdf-doc/0.12.6/3.fc40.5/x86_64/wkhtmltopdf-doc-0.12.6-3.fc40.5.x86_64.rpm"
   },
   {
     "name": "wl-clipboard",
     "desc": "Command-line copy/paste utilities for Wayland",
     "package_name": "wl-clipboard",
     "version": "2.2.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wl-clipboard-2.2.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wl-clipboard/2.2.1/2.fc40/x86_64/wl-clipboard-2.2.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "wl-gammactl",
     "desc": "Set contrast, brightness and gamma for wayland compositors",
     "package_name": "wl-gammactl",
     "version": "0.1-0.13.20221130gite238595.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wl-gammactl-0.1-0.13.20221130gite238595.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wl-gammactl/0.1/0.13.20221130gite238595.fc40/x86_64/wl-gammactl-0.1-0.13.20221130gite238595.fc40.x86_64.rpm"
   },
   {
     "name": "wl-mirror",
     "desc": "Simple Wayland output mirror client",
     "package_name": "wl-mirror",
     "version": "0.16.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wl-mirror-0.16.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wl-mirror/0.16.2/1.fc40/x86_64/wl-mirror-0.16.2-1.fc40.x86_64.rpm"
   },
   {
     "name": "wlcs",
     "desc": "Wayland Conformance Test Suite",
     "package_name": "wlcs",
     "version": "1.7.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlcs-1.7.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlcs/1.7.0/2.fc40/x86_64/wlcs-1.7.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wlcs-devel",
     "desc": "Development files for wlcs",
     "package_name": "wlcs-devel",
     "version": "1.7.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlcs-devel-1.7.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlcs-devel/1.7.0/2.fc40/x86_64/wlcs-devel-1.7.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "wlogout",
     "desc": "Wayland based logout menu",
     "package_name": "wlogout",
     "version": "1.2.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlogout-1.2.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlogout/1.2.1/1.fc40/x86_64/wlogout-1.2.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wlopm",
     "desc": "wlr-output-power-management-v1 client",
     "package_name": "wlopm",
     "version": "0.1.0-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlopm-0.1.0-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlopm/0.1.0/4.fc40/x86_64/wlopm-0.1.0-4.fc40.x86_64.rpm"
   },
   {
     "name": "wlr-randr",
     "desc": "An xrandr clone for wlroots compositors",
     "package_name": "wlr-randr",
     "version": "0.4.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlr-randr-0.4.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlr-randr/0.4.1/1.fc40/x86_64/wlr-randr-0.4.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wlr-sunclock",
     "desc": "Show the sun's shadows on earth",
     "package_name": "wlr-sunclock",
     "version": "1.0.0-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlr-sunclock-1.0.0-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlr-sunclock/1.0.0/7.fc40/x86_64/wlr-sunclock-1.0.0-7.fc40.x86_64.rpm"
   },
   {
     "name": "wlrctl",
     "desc": "Manipulate Wayland compositors using wlroots protocols",
     "package_name": "wlrctl",
     "version": "0.2.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlrctl-0.2.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlrctl/0.2.2/2.fc40/x86_64/wlrctl-0.2.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "wlroots",
     "desc": "A modular Wayland compositor library",
     "package_name": "wlroots",
     "version": "0.17.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlroots-0.17.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlroots/0.17.2/1.fc40/x86_64/wlroots-0.17.2-1.fc40.x86_64.rpm"
   },
   {
     "name": "wlroots-devel",
     "desc": "Development files for wlroots",
     "package_name": "wlroots-devel",
     "version": "0.17.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlroots-devel-0.17.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlroots-devel/0.17.2/1.fc40/x86_64/wlroots-devel-0.17.2-1.fc40.x86_64.rpm"
   },
   {
     "name": "wlroots0.15",
     "desc": "A modular Wayland compositor library",
     "package_name": "wlroots0.15",
     "version": "0.15.1-3.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlroots0.15-0.15.1-3.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlroots0.15/0.15.1/3.fc39/x86_64/wlroots0.15-0.15.1-3.fc39.x86_64.rpm"
   },
   {
     "name": "wlroots0.15-devel",
     "desc": "Development files for wlroots0.15",
     "package_name": "wlroots0.15-devel",
     "version": "0.15.1-3.fc39",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlroots0.15-devel-0.15.1-3.fc39.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlroots0.15-devel/0.15.1/3.fc39/x86_64/wlroots0.15-devel-0.15.1-3.fc39.x86_64.rpm"
   },
   {
     "name": "wlroots0.16",
     "desc": "A modular Wayland compositor library",
     "package_name": "wlroots0.16",
     "version": "0.16.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlroots0.16-0.16.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlroots0.16/0.16.2/2.fc40/x86_64/wlroots0.16-0.16.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "wlroots0.16-devel",
     "desc": "Development files for wlroots0.16",
     "package_name": "wlroots0.16-devel",
     "version": "0.16.2-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlroots0.16-devel-0.16.2-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlroots0.16-devel/0.16.2/2.fc40/x86_64/wlroots0.16-devel-0.16.2-2.fc40.x86_64.rpm"
   },
   {
     "name": "wlsunset",
     "desc": "Day/night gamma adjustments for Sway",
     "package_name": "wlsunset",
     "version": "0.3.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wlsunset-0.3.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wlsunset/0.3.0/3.fc40/x86_64/wlsunset-0.3.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "wmacpi",
     "desc": "Dockapp for laptop acpi/apm information",
     "package_name": "wmacpi",
     "version": "2.3-9.20200618gitd583dfc.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmacpi-2.3-9.20200618gitd583dfc.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmacpi/2.3/9.20200618gitd583dfc.fc40/x86_64/wmacpi-2.3-9.20200618gitd583dfc.fc40.x86_64.rpm"
   },
   {
     "name": "wmapmload",
     "desc": "Wmapmload monitors your apm status in an lcd display fashion",
     "package_name": "wmapmload",
     "version": "0.3.4-36.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmapmload-0.3.4-36.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmapmload/0.3.4/36.fc40/x86_64/wmapmload-0.3.4-36.fc40.x86_64.rpm"
   },
   {
     "name": "wmbusmeters",
     "desc": "Read the wireless mbus protocol to acquire utility meter readings",
     "package_name": "wmbusmeters",
     "version": "1.16.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmbusmeters-1.16.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmbusmeters/1.16.1/1.fc40/x86_64/wmbusmeters-1.16.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wmCalClock",
     "desc": "A Calendar clock with antialiased text",
     "package_name": "wmCalClock",
     "version": "1.25-39.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmCalClock-1.25-39.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmCalClock/1.25/39.fc40/x86_64/wmCalClock-1.25-39.fc40.x86_64.rpm"
   },
   {
     "name": "wmctrl",
     "desc": "Command line tool to interact with an X Window Manager",
     "package_name": "wmctrl",
     "version": "1.07-36.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmctrl-1.07-36.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmctrl/1.07/36.fc40/x86_64/wmctrl-1.07-36.fc40.x86_64.rpm"
   },
   {
     "name": "wmdocker",
     "desc": "KDE and GNOME2 system tray replacement docking application",
     "package_name": "wmdocker",
     "version": "1.5-32.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmdocker-1.5-32.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmdocker/1.5/32.fc40/x86_64/wmdocker-1.5-32.fc40.x86_64.rpm"
   },
   {
     "name": "wmenu",
     "desc": "Efficient dynamic menu for Wayland",
     "package_name": "wmenu",
     "version": "0.1.7-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmenu-0.1.7-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmenu/0.1.7/1.fc40/x86_64/wmenu-0.1.7-1.fc40.x86_64.rpm"
   },
   {
     "name": "wmfrog",
     "desc": "A weather application, it shows the weather in a graphical way",
     "package_name": "wmfrog",
     "version": "0.3.1-34.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmfrog-0.3.1-34.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmfrog/0.3.1/34.fc40/x86_64/wmfrog-0.3.1-34.fc40.x86_64.rpm"
   },
   {
     "name": "wmname",
     "desc": "Prints/sets the EWMH WM name property",
     "package_name": "wmname",
     "version": "0.1-26.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmname-0.1-26.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmname/0.1/26.fc40/x86_64/wmname-0.1-26.fc40.x86_64.rpm"
   },
   {
     "name": "wmweather+",
     "desc": "Weather status dockapp",
     "package_name": "wmweather+",
     "version": "2.18^20211125gitbe2f4b30-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmweather+-2.18^20211125gitbe2f4b30-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmweather+/2.18^20211125gitbe2f4b30/7.fc40/x86_64/wmweather+-2.18^20211125gitbe2f4b30-7.fc40.x86_64.rpm"
   },
   {
     "name": "wmx",
     "desc": "A really simple window manager for X",
     "package_name": "wmx",
     "version": "8-22.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wmx-8-22.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wmx/8/22.fc40/x86_64/wmx-8-22.fc40.x86_64.rpm"
   },
   {
     "name": "wob",
     "desc": "A lightweight overlay volume/backlight/progress/anything bar for Wayland",
     "package_name": "wob",
     "version": "0.14.2-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wob-0.14.2-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wob/0.14.2/5.fc40/x86_64/wob-0.14.2-5.fc40.x86_64.rpm"
   },
   {
     "name": "wodim",
     "desc": "A command line CD/DVD recording program",
     "package_name": "wodim",
     "version": "1.1.11-54.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wodim-1.1.11-54.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wodim/1.1.11/54.fc40/x86_64/wodim-1.1.11-54.fc40.x86_64.rpm"
   },
   {
     "name": "WoeUSB",
     "desc": "Windows USB installation media creator",
     "package_name": "WoeUSB",
     "version": "5.2.4-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/WoeUSB-5.2.4-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/WoeUSB/5.2.4/7.fc40/x86_64/WoeUSB-5.2.4-7.fc40.x86_64.rpm"
   },
   {
     "name": "woff",
     "desc": "Encoding and decoding for Web Open Font Format (WOFF)",
     "package_name": "woff",
     "version": "0.20091126-40.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/woff-0.20091126-40.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/woff/0.20091126/40.fc40/x86_64/woff-0.20091126-40.fc40.x86_64.rpm"
   },
   {
     "name": "woff2",
     "desc": "Web Open Font Format 2.0 library",
     "package_name": "woff2",
     "version": "1.0.2-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/woff2-1.0.2-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/woff2/1.0.2/19.fc40/x86_64/woff2-1.0.2-19.fc40.x86_64.rpm"
   },
   {
     "name": "woff2-devel",
     "desc": "Development files for woff2",
     "package_name": "woff2-devel",
     "version": "1.0.2-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/woff2-devel-1.0.2-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/woff2-devel/1.0.2/19.fc40/x86_64/woff2-devel-1.0.2-19.fc40.x86_64.rpm"
   },
   {
     "name": "woff2-tools",
     "desc": "Web Open Font Format 2.0 tools",
     "package_name": "woff2-tools",
     "version": "1.0.2-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/woff2-tools-1.0.2-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/woff2-tools/1.0.2/19.fc40/x86_64/woff2-tools-1.0.2-19.fc40.x86_64.rpm"
   },
   {
     "name": "wofi",
     "desc": "A launcher/menu for wlroots based wayland compositors",
     "package_name": "wofi",
     "version": "1.3-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wofi-1.3-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wofi/1.3/4.fc40/x86_64/wofi-1.3-4.fc40.x86_64.rpm"
   },
   {
     "name": "wofi-devel",
     "desc": "Development package for wofi",
     "package_name": "wofi-devel",
     "version": "1.3-4.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wofi-devel-1.3-4.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wofi-devel/1.3/4.fc40/x86_64/wofi-devel-1.3-4.fc40.x86_64.rpm"
   },
   {
     "name": "wol",
     "desc": "Wake On Lan client",
     "package_name": "wol",
     "version": "0.7.1-33.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wol-0.7.1-33.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wol/0.7.1/33.fc40/x86_64/wol-0.7.1-33.fc40.x86_64.rpm"
   },
   {
     "name": "wondershaper",
     "desc": "Simple Network Shaper",
     "package_name": "wondershaper",
     "version": "1.2.1-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wondershaper-1.2.1-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wondershaper/1.2.1/21.fc40/x86_64/wondershaper-1.2.1-21.fc40.x86_64.rpm"
   },
   {
     "name": "woodardworks-laconic-fonts",
     "desc": "An artistic and minimal sans-serif font family",
     "package_name": "woodardworks-laconic-fonts",
     "version": "001.001-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/woodardworks-laconic-fonts-001.001-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/woodardworks-laconic-fonts/001.001/28.fc40/x86_64/woodardworks-laconic-fonts-001.001-28.fc40.x86_64.rpm"
   },
   {
     "name": "woodardworks-laconic-shadow-fonts",
     "desc": "A shadowed version of the Laconic sans-serif font family",
     "package_name": "woodardworks-laconic-shadow-fonts",
     "version": "001.001-28.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/woodardworks-laconic-shadow-fonts-001.001-28.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/woodardworks-laconic-shadow-fonts/001.001/28.fc40/x86_64/woodardworks-laconic-shadow-fonts-001.001-28.fc40.x86_64.rpm"
   },
   {
     "name": "wordgrinder",
     "desc": "A command line word processor",
     "package_name": "wordgrinder",
     "version": "0.8-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordgrinder-0.8-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordgrinder/0.8/9.fc40/x86_64/wordgrinder-0.8-9.fc40.x86_64.rpm"
   },
   {
     "name": "wordgrinder-x11",
     "desc": "X11 version of WordGrinder",
     "package_name": "wordgrinder-x11",
     "version": "0.8-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordgrinder-x11-0.8-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordgrinder-x11/0.8/9.fc40/x86_64/wordgrinder-x11-0.8-9.fc40.x86_64.rpm"
   },
   {
     "name": "wordnet",
     "desc": "A lexical database for the English language",
     "package_name": "wordnet",
     "version": "3.0-46.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordnet-3.0-46.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordnet/3.0/46.fc40/x86_64/wordnet-3.0-46.fc40.x86_64.rpm"
   },
   {
     "name": "wordnet-browser",
     "desc": "Tk browser for WordNet",
     "package_name": "wordnet-browser",
     "version": "3.0-46.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordnet-browser-3.0-46.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordnet-browser/3.0/46.fc40/x86_64/wordnet-browser-3.0-46.fc40.x86_64.rpm"
   },
   {
     "name": "wordnet-devel",
     "desc": "The development libraries and header files for WordNet",
     "package_name": "wordnet-devel",
     "version": "3.0-46.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordnet-devel-3.0-46.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordnet-devel/3.0/46.fc40/x86_64/wordnet-devel-3.0-46.fc40.x86_64.rpm"
   },
   {
     "name": "wordnet-doc",
     "desc": "Manual pages for WordNet in alternative formats",
     "package_name": "wordnet-doc",
     "version": "3.0-46.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordnet-doc-3.0-46.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordnet-doc/3.0/46.fc40/x86_64/wordnet-doc-3.0-46.fc40.x86_64.rpm"
   },
   {
     "name": "wordpress",
     "desc": "Blog tool and publishing platform",
     "package_name": "wordpress",
     "version": "6.4.3-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordpress-6.4.3-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordpress/6.4.3/1.fc40/x86_64/wordpress-6.4.3-1.fc40.x86_64.rpm"
   },
   {
     "name": "wordpress-plugin-bad-behavior",
     "desc": "Bad Behavior plugin for WordPress",
     "package_name": "wordpress-plugin-bad-behavior",
     "version": "2.2.13-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordpress-plugin-bad-behavior-2.2.13-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordpress-plugin-bad-behavior/2.2.13/20.fc40/x86_64/wordpress-plugin-bad-behavior-2.2.13-20.fc40.x86_64.rpm"
   },
   {
     "name": "words",
     "desc": "Dictionary of English words for the /usr/share/dict directory",
     "package_name": "words",
     "version": "3.0-45.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/words-3.0-45.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/words/3.0/45.fc40/x86_64/words-3.0-45.fc40.x86_64.rpm"
   },
   {
     "name": "wordwarvi",
     "desc": "Side-scrolling shoot 'em up '80s style arcade game",
     "package_name": "wordwarvi",
     "version": "1.1-19.git6beed31.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordwarvi-1.1-19.git6beed31.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordwarvi/1.1/19.git6beed31.fc40/x86_64/wordwarvi-1.1-19.git6beed31.fc40.x86_64.rpm"
   },
   {
     "name": "wordxtr",
     "desc": "Create hunspell dictionary from given plain text input data files",
     "package_name": "wordxtr",
     "version": "2.0.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wordxtr-2.0.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wordxtr/2.0.0/2.fc40/x86_64/wordxtr-2.0.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "worker",
     "desc": "File Manager for the X11",
     "package_name": "worker",
     "version": "4.12.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/worker-4.12.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/worker/4.12.1/3.fc40/x86_64/worker-4.12.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "workflow",
     "desc": "C++ parallel computing and asynchronous networking engine",
     "package_name": "workflow",
     "version": "0.11.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workflow-0.11.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workflow/0.11.1/2.fc40/x86_64/workflow-0.11.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "workflow-devel",
     "desc": "C++ parallel computing and asynchronous networking engine",
     "package_name": "workflow-devel",
     "version": "0.11.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workflow-devel-0.11.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workflow-devel/0.11.1/2.fc40/x86_64/workflow-devel-0.11.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "workflow-docs",
     "desc": "C++ parallel computing and asynchronous networking engine",
     "package_name": "workflow-docs",
     "version": "0.11.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workflow-docs-0.11.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workflow-docs/0.11.1/2.fc40/x86_64/workflow-docs-0.11.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "workrave",
     "desc": "Program that assists in the recovery and prevention of RSI",
     "package_name": "workrave",
     "version": "1.10.52-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workrave-1.10.52-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workrave/1.10.52/3.fc40/x86_64/workrave-1.10.52-3.fc40.x86_64.rpm"
   },
   {
     "name": "workrave-cinnamon",
     "desc": "Workrave applet for Cinnamon desktop",
     "package_name": "workrave-cinnamon",
     "version": "1.10.52-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workrave-cinnamon-1.10.52-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workrave-cinnamon/1.10.52/3.fc40/x86_64/workrave-cinnamon-1.10.52-3.fc40.x86_64.rpm"
   },
   {
     "name": "workrave-gnome",
     "desc": "Workrave applet for GNOME desktop",
     "package_name": "workrave-gnome",
     "version": "1.10.52-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workrave-gnome-1.10.52-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workrave-gnome/1.10.52/3.fc40/x86_64/workrave-gnome-1.10.52-3.fc40.x86_64.rpm"
   },
   {
     "name": "workrave-gnome-flashback",
     "desc": "Workrave applet for GNOME Flashback",
     "package_name": "workrave-gnome-flashback",
     "version": "1.10.52-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workrave-gnome-flashback-1.10.52-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workrave-gnome-flashback/1.10.52/3.fc40/x86_64/workrave-gnome-flashback-1.10.52-3.fc40.x86_64.rpm"
   },
   {
     "name": "workrave-mate",
     "desc": "Workrave applet for MATE",
     "package_name": "workrave-mate",
     "version": "1.10.52-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workrave-mate-1.10.52-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workrave-mate/1.10.52/3.fc40/x86_64/workrave-mate-1.10.52-3.fc40.x86_64.rpm"
   },
   {
     "name": "workrave-xfce",
     "desc": "Workrave applet for Xfce",
     "package_name": "workrave-xfce",
     "version": "1.10.52-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/workrave-xfce-1.10.52-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/workrave-xfce/1.10.52/3.fc40/x86_64/workrave-xfce-1.10.52-3.fc40.x86_64.rpm"
   },
   {
     "name": "worldofpadman",
     "desc": "World Of Padman - Comic 3D-Shooter",
     "package_name": "worldofpadman",
     "version": "1.36-46.svn2102.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/worldofpadman-1.36-46.svn2102.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/worldofpadman/1.36/46.svn2102.fc40/x86_64/worldofpadman-1.36-46.svn2102.fc40.x86_64.rpm"
   },
   {
     "name": "worminator",
     "desc": "Sidescrolling platform and shoot'em up action-game",
     "package_name": "worminator",
     "version": "3.0R2.1-42.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/worminator-3.0R2.1-42.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/worminator/3.0R2.1/42.fc40/x86_64/worminator-3.0R2.1-42.fc40.x86_64.rpm"
   },
   {
     "name": "worminator-data",
     "desc": "Data for worminator the game",
     "package_name": "worminator-data",
     "version": "3.0R2.1-29.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/worminator-data-3.0R2.1-29.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/worminator-data/3.0R2.1/29.fc40/x86_64/worminator-data-3.0R2.1-29.fc40.x86_64.rpm"
   },
   {
     "name": "wp-cli",
     "desc": "The command line interface for WordPress",
     "package_name": "wp-cli",
     "version": "2.4.0-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wp-cli-2.4.0-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wp-cli/2.4.0/11.fc40/x86_64/wp-cli-2.4.0-11.fc40.x86_64.rpm"
   },
   {
     "name": "wpa_supplicant",
     "desc": "WPA/WPA2/IEEE 802.1X Supplicant",
     "package_name": "wpa_supplicant",
     "version": "2.10-10.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wpa_supplicant-2.10-10.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wpa_supplicant/2.10/10.fc40/x86_64/wpa_supplicant-2.10-10.fc40.x86_64.rpm"
   },
   {
     "name": "wpa_supplicant-gui",
     "desc": "Graphical User Interface for wpa_supplicant",
     "package_name": "wpa_supplicant-gui",
     "version": "2.10-10.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wpa_supplicant-gui-2.10-10.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wpa_supplicant-gui/2.10/10.fc40/x86_64/wpa_supplicant-gui-2.10-10.fc40.x86_64.rpm"
   },
   {
     "name": "wpan-tools",
     "desc": "Userspace tools for the Linux IEEE 802.15.4 stack",
     "package_name": "wpan-tools",
     "version": "0.9-12.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wpan-tools-0.9-12.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wpan-tools/0.9/12.fc40/x86_64/wpan-tools-0.9-12.fc40.x86_64.rpm"
   },
   {
     "name": "wpebackend-fdo",
     "desc": "A WPE backend designed for Linux desktop systems",
     "package_name": "wpebackend-fdo",
     "version": "1.14.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wpebackend-fdo-1.14.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wpebackend-fdo/1.14.2/3.fc40/x86_64/wpebackend-fdo-1.14.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "wpebackend-fdo-devel",
     "desc": "Development files for wpebackend-fdo",
     "package_name": "wpebackend-fdo-devel",
     "version": "1.14.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wpebackend-fdo-devel-1.14.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wpebackend-fdo-devel/1.14.2/3.fc40/x86_64/wpebackend-fdo-devel-1.14.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "wqy-bitmap-fonts",
     "desc": "WenQuanYi Bitmap Chinese Fonts",
     "package_name": "wqy-bitmap-fonts",
     "version": "1.0.0-0.26.rc1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wqy-bitmap-fonts-1.0.0-0.26.rc1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wqy-bitmap-fonts/1.0.0/0.26.rc1.fc40/x86_64/wqy-bitmap-fonts-1.0.0-0.26.rc1.fc40.x86_64.rpm"
   },
   {
     "name": "wqy-microhei-fonts",
     "desc": "Compact Chinese fonts derived from Droid",
     "package_name": "wqy-microhei-fonts",
     "version": "0.2.0-0.34.beta.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wqy-microhei-fonts-0.2.0-0.34.beta.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wqy-microhei-fonts/0.2.0/0.34.beta.fc40/x86_64/wqy-microhei-fonts-0.2.0-0.34.beta.fc40.x86_64.rpm"
   },
   {
     "name": "wqy-unibit-fonts",
     "desc": "WenQuanYi Unibit Bitmap Font",
     "package_name": "wqy-unibit-fonts",
     "version": "1.1.0-34.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wqy-unibit-fonts-1.1.0-34.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wqy-unibit-fonts/1.1.0/34.fc40/x86_64/wqy-unibit-fonts-1.1.0-34.fc40.x86_64.rpm"
   },
   {
     "name": "wqy-zenhei-fonts",
     "desc": "WenQuanYi Zen Hei CJK Font",
     "package_name": "wqy-zenhei-fonts",
     "version": "0.9.46-31.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wqy-zenhei-fonts-0.9.46-31.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wqy-zenhei-fonts/0.9.46/31.fc40/x86_64/wqy-zenhei-fonts-0.9.46-31.fc40.x86_64.rpm"
   },
   {
     "name": "writerperfect",
     "desc": "A collection of tools to transform various file formats into ODF",
     "package_name": "writerperfect",
     "version": "0.9.6-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/writerperfect-0.9.6-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/writerperfect/0.9.6/19.fc40/x86_64/writerperfect-0.9.6-19.fc40.x86_64.rpm"
   },
   {
     "name": "writerperfect-abw",
     "desc": "A collection of tools to transform various file formats into AbiWord",
     "package_name": "writerperfect-abw",
     "version": "0.9.6-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/writerperfect-abw-0.9.6-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/writerperfect-abw/0.9.6/19.fc40/x86_64/writerperfect-abw-0.9.6-19.fc40.x86_64.rpm"
   },
   {
     "name": "writerperfect-epub",
     "desc": "A collection of tools to transform various file formats into EPUB",
     "package_name": "writerperfect-epub",
     "version": "0.9.6-19.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/writerperfect-epub-0.9.6-19.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/writerperfect-epub/0.9.6/19.fc40/x86_64/writerperfect-epub-0.9.6-19.fc40.x86_64.rpm"
   },
   {
     "name": "wrp",
     "desc": "Web Rendering Proxy to use legacy browsers on the modern web",
     "package_name": "wrp",
     "version": "4.6.0-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wrp-4.6.0-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wrp/4.6.0/2.fc40/x86_64/wrp-4.6.0-2.fc40.x86_64.rpm"
   },
   {
     "name": "ws-commons-util",
     "desc": "Common utilities from the Apache Web Services Project",
     "package_name": "ws-commons-util",
     "version": "1.0.2-24.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/ws-commons-util-1.0.2-24.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ws-commons-util/1.0.2/24.fc40/x86_64/ws-commons-util-1.0.2-24.fc40.x86_64.rpm"
   },
   {
     "name": "ws-commons-util-javadoc",
     "desc": "Javadoc for ws-commons-util",
     "package_name": "ws-commons-util-javadoc",
     "version": "1.0.2-24.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/ws-commons-util-javadoc-1.0.2-24.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/ws-commons-util-javadoc/1.0.2/24.fc40/x86_64/ws-commons-util-javadoc-1.0.2-24.fc40.x86_64.rpm"
   },
   {
     "name": "wsdd",
     "desc": "Web Services Dynamic Discovery host daemon",
     "package_name": "wsdd",
     "version": "0.7.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsdd-0.7.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsdd/0.7.1/2.fc40/x86_64/wsdd-0.7.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "wsdl4j",
     "desc": "Web Services Description Language Toolkit for Java",
     "package_name": "wsdl4j",
     "version": "1.6.3-30.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsdl4j-1.6.3-30.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsdl4j/1.6.3/30.fc40/x86_64/wsdl4j-1.6.3-30.fc40.x86_64.rpm"
   },
   {
     "name": "wsdl4j-javadoc",
     "desc": "Javadoc for wsdl4j",
     "package_name": "wsdl4j-javadoc",
     "version": "1.6.3-30.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsdl4j-javadoc-1.6.3-30.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsdl4j-javadoc/1.6.3/30.fc40/x86_64/wsdl4j-javadoc-1.6.3-30.fc40.x86_64.rpm"
   },
   {
     "name": "wsdlpull",
     "desc": "C++ Web Services client library",
     "package_name": "wsdlpull",
     "version": "1.23-30.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsdlpull-1.23-30.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsdlpull/1.23/30.fc40/x86_64/wsdlpull-1.23-30.fc40.x86_64.rpm"
   },
   {
     "name": "wsdlpull-devel",
     "desc": "Header files, libraries and development documentation for wsdlpull",
     "package_name": "wsdlpull-devel",
     "version": "1.23-30.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsdlpull-devel-1.23-30.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsdlpull-devel/1.23/30.fc40/x86_64/wsdlpull-devel-1.23-30.fc40.x86_64.rpm"
   },
   {
     "name": "wsdlpull-doc",
     "desc": "HTML documentation for the wsdlpull library",
     "package_name": "wsdlpull-doc",
     "version": "1.23-30.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsdlpull-doc-1.23-30.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsdlpull-doc/1.23/30.fc40/x86_64/wsdlpull-doc-1.23-30.fc40.x86_64.rpm"
   },
   {
     "name": "wshowkeys",
     "desc": "Displays key presses on screen on supported Wayland compositors",
     "package_name": "wshowkeys",
     "version": "0-11.20200727gite8bfc78.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wshowkeys-0-11.20200727gite8bfc78.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wshowkeys/0/11.20200727gite8bfc78.fc40/x86_64/wshowkeys-0-11.20200727gite8bfc78.fc40.x86_64.rpm"
   },
   {
     "name": "wsjtx",
     "desc": "Weak Signal communication by K1JT",
     "package_name": "wsjtx",
     "version": "2.7.0-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsjtx-2.7.0-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsjtx/2.7.0/3.fc40/x86_64/wsjtx-2.7.0-3.fc40.x86_64.rpm"
   },
   {
     "name": "wslay",
     "desc": "Lightweight WebSocket library in C",
     "package_name": "wslay",
     "version": "1.1.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wslay-1.1.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wslay/1.1.1/3.fc40/x86_64/wslay-1.1.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "wslay-devel",
     "desc": "Development headers and library for Wslay",
     "package_name": "wslay-devel",
     "version": "1.1.1-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wslay-devel-1.1.1-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wslay-devel/1.1.1/3.fc40/x86_64/wslay-devel-1.1.1-3.fc40.x86_64.rpm"
   },
   {
     "name": "wsmancli",
     "desc": "WS-Management-Command line Interface",
     "package_name": "wsmancli",
     "version": "2.6.2-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wsmancli-2.6.2-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wsmancli/2.6.2/3.fc40/x86_64/wsmancli-2.6.2-3.fc40.x86_64.rpm"
   },
   {
     "name": "wtype",
     "desc": "xdotool type for Wayland",
     "package_name": "wtype",
     "version": "0.4-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wtype-0.4-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wtype/0.4/7.fc40/x86_64/wtype-0.4-7.fc40.x86_64.rpm"
   },
   {
     "name": "wult",
     "desc": "A tool for measuring C-state latency in Linux",
     "package_name": "wult",
     "version": "1.12.14-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wult-1.12.14-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wult/1.12.14/2.fc40/x86_64/wult-1.12.14-2.fc40.x86_64.rpm"
   },
   {
     "name": "wv",
     "desc": "MSWord 6/7/8/9 binary file format to HTML converter",
     "package_name": "wv",
     "version": "1.2.9-29.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wv-1.2.9-29.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wv/1.2.9/29.fc40/x86_64/wv-1.2.9-29.fc40.x86_64.rpm"
   },
   {
     "name": "wv-devel",
     "desc": "MSWord format converter - development files",
     "package_name": "wv-devel",
     "version": "1.2.9-29.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wv-devel-1.2.9-29.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wv-devel/1.2.9/29.fc40/x86_64/wv-devel-1.2.9-29.fc40.x86_64.rpm"
   },
   {
     "name": "wvdial",
     "desc": "A heuristic autodialer for PPP connections",
     "package_name": "wvdial",
     "version": "1.61-32.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wvdial-1.61-32.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wvdial/1.61/32.fc40/x86_64/wvdial-1.61-32.fc40.x86_64.rpm"
   },
   {
     "name": "wvs-data",
     "desc": "World Vector Shoreline data",
     "package_name": "wvs-data",
     "version": "0.0.20020219-29.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wvs-data-0.0.20020219-29.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wvs-data/0.0.20020219/29.fc40/x86_64/wvs-data-0.0.20020219-29.fc40.x86_64.rpm"
   },
   {
     "name": "wwl",
     "desc": "Calculates distance and azimuth between two Maidenhead locators",
     "package_name": "wwl",
     "version": "1.3-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wwl-1.3-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wwl/1.3/9.fc40/x86_64/wwl-1.3-9.fc40.x86_64.rpm"
   },
   {
     "name": "wxapt",
     "desc": "Console application for decoding and saving weather images",
     "package_name": "wxapt",
     "version": "1.7.1-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxapt-1.7.1-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxapt/1.7.1/11.fc40/x86_64/wxapt-1.7.1-11.fc40.x86_64.rpm"
   },
   {
     "name": "wxBase",
     "desc": "Non-GUI support classes from the wxWidgets library",
     "package_name": "wxBase",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxBase-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxBase/3.2.4/5.fc40/x86_64/wxBase-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxBase-devel",
     "desc": "Development files for the wxBase3 library",
     "package_name": "wxBase-devel",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxBase-devel-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxBase-devel/3.2.4/5.fc40/x86_64/wxBase-devel-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGlade",
     "desc": "A wxWidgets/wxPython/wxPerl GUI designer",
     "package_name": "wxGlade",
     "version": "1.0.5-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGlade-1.0.5-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGlade/1.0.5/5.fc40/x86_64/wxGlade-1.0.5-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK",
     "desc": "GTK port of the wxWidgets GUI library",
     "package_name": "wxGTK",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK/3.2.4/5.fc40/x86_64/wxGTK-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK-devel",
     "desc": "Development files for the wxGTK library",
     "package_name": "wxGTK-devel",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-devel-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK-devel/3.2.4/5.fc40/x86_64/wxGTK-devel-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK-docs",
     "desc": "Documentation for the wxGTK library",
     "package_name": "wxGTK-docs",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-docs-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK-docs/3.2.4/5.fc40/x86_64/wxGTK-docs-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK-gl",
     "desc": "OpenGL add-on for the wxWidgets library",
     "package_name": "wxGTK-gl",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-gl-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK-gl/3.2.4/5.fc40/x86_64/wxGTK-gl-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK-i18n",
     "desc": "i18n message catalogs for the wxWidgets library",
     "package_name": "wxGTK-i18n",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-i18n-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK-i18n/3.2.4/5.fc40/x86_64/wxGTK-i18n-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK-media",
     "desc": "Multimedia add-on for the wxWidgets library",
     "package_name": "wxGTK-media",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-media-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK-media/3.2.4/5.fc40/x86_64/wxGTK-media-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxGTK-webview",
     "desc": "WebView add-on for the wxWidgets library",
     "package_name": "wxGTK-webview",
     "version": "3.2.4-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxGTK-webview-3.2.4-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxGTK-webview/3.2.4/5.fc40/x86_64/wxGTK-webview-3.2.4-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxiax",
     "desc": "wx IAX Phone Client",
     "package_name": "wxiax",
     "version": "2.1-0.48.beta3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxiax-2.1-0.48.beta3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxiax/2.1/0.48.beta3.fc40/x86_64/wxiax-2.1-0.48.beta3.fc40.x86_64.rpm"
   },
   {
     "name": "wxmacmolplt",
     "desc": "A graphics program for plotting 3-D molecular structures and normal modes",
     "package_name": "wxmacmolplt",
     "version": "7.7.3-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxmacmolplt-7.7.3-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxmacmolplt/7.7.3/2.fc40/x86_64/wxmacmolplt-7.7.3-2.fc40.x86_64.rpm"
   },
   {
     "name": "wxMaxima",
     "desc": "Graphical user interface for Maxima",
     "package_name": "wxMaxima",
     "version": "24.02.1-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxMaxima-24.02.1-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxMaxima/24.02.1/1.fc40/x86_64/wxMaxima-24.02.1-1.fc40.x86_64.rpm"
   },
   {
     "name": "wxmedit",
     "desc": "a Cross-platform Text/Hex Editor, an improved version of MadEdit",
     "package_name": "wxmedit",
     "version": "3.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxmedit-3.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxmedit/3.2/1.fc40/x86_64/wxmedit-3.2-1.fc40.x86_64.rpm"
   },
   {
     "name": "wxsqlite3",
     "desc": "C++ wrapper around the SQLite 3.x database",
     "package_name": "wxsqlite3",
     "version": "4.8.2-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxsqlite3-4.8.2-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxsqlite3/4.8.2/9.fc40/x86_64/wxsqlite3-4.8.2-9.fc40.x86_64.rpm"
   },
   {
     "name": "wxsqlite3-devel",
     "desc": "Development files for wxsqlite3",
     "package_name": "wxsqlite3-devel",
     "version": "4.8.2-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxsqlite3-devel-4.8.2-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxsqlite3-devel/4.8.2/9.fc40/x86_64/wxsqlite3-devel-4.8.2-9.fc40.x86_64.rpm"
   },
   {
     "name": "wxsqlite3-doc",
     "desc": "Documentation files for wxsqlite3",
     "package_name": "wxsqlite3-doc",
     "version": "4.8.2-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxsqlite3-doc-4.8.2-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxsqlite3-doc/4.8.2/9.fc40/x86_64/wxsqlite3-doc-4.8.2-9.fc40.x86_64.rpm"
   },
   {
     "name": "wxsvg",
     "desc": "C++ library to create, manipulate and render SVG files",
     "package_name": "wxsvg",
     "version": "1.5.24-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxsvg-1.5.24-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxsvg/1.5.24/5.fc40/x86_64/wxsvg-1.5.24-5.fc40.x86_64.rpm"
   },
   {
     "name": "wxsvg-devel",
     "desc": "Development files for the wxSVG library",
     "package_name": "wxsvg-devel",
     "version": "1.5.24-5.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/wxsvg-devel-1.5.24-5.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/wxsvg-devel/1.5.24/5.fc40/x86_64/wxsvg-devel-1.5.24-5.fc40.x86_64.rpm"
   }
 ]

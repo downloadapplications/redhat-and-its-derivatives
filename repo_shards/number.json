@@ -4,188 +4,188 @@
     "desc": "Cross-Platform RTS Game of Ancient Warfare",
     "package_name": "0ad",
     "version": "0.0.26-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/0ad-0.0.26-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/0ad/0.0.26/21.fc40/x86_64/0ad-0.0.26-21.fc40.x86_64.rpm"
   },
   {
     "name": "0ad-data",
     "desc": "The Data Files for 0 AD",
     "package_name": "0ad-data",
     "version": "0.0.26-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/0ad-data-0.0.26-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/0ad-data/0.0.26/7.fc40/x86_64/0ad-data-0.0.26-7.fc40.x86_64.rpm"
   },
   {
     "name": "0xFFFF",
     "desc": "The Open Free Fiasco Firmware Flasher",
     "package_name": "0xFFFF",
     "version": "0.10-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/0xFFFF-0.10-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/0xFFFF/0.10/7.fc40/x86_64/0xFFFF-0.10-7.fc40.x86_64.rpm"
   },
   {
     "name": "2048-cli",
     "desc": "The game 2048 for your Linux terminal",
     "package_name": "2048-cli",
     "version": "0.9.1-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/2048-cli-0.9.1-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/2048-cli/0.9.1/20.fc40/x86_64/2048-cli-0.9.1-20.fc40.x86_64.rpm"
   },
   {
     "name": "2048-cli-nocurses",
     "desc": "The game 2048 for your Linux terminal (non-ncurses)",
     "package_name": "2048-cli-nocurses",
     "version": "0.9.1-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/2048-cli-nocurses-0.9.1-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/2048-cli-nocurses/0.9.1/20.fc40/x86_64/2048-cli-nocurses-0.9.1-20.fc40.x86_64.rpm"
   },
   {
     "name": "2048-cli-sdl",
     "desc": "The game 2048 for your Linux terminal (SDL)",
     "package_name": "2048-cli-sdl",
     "version": "0.9.1-20.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/2048-cli-sdl-0.9.1-20.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/2048-cli-sdl/0.9.1/20.fc40/x86_64/2048-cli-sdl-0.9.1-20.fc40.x86_64.rpm"
   },
   {
     "name": "2ping",
     "desc": "Bi-directional ping utility",
     "package_name": "2ping",
     "version": "4.5.1-11.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/2ping-4.5.1-11.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/2ping/4.5.1/11.fc40/x86_64/2ping-4.5.1-11.fc40.x86_64.rpm"
   },
   {
     "name": "389-ds-base",
     "desc": "389 Directory Server (base)",
     "package_name": "389-ds-base",
     "version": "3.0.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/389-ds-base-3.0.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/389-ds-base/3.0.1/2.fc40/x86_64/389-ds-base-3.0.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "389-ds-base-devel",
     "desc": "Development libraries for 389 Directory Server",
     "package_name": "389-ds-base-devel",
     "version": "3.0.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/389-ds-base-devel-3.0.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/389-ds-base-devel/3.0.1/2.fc40/x86_64/389-ds-base-devel-3.0.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "389-ds-base-libs",
     "desc": "Core libraries for 389 Directory Server",
     "package_name": "389-ds-base-libs",
     "version": "3.0.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/389-ds-base-libs-3.0.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/389-ds-base-libs/3.0.1/2.fc40/x86_64/389-ds-base-libs-3.0.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "389-ds-base-snmp",
     "desc": "SNMP Agent for 389 Directory Server",
     "package_name": "389-ds-base-snmp",
     "version": "3.0.1-2.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/389-ds-base-snmp-3.0.1-2.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/389-ds-base-snmp/3.0.1/2.fc40/x86_64/389-ds-base-snmp-3.0.1-2.fc40.x86_64.rpm"
   },
   {
     "name": "3Depict",
     "desc": "Valued 3D point cloud visualization and analysis",
     "package_name": "3Depict",
     "version": "0.0.22-22.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/3Depict-0.0.22-22.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/3Depict/0.0.22/22.fc40/x86_64/3Depict-0.0.22-22.fc40.x86_64.rpm"
   },
   {
     "name": "3dprinter-udev-rules",
     "desc": "Rules for udev to give regular users access to operate 3D printers",
     "package_name": "3dprinter-udev-rules",
     "version": "0.3-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/3dprinter-udev-rules-0.3-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/3dprinter-udev-rules/0.3/7.fc40/x86_64/3dprinter-udev-rules-0.3-7.fc40.x86_64.rpm"
   },
   {
     "name": "3mux",
     "desc": "Terminal multiplexer inspired by i3",
     "package_name": "3mux",
     "version": "1.1.0-13.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/3mux-1.1.0-13.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/3mux/1.1.0/13.fc40/x86_64/3mux-1.1.0-13.fc40.x86_64.rpm"
   },
   {
     "name": "3proxy",
     "desc": "Tiny but very powerful proxy",
     "package_name": "3proxy",
     "version": "0.9.4-3.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/3proxy-0.9.4-3.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/3proxy/0.9.4/3.fc40/x86_64/3proxy-0.9.4-3.fc40.x86_64.rpm"
   },
   {
     "name": "4diac-forte",
     "desc": "IEC 61499 runtime environment",
     "package_name": "4diac-forte",
     "version": "2.0.1-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4diac-forte-2.0.1-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4diac-forte/2.0.1/8.fc40/x86_64/4diac-forte-2.0.1-8.fc40.x86_64.rpm"
   },
   {
     "name": "4Pane",
     "desc": "Multi-pane, detailed-list file manager",
     "package_name": "4Pane",
     "version": "8.0-8.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4Pane-8.0-8.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4Pane/8.0/8.fc40/x86_64/4Pane-8.0-8.fc40.x86_64.rpm"
   },
   {
     "name": "4th",
     "desc": "A Forth compiler",
     "package_name": "4th",
     "version": "3.62.5-16.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4th-3.62.5-16.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4th/3.62.5/16.fc40/x86_64/4th-3.62.5-16.fc40.x86_64.rpm"
   },
   {
     "name": "4th-devel",
     "desc": "Development files for 4th",
     "package_name": "4th-devel",
     "version": "3.62.5-16.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4th-devel-3.62.5-16.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4th-devel/3.62.5/16.fc40/x86_64/4th-devel-3.62.5-16.fc40.x86_64.rpm"
   },
   {
     "name": "4ti2",
     "desc": "Algebraic, geometric and combinatorial problems on linear spaces",
     "package_name": "4ti2",
     "version": "1.6.10-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4ti2-1.6.10-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4ti2/1.6.10/9.fc40/x86_64/4ti2-1.6.10-9.fc40.x86_64.rpm"
   },
   {
     "name": "4ti2-devel",
     "desc": "Headers needed to develop software that uses 4ti2",
     "package_name": "4ti2-devel",
     "version": "1.6.10-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4ti2-devel-1.6.10-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4ti2-devel/1.6.10/9.fc40/x86_64/4ti2-devel-1.6.10-9.fc40.x86_64.rpm"
   },
   {
     "name": "4ti2-libs",
     "desc": "Library for problems on linear spaces",
     "package_name": "4ti2-libs",
     "version": "1.6.10-9.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/4ti2-libs-1.6.10-9.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/4ti2-libs/1.6.10/9.fc40/x86_64/4ti2-libs-1.6.10-9.fc40.x86_64.rpm"
   },
   {
     "name": "64tass",
     "desc": "6502 assembler",
     "package_name": "64tass",
     "version": "1.59.3120-6.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/64tass-1.59.3120-6.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/64tass/1.59.3120/6.fc40/x86_64/64tass-1.59.3120-6.fc40.x86_64.rpm"
   },
   {
     "name": "6tunnel",
     "desc": "Tunnelling for application that don't speak IPv6",
     "package_name": "6tunnel",
     "version": "0.13-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/6tunnel-0.13-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/6tunnel/0.13/7.fc40/x86_64/6tunnel-0.13-7.fc40.x86_64.rpm"
   },
   {
     "name": "8088_bios",
     "desc": "BIOS for Intel 8088 based computers",
     "package_name": "8088_bios",
     "version": "0.9.9-7.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/8088_bios-0.9.9-7.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/8088_bios/0.9.9/7.fc40/x86_64/8088_bios-0.9.9-7.fc40.x86_64.rpm"
   },
   {
     "name": "90-Second-Portraits",
     "desc": "Frantic street painting game",
     "package_name": "90-Second-Portraits",
     "version": "1.01b-21.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/90-Second-Portraits-1.01b-21.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/90-Second-Portraits/1.01b/21.fc40/x86_64/90-Second-Portraits-1.01b-21.fc40.x86_64.rpm"
   },
   {
     "name": "9wm",
     "desc": "Emulation of the Plan 9 window manager 8 1/2",
     "package_name": "9wm",
     "version": "1.4.2-1.fc40",
-    "download_url": "https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/9wm-1.4.2-1.fc40.x86_64.rpm"
+    "download_url": "https://kojipkgs.fedoraproject.org/packages/9wm/1.4.2/1.fc40/x86_64/9wm-1.4.2-1.fc40.x86_64.rpm"
   }
 ]
