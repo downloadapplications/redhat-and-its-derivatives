@@ -25,8 +25,8 @@ jobs:
           dnf makecache
           
           echo "🔨 Querying complete un-sliced repository metadata..."
-          # Splitting %{version} and %{release} into clear, independent fields to prevent 404 URL truncation bugs
-          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "ver": "%{version}", "rel": "%{release}"}' > raw_list.json
+          # Fetch package name, epoch, version, release, and architecture
+          dnf repoquery --repo=fedora --available --qf '{"name": "%{name}", "desc": "%{summary}", "package_name": "%{name}", "ver": "%{version}", "rel": "%{release}", "epoch": "%{epoch}"}' > raw_list.json
           
           echo "📝 Creating localized Python engine script..."
           cat << 'EOF' > parse_repo.py
@@ -51,10 +51,11 @@ jobs:
                       desc = pkg.get("desc", "")
                       ver = pkg.get("ver", "")
                       rel = pkg.get("rel", "")
+                      epoch = pkg.get("epoch", "0")
                       
                       if not name or not desc: 
                           continue
-                      if "-debug" in name or "-static" in name: 
+                      if "-debug" in name or "-static" in name or name.endswith("-debuginfo"): 
                           continue
                       
                       pkg_key = f"{name}-{ver}-{rel}"
@@ -68,19 +69,21 @@ jobs:
                       
                       if first_char.isdigit():
                           first_char = "number"
-                          folder = "n"
-                      else:
-                          folder = first_char
-                          
-                      # Absolute verified URL construction mapping structure for download-ib01 mirror node
-                      url = f"https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/40/Everything/x86_64/os/Packages/{folder}/{name}-{ver}-{rel}.x86_64.rpm"
+                      
+                      # Clean up epoch format if present
+                      epoch_prefix = f"{epoch}:" if epoch and epoch != "0" else ""
+                      
+                      # BULLETPROOF KOJI ARCHIVE LINK CONSTRUCTION
+                      # Koji hosts every built package permanently using a strict, un-scrubbed folder structure:
+                      # packages/NAME/VERSION/RELEASE/arch/NAME-VERSION-RELEASE.arch.rpm
+                      koji_url = f"https://kojipkgs.fedoraproject.org/packages/{name}/{ver}/{rel}/x86_64/{name}-{ver}-{rel}.x86_64.rpm"
                       
                       shards[first_char].append({
                           "name": name,
                           "desc": desc,
                           "package_name": name,
                           "version": f"{ver}-{rel}",
-                          "download_url": url
+                          "download_url": koji_url
                       })
                   except Exception:
                       continue
@@ -99,7 +102,7 @@ jobs:
           with open("repo_shards/manifest.json", "w") as out:
               json.dump({"total_packages": total_count, "groups": summary_manifest}, out, indent=2)
 
-          print(f"✅ Sharding successful. Total records: {total_count}")
+          print(f"✅ Sharding successful. Total permanent records mapped: {total_count}")
           EOF
 
           echo "🐍 Running Python Sharding Partition Matrix..."
@@ -111,4 +114,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add repo_shards/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Total Fedora Repository Mirror Refreshed" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Sync: Koji Permanent Archive Links Generated" && git push)
